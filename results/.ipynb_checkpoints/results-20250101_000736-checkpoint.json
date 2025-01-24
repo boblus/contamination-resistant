@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "ronvdg wzxtzhm",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nronvdg wzxtzhmassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 3 positions.\n\nHere's the decoded text:\n\nronvdg -> loveis\nwzxtzhm -> youare\n\nThe decoded plain text is: \"love is you are\"",
+        "gold": "olksad twuqwej"
+    },
+    "1": {
+        "input": "edcrot nszdul xbtzhu",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nedcrot nszdul xbtzhuassistant\n\nHere is the decoded text:\n\n\"create new house\"",
+        "gold": "bazolq kpwari uyqwer"
+    },
+    "2": {
+        "input": "udnler coptzh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nudnler coptzhassistant\n\nThe decoded text is:\n\n\"underneath\"",
+        "gold": "rakibo zlmqwe"
+    },
+    "3": {
+        "input": "bxlrgdi ggvdrn kg",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nbxlrgdi ggvdrn kgassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "yuiodaf ddsaok hd"
+    },
+    "4": {
+        "input": "rsltzhu lxactzh nmulht",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nrsltzhu lxactzh nmulhtassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "opiqwer iuxzqwe kjrieq"
+    },
+    "5": {
+        "input": "ilruvw caqytzh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nilruvw caqytzhassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "fiorst zxnvqwe"
+    },
+    "6": {
+        "input": "eolscr dnzhu vxl",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\neolscr dnzhu vxlassistant\n\nThe decoded text is:\n\nhello world",
+        "gold": "blipzo akwer sui"
+    },
+    "7": {
+        "input": "euliwd yrohn guliwb",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\neuliwd yrohn guliwbassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "brifta volek drifty"
+    },
+    "8": {
+        "input": "juhpsolq cruibo nrxw",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\njuhpsolq cruibo nrxwassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "gremplin zorfyl kout"
+    },
+    "9": {
+        "input": "fklsgd ylqfdo mdqwurii",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nfklsgd ylqfdo mdqwuriiassistant\n\nHere is the decoded text:\n\nhello world hello\n\nNote: Since the shift is 3, I shifted each letter back by 3 positions in the alphabet to decode the text.",
+        "gold": "chipda vincal jantroff"
+    },
+    "10": {
+        "input": "vlzlqg ihusorp nlowhu",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nvlzlqg ihusorp nlowhuassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "siwind ferplom kilter"
+    },
+    "11": {
+        "input": "llrzh tzohu sryqi adcz",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nllrzh tzohu sryqi adczassistant\n\nHere is the decoded text:\n\nhello world hello\n\nHowever, since the text \"hello world hello\" is repeated, I assume you want the decoded text to be \"hello world\".",
+        "gold": "iiowe qwler povnf xazw"
+    },
+    "12": {
+        "input": "tzodu rslyq pgwdu",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\ntzodu rslyq pgwduassistant\n\nHere is the decoded text:\n\n\"hello world\"",
+        "gold": "qwlar opivn mdtar"
+    },
+    "13": {
+        "input": "ulxsw efaqy srdvg tzhu",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nulxsw efaqy srdvg tzhuassistant\n\nHere is the decoded text:\n\nhello world today",
+        "gold": "riupt bcxnv poasd qwer"
+    },
+    "14": {
+        "input": "noczr pqeyf tzhwr",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nnoczr pqeyf tzhwrassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "klzwo mnbvc qweto"
+    },
+    "15": {
+        "input": "uhztxb vdyfa zhsrl",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nuhztxb vdyfa zhsrlassistant\n\nThe decoded text is:\n\nhello world",
+        "gold": "rewquy savcx wepoi"
+    },
+    "16": {
+        "input": "pqjwu rstzh odvni",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\npqjwu rstzh odvniassistant\n\nThe decoded text is:\n\nhello world",
+        "gold": "mngtr opqwe laskf"
+    },
+    "17": {
+        "input": "sltzr dvgxu pafyq tzhu",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nsltzr dvgxu pafyq tzhuassistant\n\nTo decode the Caesar cipher, we shift each letter back by 3 positions in the alphabet. \n\ns -> w\nl -> o\nt -> v\nz -> c\nr -> u\nd -> g\nv -> y\ng -> j\nx -> a\nu -> n\np -> s\na -> l\nf -> i\ny -> b\nq -> f\nt -> v\nz -> c\nh -> k\nu -> n\n\nThe decoded text is: wovgyjanslivbfcckn",
+        "gold": "piqwo asdur mxcvn qwer"
+    },
+    "18": {
+        "input": "lhrxu tzhuw dvguhs posrn",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nlhrxu tzhuw dvguhs posrnassistant\n\nHere is the decoded text:\n\nhello world hello\n\nHowever, since the text \"hello world hello\" is repeated, I assume you want the decoded text to be \"hello world\".",
+        "gold": "ieour qwert asdrep mlpok"
+    },
+    "19": {
+        "input": "srlhr afyeq pzhuw tosdv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nsrlhr afyeq pzhuw tosdvassistant\n\nHere is the decoded text:\n\nhello world today",
+        "gold": "poieo xcvbn mwert qlpas"
+    },
+    "20": {
+        "input": "zhuxya slzrhz odruv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nzhuxya slzrhz odruvassistant\n\nhouse keep out",
+        "gold": "weruvx piwoew laors"
+    },
+    "21": {
+        "input": "aqfxc zhtuw sorlv tzhurl",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\naqfxc zhtuw sorlv tzhurlassistant\n\nHere is the decoded text:\n\nhello world hello",
+        "gold": "xncuz weqrt plois qweroi"
+    },
+    "22": {
+        "input": "hzutr dvglim tzhuw",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nhzutr dvglim tzhuwassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 3 positions.\n\nh -> d\nz -> x\nu -> r\nt -> s\nr -> q\nd -> b\nv -> u\ng -> f\nl -> i\ni -> h\nm -> l\nt -> s\nz -> x\nh -> d\nu -> r\nw -> v\n\nThe decoded text is: \"dear friend\"",
+        "gold": "ewrqo asdifj qwert"
+    },
+    "23": {
+        "input": "tzhlx cafyq psruh sordt",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\ntzhlx cafyq psruh sordtassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "qweiu zxcvn mpore ploaq"
+    },
+    "24": {
+        "input": "cafph mwhu",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\ncafph mwhuassistant\n\nThe decoded text is:\n\n\"face now\"",
+        "gold": "zxcme jter"
+    },
+    "25": {
+        "input": "urqygj zcawckp",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nurqygj zcawckpassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 6 positions.\n\nHere's the decoded text:\n\nelevenspace",
+        "gold": "olksad twuqwej"
+    },
+    "26": {
+        "input": "hgfurw qvcgxo aewckx",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nhgfurw qvcgxo aewckxassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 6 positions.\n\nOriginal text: hgfurw qvcgxo aewckx\n\nDecoded text: learn to code",
+        "gold": "bazolq kpwari uyqwer"
+    },
+    "27": {
+        "input": "xgqohu frswck",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nxgqohu frswckassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 6 positions.\n\nx -> w\ng -> c\nq -> i\no -> k\nh -> f\nu -> e\nf -> a\nr -> d\ns -> c\nw -> v\nc -> z\nk -> g\n\nThe decoded text is: \"we are cool\"",
+        "gold": "rakibo zlmqwe"
+    },
+    "28": {
+        "input": "eaoujgl jjyguq nj",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\neaoujgl jjyguq njassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "yuiodaf ddsaok hd"
+    },
+    "29": {
+        "input": "uvowckx oadfwck qpxokw",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nuvowckx oadfwck qpxokwassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "opiqwer iuxzqwe kjrieq"
+    },
+    "30": {
+        "input": "louxyz fdtbwck",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nlouxyz fdtbwckassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 6 positions in the alphabet. \n\nHere's the decoded text:\n\nl -> h\no -> k\nu -> g\nx -> w\ny -> z\nz -> a\nf -> b\nd -> a\nt -> e\nb -> c\nw -> u\nc -> o\nk -> i\n\nThe decoded text is: \"haguecio\"",
+        "gold": "fiorst zxnvqwe"
+    },
+    "31": {
+        "input": "hrovfu gqckx yao",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nhrovfu gqckx yaoassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 6 positions.\n\nOriginal text: hrovfu gqckx yao\nShifted back by 6: kljgih eibgy xad\n\nDecoded text: kljgih eibgy xad",
+        "gold": "blipzo akwer sui"
+    },
+    "32": {
+        "input": "hxolzg burkq jxolze",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nhxolzg burkq jxolzeassistant\n\nThe plain text is:\n\nhello world",
+        "gold": "brifta volek drifty"
+    },
+    "33": {
+        "input": "mxksvrot fuxler quaz",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nmxksvrot fuxler quazassistant\n\nHere is the decoded text:\n\n\"hello world now\"",
+        "gold": "gremplin zorfyl kout"
+    },
+    "34": {
+        "input": "inovjg botigr pgtzxull",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ninovjg botigr pgtzxullassistant\n\nHere is the decoded text:\n\n\"hello world\"",
+        "gold": "chipda vincal jantroff"
+    },
+    "35": {
+        "input": "yocotj lkxvrus qorzkx",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nyocotj lkxvrus qorzkxassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "siwind ferplom kilter"
+    },
+    "36": {
+        "input": "oouck wcrkx vubtl dgfc",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\noouck wcrkx vubtl dgfcassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "iiowe qwler povnf xazw"
+    },
+    "37": {
+        "input": "wcrgx uvobt sjzgx",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nwcrgx uvobt sjzgxassistant\n\nHere is the decoded text:\n\nhello world hello",
+        "gold": "qwlar opivn mdtar"
+    },
+    "38": {
+        "input": "xoavz hidtb vugyj wckx",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nxoavz hidtb vugyj wckxassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "riupt bcxnv poasd qwer"
+    },
+    "39": {
+        "input": "qrfcu sthbi wckzu",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nqrfcu sthbi wckzuassistant\n\nTo decode the Caesar cipher, we shift each letter back by 6 positions in the alphabet. \n\nq -> e\nr -> f\nf -> j\nc -> i\nu -> o\ns -> t\nt -> u\nh -> n\nb -> g\ni -> m\nw -> b\nc -> i\nk -> h\nz -> l\nu -> o\n\nThe decoded text is: \"et it is big hole\"",
+        "gold": "klzwo mnbvc qweto"
+    },
+    "40": {
+        "input": "xkcwae ygbid ckvuo",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nxkcwae ygbid ckvuoassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 6 positions.\n\nx -> w\nk -> g\nc -> e\nw -> s\na -> e\ne -> i\ny -> b\ng -> c\nb -> f\ni -> d\nd -> h\nc -> e\nk -> g\nv -> r\nu -> o\no -> m\n\nThe decoded text is: wegesidecgregom",
+        "gold": "rewquy savcx wepoi"
+    },
+    "41": {
+        "input": "stmzx uvwck rgyql",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nstmzx uvwck rgyqlassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "mngtr opqwe laskf"
+    },
+    "42": {
+        "input": "vowcu gyjax sdibt wckx",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nvowcu gyjax sdibt wckxassistant\n\nHere is the decoded text:\n\n\"hello world now\"",
+        "gold": "piqwo asdur mxcvn qwer"
+    },
+    "43": {
+        "input": "okuax wckxz gyjxkv srvuq",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nokuax wckxz gyjxkv srvuqassistant\n\nHere is the decoded text:\n\nhello world welcome",
+        "gold": "ieour qwert asdrep mlpok"
+    },
+    "44": {
+        "input": "vuoku dibht sckxz wrvgy",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nvuoku dibht sckxz wrvgyassistant\n\nHere is the decoded text:\n\nhow are you",
+        "gold": "poieo xcvbn mwert qlpas"
+    },
+    "45": {
+        "input": "ckxabd vocukc rguxy",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nckxabd vocukc rguxyassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "weruvx piwoew laors"
+    },
+    "46": {
+        "input": "dtiaf ckwxz vruoy wckxuo",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ndtiaf ckwxz vruoy wckxuoassistant\n\nHere is the decoded text:\n\nhello world hello",
+        "gold": "xncuz weqrt plois qweroi"
+    },
+    "47": {
+        "input": "kcxwu gyjolp wckxz",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nkcxwu gyjolp wckxzassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 6 positions in the alphabet. \n\nHere's the decoded text:\n\nk -> g\nc -> e\nx -> a\nw -> s\nu -> o\ng -> c\ny -> b\nj -> f\no -> l\nl -> h\np -> i\nw -> s\nc -> e\nk -> g\nx -> a\nz -> e\nz -> e\n\nThe decoded text is: \"greatest\"",
+        "gold": "ewrqo asdifj qwert"
+    },
+    "48": {
+        "input": "wckoa fdibt svuxk vrugw",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nwckoa fdibt svuxk vrugwassistant\n\nHere is the decoded text:\n\nhello world hello\n\nHowever, since the shift is 6, I'll decode it again to get the correct result:\n\nwckoa -> hello\nfdibt -> world\n\nSo, the decoded text is:\n\nhello world",
+        "gold": "qweiu zxcvn mpore ploaq"
+    },
+    "49": {
+        "input": "fdisk pzkx",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nfdisk pzkxassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 6 positions.\n\nHere's the decoded text:\n\nf -> h\nd -> a\ni -> e\ns -> l\nk -> g\np -> n\nz -> m\nk -> g\nx -> w\n\nThe decoded text is: \"hello world\"",
+        "gold": "zxcme jter"
+    },
+    "50": {
+        "input": "xutbjm cfdzfns",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nxutbjm cfdzfnsassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 9 positions in the alphabet. \n\nHere's the decoded text:\n\nx -> a\nu -> l\nt -> i\nb -> a\nj -> g\nm -> e\nc -> d\nf -> e\nd -> c\nz -> b\nf -> e\nn -> m\ns -> l\n\nThe decoded text is: \"alleged\"",
+        "gold": "olksad twuqwej"
+    },
+    "51": {
+        "input": "kjixuz tyfjar dhzfna",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nkjixuz tyfjar dhzfnaassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\neasily found answer",
+        "gold": "bazolq kpwari uyqwer"
+    },
+    "52": {
+        "input": "ajtrkx iuvzfn",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\najtrkx iuvzfnassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9. \n\najtrkx iuvzfn\n\na -> n\nj -> u\nt -> x\nr -> y\nk -> b\nx -> m\ni -> p\nu -> r\nv -> s\nz -> a\nf -> m\nn -> o\n\nThe decoded text is: nuxyymbra",
+        "gold": "rakibo zlmqwe"
+    },
+    "53": {
+        "input": "hdrxmjo mmbjxt qm",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nhdrxmjo mmbjxt qmassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "yuiodaf ddsaok hd"
+    },
+    "54": {
+        "input": "xyrzfna rdgizfn tsarnz",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nxyrzfna rdgizfn tsarnzassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\nhello world welcome\n\nHere is the decoded plain text: hello world welcome",
+        "gold": "opiqwer iuxzqwe kjrieq"
+    },
+    "55": {
+        "input": "orxabc igwezfn",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\norxabc igwezfnassistant\n\nLet's decode the Caesar cipher with a shift of 9.\n\nHere's the decoded text:\n\nhello world",
+        "gold": "fiorst zxnvqwe"
+    },
+    "56": {
+        "input": "kuryix jtfna bdr",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nkuryix jtfna bdrassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\nkuryix jtfna bdr\n\nbecomes:\n\nhello world\n\nHere's the decoded text: hello world",
+        "gold": "blipzo akwer sui"
+    },
+    "57": {
+        "input": "karocj exunt maroch",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nkarocj exunt marochassistant\n\nTo decode the Caesar cipher, we shift each letter back by 9 positions in the alphabet. \n\nk -> l\na -> b\nr -> s\no -> p\nc -> d\nj -> m\ne -> f\nx -> y\nu -> v\nn -> o\nt -> u\nm -> n\na -> b\nr -> s\no -> p\nc -> d\nh -> i\n\nThe decoded text is: lovely night",
+        "gold": "brifta volek drifty"
+    },
+    "58": {
+        "input": "panvyurw ixaohu txdc",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\npanvyurw ixaohu txdcassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"panvyurw\" -> \"hello\"\n\"ixaohu\" -> \"world\"\n\"txdc\" -> \"the\"\n\nThe decoded text is: \"hello world the\"",
+        "gold": "gremplin zorfyl kout"
+    },
+    "59": {
+        "input": "lqrymj erwlju sjwcaxoo",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nlqrymj erwlju sjwcaxooassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9. \n\nl -> k (shifted back by 1)\nq -> o\nr -> p\ny -> x\nm -> l\nj -> i\ne -> f\nr -> p\nw -> v\nl -> k\nj -> i\nu -> t\nj -> i\nu -> t\ns -> r\nj -> i\nw -> v\nc -> b\na -> z\nx -> w\no -> n\no -> n\n\nThe decoded text is: \"how are you doing\"",
+        "gold": "chipda vincal jantroff"
+    },
+    "60": {
+        "input": "brfrwm onayuxv trucna",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nbrfrwm onayuxv trucnaassistant\n\nHere is the decoded text:\n\nhello world hello\n\nHowever, I noticed that the text \"hello world hello\" seems to be repeated. If you meant to decode only the first part, I'll assume the text is \"brfrwm onayuxv trucna\" and the decoded text is:\n\nhello world hello",
+        "gold": "siwind ferplom kilter"
+    },
+    "61": {
+        "input": "rrxfn zfuna yxewo gjif",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nrrxfn zfuna yxewo gjifassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\nrrxfn -> hello\nzfuna -> world\nyxewo -> this\ngjif -> is\n\nThe decoded plain text is: hello world this is",
+        "gold": "iiowe qwler povnf xazw"
+    },
+    "62": {
+        "input": "zfuja xyrew vmcja",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nzfuja xyrew vmcjaassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9. \n\nz becomes a (since z is the 26th letter and a is the 1st letter, shifting back 9 places from z would be a)\nf becomes e\nu becomes l\nj becomes g\na becomes t\nx becomes v\ny becomes w\nr becomes q\ne becomes f\nw becomes v\nm becomes n\nc becomes d\nj becomes g\na becomes t\n\nThe decoded text is: \"at least 9\"",
+        "gold": "qwlar opivn mdtar"
+    },
+    "63": {
+        "input": "ardyc klgwe yxjbm zfna",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nardyc klgwe yxjbm zfnaassistant\n\nHere is the decoded text:\n\nhappy birthday soon",
+        "gold": "riupt bcxnv poasd qwer"
+    },
+    "64": {
+        "input": "tuifx vwkel zfncx",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\ntuifx vwkel zfncxassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\ne (u) -> a\nl (f) -> g\no (k) -> l\ns (w) -> g\nt (x) -> i\nh (e) -> f\ni (l) -> m\ns (n) -> o\na (c) -> d\nn (f) -> g\ng (z) -> a\n\nThe decoded text is: angelog",
+        "gold": "klzwo mnbvc qweto"
+    },
+    "65": {
+        "input": "anfzdh bjelg fnyxr",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nanfzdh bjelg fnyxrassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9. \n\nStarting with the first letter 'a' in the alphabet, we shift it back by 9, which lands on 'a'. \n\nThe decoded text is: \"hello world\"",
+        "gold": "rewquy savcx wepoi"
+    },
+    "66": {
+        "input": "vwpca xyzfn ujbto",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nvwpca xyzfn ujbtoassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nv -> x\nw -> y\np -> o\nc -> l\na -> b\nx -> w\ny -> z\nz -> a\nf -> e\nn -> m\nu -> t\nj -> i\nb -> a\nt -> s\no -> n\n\nThe decoded text is: \"how are you\"",
+        "gold": "mngtr opqwe laskf"
+    },
+    "67": {
+        "input": "yrzfx jbmda vglew zfna",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nyrzfx jbmda vglew zfnaassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"yrzfx\" -> \"hello\"\n\"jbmda\" -> \"world\"\n\"vglew\" -> \"this\"\n\"zfna\" -> \"is\"\n\nThe decoded text is: \"hello world this is\"",
+        "gold": "piqwo asdur mxcvn qwer"
+    },
+    "68": {
+        "input": "rnxda zfnac jbmany vuyxt",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nrnxda zfnac jbmany vuyxtassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"rnxda\" becomes \"hello\"\n\"zfnac\" becomes \"world\"\n\"jbmany\" becomes \"people\"\n\"vuyxt\" becomes \"live\"\n\nThe decoded text is: \"hello world people live\"",
+        "gold": "ieour qwert asdrep mlpok"
+    },
+    "69": {
+        "input": "yxrnx glekw vfnac zuyjb",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nyxrnx glekw vfnac zuyjbassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\ny -> x (shifted back by 9 positions from 'y')\nx -> w\nr -> q\nn -> m\nx -> w\ng -> f\nl -> i\ne -> h\nk -> j\nw -> v\nf -> e\nn -> m\na -> l\nc -> d\nz -> a\nu -> r\ny -> x\nj -> g\nb -> a\n\nThe decoded text is: \"hello world\"",
+        "gold": "poieo xcvbn mwert qlpas"
+    },
+    "70": {
+        "input": "fnadeg yrfxnf ujxab",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nfnadeg yrfxnf ujxabassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"hello world\"",
+        "gold": "weruvx piwoew laors"
+    },
+    "71": {
+        "input": "gwldi fnzac yuxrb zfnaxr",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\ngwldi fnzac yuxrb zfnaxrassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"hello world hello\"\n\nLet me know if you'd like me to explain the process or if you have any further questions!",
+        "gold": "xncuz weqrt plois qweroi"
+    },
+    "72": {
+        "input": "nfazx jbmros zfnac",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nnfazx jbmros zfnacassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"hello world\"",
+        "gold": "ewrqo asdifj qwert"
+    },
+    "73": {
+        "input": "zfnrd iglew vyxan yuxjz",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nzfnrd iglew vyxan yuxjzassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9. \n\nz becomes a (since z is the 26th letter and a is the 1st letter, shifting back 9 places from z would be a)\nf becomes e\nn becomes m\nr becomes q\nd becomes c\ni becomes h\ng becomes f\nl becomes e\ne becomes d\nw becomes x\nv becomes u\ny becomes t\nx becomes s\na becomes j\nn becomes m\ny becomes t\nu becomes r\nx becomes s\nj becomes g\nz becomes a\n\nSo, the decoded text is: \"ahemfcdhxeutmsrga\"",
+        "gold": "qweiu zxcvn mpore ploaq"
+    },
+    "74": {
+        "input": "iglvn scna",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\niglvn scnaassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\niglvn scna\n\nbecomes\n\nhello world",
+        "gold": "zxcme jter"
+    },
+    "75": {
+        "input": "axwemp figciqv",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\naxwemp figciqvassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nThe given text is \"axwemp figciqv\". \n\nHere's the decoding:\n\na -> x (since a is the 1st letter, x is the 1st letter shifted 12 positions back)\nx -> v\nw -> u\ne -> s\nm -> i\np -> h\nf -> d\ni -> c\ng -> b\nc -> a\ni -> c\nq -> o\nv -> l\n\nThe decoded text is \"xvsihdcbacol\".",
+        "gold": "olksad twuqwej"
+    },
+    "76": {
+        "input": "nmlaxc wbimdu gkciqd",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nnmlaxc wbimdu gkciqdassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\nnmlaxc wbimdu gkciqd\n\nbecomes:\n\nm l k j i h g f e d c b a\n\nHowever, since you mentioned the shift is 12, I assume you want to shift each letter back by 12 positions, which would result in a negative shift. In this case, we can use the formula (a - 12) % 26 to shift the letters back. \n\nUsing this formula, we get:\n\nn (14 - 12) % 26 = 2\nm (13 - 12) % 26 = 1\nl (12 - 12) % 26 = 0\na (11 - 12) % 26 = 25\nx (24 - 12) % 26 = 12\nc (3 - 12) % 26 = 17\n(17 - 12) % 26 = 5\nw (23 - 12) % 26 = 11\nb (2 - 12) % 26 = 18\ni (9 - 12) % 26 = 23\nm (13 - 12) % 26 = 1\nd (4 - 12) % 26 = 20\nu (21 - 12) % 26 = 9\ng (7 - 12) % 26 = 19\nk (11 - 12) % 26 = 25\nc (3 - 12) % 26 = 17\ni (9 - 12) % 26 = 23\nq (17 - 12) % 26 = 5\nd (4 - 12) % 26 = 20\n\nThe decoded text is:\n\nmlaxc wbiimd gqcid",
+        "gold": "bazolq kpwari uyqwer"
+    },
+    "77": {
+        "input": "dmwuna lxyciq",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\ndmwuna lxyciqassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 12 positions in the alphabet.\n\nHere's the decoded text:\n\n\"dmwuna lxyciq\" -> \"hello world\"\n\nSo, the plain text is: hello world",
+        "gold": "rakibo zlmqwe"
+    },
+    "78": {
+        "input": "kguapmr ppemaw tp",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nkguapmr ppemaw tpassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "yuiodaf ddsaok hd"
+    },
+    "79": {
+        "input": "abuciqd ugjlciq wvduqc",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nabuciqd ugjlciq wvduqcassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\nabuciqd -> knilhja\nugjlciq -> vmmkmbd\nwvduqc -> xnnnnd\n\nThe decoded text is: knilhja vmmkmbd xnnnnd",
+        "gold": "opiqwer iuxzqwe kjrieq"
+    },
+    "80": {
+        "input": "ruadef ljzhciq",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nruadef ljzhciqassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 12 positions in the alphabet.\n\nHere's the decoded text:\n\na -> 12 positions before a is y\nu -> 12 positions before u is g\na -> 12 positions before a is y\nd -> 12 positions before d is b\ne -> 12 positions before e is c\nf -> 12 positions before f is d\nl -> 12 positions before l is h\nj -> 12 positions before j is x\nz -> 12 positions before z is i\nh -> 12 positions before h is f\nc -> 12 positions before c is a\ni -> 12 positions before i is e\nq -> 12 positions before q is o\n\nThe decoded text is: \"where are you\"",
+        "gold": "fiorst zxnvqwe"
+    },
+    "81": {
+        "input": "nxubla mwiqd egu",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nnxubla mwiqd eguassistant\n\nLet's decode the Caesar cipher text with a shift of 12.\n\nHere's the decoded text:\n\n\"hello world\"\n\nHere's how it was decoded:\n\nn -> h (shift -12)\nx -> e\nu -> l\nb -> o\nl -> a\na -> i\n  ->  (space remains the same)\nm -> w\nw -> i\ni -> d\nq -> l\nd -> r\ne -> l\ng -> o\nu -> l\n\nSo the decoded text is: \"hello world\"",
+        "gold": "blipzo akwer sui"
+    },
+    "82": {
+        "input": "ndurfm haxqw pdurfk",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nndurfm haxqw pdurfkassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 12 positions in the alphabet.\n\nHere's the decoded text:\n\nndurfm -> original: elephant\nhaxqw -> original: house\npdurfk -> original: people\n\nThe decoded text is: elephant house people",
+        "gold": "brifta volek drifty"
+    },
+    "83": {
+        "input": "sdqybxuz ladrkx wagf",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nsdqybxuz ladrkx wagfassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\nsdqybxuz ladrkx wagf\n\nbecomes:\n\nmnbvjqy gcbecy vab\n\nHowever, since you asked for the plain text only, I'll provide it without the spaces:\n\nmnbvjqygcbecyvab",
+        "gold": "gremplin zorfyl kout"
+    },
+    "84": {
+        "input": "otubpm huzomx vmzfdarr",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\notubpm huzomx vmzfdarrassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 12 positions in the alphabet. Here's the decoded text:\n\notubpm -> abcde\nhuzomx -> hijkl\nvmzfdarr -> uyxecba\n\nThe decoded text is: abcde hijkl uyxecba",
+        "gold": "chipda vincal jantroff"
+    },
+    "85": {
+        "input": "euiuzp rqdbxay wuxfqd",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\neuiuzp rqdbxay wuxfqdassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\ne -> m\nu -> a\ni -> o\nu -> a\nz -> g\np -> n\nr -> l\nq -> i\nd -> b\nb -> a\nx -> e\na -> o\ny -> m\nw -> u\nu -> a\nx -> e\nf -> d\nq -> i\nd -> b\n\nThe decoded text is: \"many days are bad\"",
+        "gold": "siwind ferplom kilter"
+    },
+    "86": {
+        "input": "uuaiq cixqd bahzr jmli",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nuuaiq cixqd bahzr jmliassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "iiowe qwler povnf xazw"
+    },
+    "87": {
+        "input": "cixmd abuhz ypfmd",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\ncixmd abuhz ypfmdassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nc -> a (since c is the 3rd letter, we shift back 12 positions to get the 3rd letter of the alphabet, which is 'a')\ni -> g\nx -> u\nm -> i\nd -> a\na -> y\nb -> x\nu -> s\nh -> e\nz -> a\ny -> w\np -> n\nf -> d\nm -> i\nd -> a\n\nThe decoded text is: \"always was here\"",
+        "gold": "qwlar opivn mdtar"
+    },
+    "88": {
+        "input": "dugbf nojzh bamep ciqd",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\ndugbf nojzh bamep ciqdassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 12 positions in the alphabet. \n\nd -> a (since d is the 4th letter and a is the 4th letter minus 12 positions, which brings us back to the start of the alphabet)\nu -> i\ng -> e\nb -> t\nf -> g\nn -> m\no -> l\nj -> h\nz -> x\nh -> g\nb -> t\na -> y\nm -> l\ne -> d\np -> o\nc -> b\ni -> h\nq -> n\nd -> a\n\nThe decoded text is: \"atight hold\"",
+        "gold": "riupt bcxnv poasd qwer"
+    },
+    "89": {
+        "input": "wxlia yznho ciqfa",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nwxlia yznho ciqfaassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\na = w (w shifted back 12 positions becomes a)\nb = x\nc = y\nd = z\ne = a\nf = b\ng = c\nh = d\ni = e\nj = f\nk = g\nl = h\nm = i\nn = j\no = k\np = l\nq = m\nr = n\ns = o\nt = p\nu = q\nv = r\nw = s\nx = t\ny = u\nz = v\n0 = w\n1 = x\n2 = y\n3 = z\n4 = a\n5 = b\n6 = c\n7 = d\n8 = e\n9 = f\n10 = g\n11 = h\n12 = i\n13 = j\n14 = k\n15 = l\n16 = m\n17 = n\n18 = o\n19 = p\n20 = q\n21 = r\n22 = s\n23 = t\n24 = u\n25 = v\n26 = w\n\nApplying this shift to the given text:\n\nw = a\nx = b\nl = h\ni = e\na = a\n= space (since there's no shift for non-alphabet characters)\nc = g\ni = e\nq = m\nf = b\na = a\n\nThe decoded text is: \"a heabe\"",
+        "gold": "klzwo mnbvc qweto"
+    },
+    "90": {
+        "input": "dqicgk emhoj iqbau",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\ndqicgk emhoj iqbauassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\ndqicgk -> abcde\nemhoj -> defgh\niqbau -> jklmn\n\nThe decoded text is: abcdefghjklmn",
+        "gold": "rewquy savcx wepoi"
+    },
+    "91": {
+        "input": "yzsfd abciq xmewr",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nyzsfd abciq xmewrassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nFor 'y', which is the 25th letter, we shift back to the 13th letter, which is'm'.\nFor 'z', which is the 26th letter, we shift back to the 14th letter, which is 'n'.\nFor's', which is the 19th letter, we shift back to the 7th letter, which is 'g'.\nFor 'f', which is the 6th letter, we shift back to the 18th letter, which is 'r'.\nFor 'd', which is the 4th letter, we shift back to the 16th letter, which is 'u'.\nFor 'a', which is the 1st letter, we shift back to the 13th letter, which is'm'.\nFor 'b', which is the 2nd letter, we shift back to the 14th letter, which is 'n'.\nFor 'c', which is the 3rd letter, we shift back to the 15th letter, which is 'o'.\nFor 'i', which is the 9th letter, we shift back to the 1st letter, which is 'a'.\nFor 'q', which is the 17th letter, we shift back to the 5th letter, which is 'e'.\nFor 'x', which is the 24th letter, we shift back to the 12th letter, which is 'l'.\nFor'm', which is the 13th letter, we shift back to the 1st letter, which is 'a'.\nFor 'e', which is the 5th letter, we shift back to the 17th letter, which is 'r'.\nFor 'w', which is the 23rd letter, we shift back to the 11th letter, which is 'k'.\nFor 'r', which is the 18th letter, we shift back to the 6th letter, which is 'f'.\n\nThe decoded text is: \"make me talk\"",
+        "gold": "mngtr opqwe laskf"
+    },
+    "92": {
+        "input": "bucia mepgd yjohz ciqd",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nbucia mepgd yjohz ciqdassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\n\"bucia mepgd yjohz ciqd\" -> \"hello world now\"\n\nSo, the plain text is: hello world now",
+        "gold": "piqwo asdur mxcvn qwer"
+    },
+    "93": {
+        "input": "uqagd ciqdf mepdqb yxbaw",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nuqagd ciqdf mepdqb yxbawassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nSince the shift is 12, we can also consider it as a shift of 12 positions backwards, which is equivalent to a shift of 2 positions forward (since 26 - 12 = 14, and 14 is equivalent to 2 in a cyclic manner).\n\nHere's the decoded text:\n\nu -> s\nq -> o\na -> y\ng -> e\nd -> a\nc -> x\ni -> h\nq -> o\nd -> a\nf -> d\nm -> l\ne -> b\np -> i\nd -> a\nq -> o\nb -> f\ny -> w\nx -> v\nb -> f\na -> y\nw -> u\n\nThe decoded text is: \"say what are you doing\"",
+        "gold": "ieour qwert asdrep mlpok"
+    },
+    "94": {
+        "input": "bauqa johnz yiqdf cxbme",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nbauqa johnz yiqdf cxbmeassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\na -> y\nu -> i\na -> y\nq -> s\na -> y\nj -> r\no -> n\nh -> g\nn -> m\nz -> x\ny -> x\ni -> h\nq -> s\nd -> b\nf -> d\nc -> a\nx -> v\nb -> n\nm -> l\ne -> k\n\nThe decoded text is: \"yes, mark\"",
+        "gold": "poieo xcvbn mwert qlpas"
+    },
+    "95": {
+        "input": "iqdghj buiaqi xmade",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\niqdghj buiaqi xmadeassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\nd - 12 positions back is b\nq - 12 positions back is g\ne - 12 positions back is m\na - 12 positions back is u\nk - 12 positions back is y\ni - 12 positions back is w\na - 12 positions back is u\nq - 12 positions back is g\ni - 12 positions back is w\ns - 12 positions back is r\nm - 12 positions back is l\na - 12 positions back is u\nd - 12 positions back is b\n\nThe decoded text is: \"beauty world\"",
+        "gold": "weruvx piwoew laors"
+    },
+    "96": {
+        "input": "jzogl iqcdf bxaue ciqdau",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\njzogl iqcdf bxaue ciqdauassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 12 positions in the alphabet. \n\nj -> n\nz -> m\no -> i\ng -> e\nl -> h\ni -> g\nk -> e\nd -> f\nf -> d\nb -> n\nx -> g\na -> e\nu -> o\ne -> c\nc -> a\ni -> g\nq -> e\nd -> f\na -> e\nu -> o\ne -> c\n\nThe decoded text is: never give up",
+        "gold": "xncuz weqrt plois qweroi"
+    },
+    "97": {
+        "input": "qidca mepurv ciqdf",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nqidca mepurv ciqdfassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 12 positions in the alphabet.\n\nHere's the decoded text:\n\n\"qidca\" -> \"hello\"\n\"mepurv\" -> \"welcome\"\n\"ciqdf\" -> \"areyou\"\n\nThe decoded plain text is: \"hello welcome areyou\"",
+        "gold": "ewrqo asdifj qwert"
+    },
+    "98": {
+        "input": "ciqug ljohz ybadq bxamc",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nciqug ljohz ybadq bxamcassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\nc -> a\ni -> e\nq -> o\nu -> s\ng -> e\nl -> h\nj -> f\no -> m\nh -> d\nz -> i\ny -> x\nb -> n\na -> g\nd -> c\nq -> o\nb -> n\nx -> w\na -> g\nm -> l\nc -> a\n\nThe decoded text is: \"hello world\"",
+        "gold": "qweiu zxcvn mpore ploaq"
+    },
+    "99": {
+        "input": "ljoyq vfqd",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nljoyq vfqdassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 12 positions.\n\nl -> m\nj -> i\no -> n\ny -> x\nq -> p\nv -> u\nf -> e\nq -> p\nd -> c\n\nThe decoded text is: \"minxupc\"",
+        "gold": "zxcme jter"
+    }
+}

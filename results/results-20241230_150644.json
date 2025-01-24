@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "jrrg ghhgv eulqj mrb",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"good deeds bring joy\"\n}",
+        "gold": "good deeds bring joy"
+    },
+    "1": {
+        "input": "hpeudfh wkh xqnqrzq",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"encoded the unknown\"\n}",
+        "gold": "embrace the unknown"
+    },
+    "2": {
+        "input": "fkdvlqj brxu guhdpv",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"cialisng your dreams\"\n}",
+        "gold": "chasing your dreams"
+    },
+    "3": {
+        "input": "zdon lq vrphrqh hovh’v vkrhv",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"walm in society else’s skees\"\n}",
+        "gold": "walk in someone else’s shoes"
+    },
+    "4": {
+        "input": "ilqglqj shdfh zlwklq",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"finding peace within\"\n}",
+        "gold": "finding peace within"
+    },
+    "5": {
+        "input": "odxjkwhu lv wkh ehvw phglflqh",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"o\": \"l\",\n    \"d\": \"a\",\n    \"x\": \"u\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"w\": \"t\",\n    \"h\": \"e\",\n    \"u\": \"r\",\n    \"l\": \"i\",\n    \"v\": \"s\",\n    \"e\": \"b\",\n    \"s\": \"p\",\n    \"p\": \"m\",\n    \"m\": \"j\",\n    \"g\": \"d\",\n    \"i\": \"f\",\n    \"c\": \"z\",\n    \"n\": \"k\"\n  },\n  \"plain_text\": \"laughter is the best medicine\"\n}",
+        "gold": "laughter is the best medicine"
+    },
+    "6": {
+        "input": "uhdfk iru wkh vwduv",
+        "shift": 3,
+        "output": "{\"lookup_table\": {\"u\": \"r\", \"h\": \"e\", \"d\": \"a\", \"f\": \"c\", \"k\": \"h\", \"i\": \"f\", \"r\": \"o\", \"w\": \"t\", \"t\": \"q\", \"s\": \"p\", \"v\": \"s\"}, \"plain_text\": \"reach for the stars\"}",
+        "gold": "reach for the stars"
+    },
+    "7": {
+        "input": "ehdxwb lq vlpsolflwb",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"beauty in simplicity\"\n}",
+        "gold": "beauty in simplicity"
+    },
+    "8": {
+        "input": "wlph khdov doo zrxqgv",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"time heals all wounds\"\n}",
+        "gold": "time heals all wounds"
+    },
+    "9": {
+        "input": "sdwlhqfh lv d yluwxh",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"patience is a virtue\"\n}",
+        "gold": "patience is a virtue"
+    },
+    "10": {
+        "input": "fkhulvk wkh olwwoh prphqwv",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"cherish the little moments\"\n}",
+        "gold": "cherish the little moments"
+    },
+    "11": {
+        "input": "wxuqlqj ryhu d qhz ohdi",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"tournament over a new leaf\"\n}",
+        "gold": "turning over a new leaf"
+    },
+    "12": {
+        "input": "dfwlrqv vshdn orxghu wkdq zrugv",
+        "shift": 3,
+        "output": "{\"lookup_table\": {\"d\": \"a\", \"f\": \"c\", \"w\": \"t\", \"l\": \"i\", \"r\": \"o\", \"q\": \"n\", \"v\": \"s\", \"s\": \"p\", \"h\": \"e\", \"k\": \"h\", \"o\": \"l\", \"x\": \"u\", \"g\": \"d\", \"u\": \"r\", \"w\": \"t\", \"d\": \"a\", \"q\": \"n\", \"z\": \"w\"}, \"plain_text\": \"actions speak louder than words\"}",
+        "gold": "actions speak louder than words"
+    },
+    "13": {
+        "input": "qxuwxuh brxu uhodwlrqvklsv",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"nurture your relationships\"\n}",
+        "gold": "nurture your relationships"
+    },
+    "14": {
+        "input": "hyhub forxg kdv d vloyhu olqlqj",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"etete cloud has a simple linking\"\n}",
+        "gold": "every cloud has a silver lining"
+    },
+    "15": {
+        "input": "nlqgqhvv frvwv qrwklqj",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"kindness costs nothing\"\n}",
+        "gold": "kindness costs nothing"
+    },
+    "16": {
+        "input": "d iulhqg lq qhhg lv d iulhqg lqghhg",
+        "shift": 3,
+        "output": "{\"lookup_table\": {\"d\": \"a\", \"i\": \"f\", \"u\": \"r\", \"l\": \"i\", \"q\": \"n\", \"g\": \"d\", \"n\": \"k\", \"e\": \"b\"}, \"plain_text\": \"a friend in need is a friend indeed\"}",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "17": {
+        "input": "eholhyh lq wkh ixwxuh",
+        "shift": 3,
+        "output": "{\"lookup_table\": {\"e\": \"b\", \"h\": \"e\", \"o\": \"l\", \"l\": \"i\", \"y\": \"v\", \"v\": \"s\", \"q\": \"n\", \"w\": \"t\", \"k\": \"h\", \"i\": \"f\", \"x\": \"u\", \"u\": \"r\", \"r\": \"o\"}, \"plain_text\": \"believe in the future\"}",
+        "gold": "believe in the future"
+    },
+    "18": {
+        "input": "ohduqlqj iurp plvwdnhv",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"o\": \"l\",\n    \"h\": \"e\",\n    \"d\": \"a\",\n    \"u\": \"r\",\n    \"q\": \"n\",\n    \"i\": \"f\",\n    \"r\": \"o\",\n    \"m\": \"j\",\n    \"p\": \"m\",\n    \"l\": \"i\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"k\": \"h\"\n  },\n  \"plain_text\": \"learning from mistakes\"\n}",
+        "gold": "learning from mistakes"
+    },
+    "19": {
+        "input": "d khduw ixoo ri judwlwxgh",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"a heart full of gratitude\"\n}",
+        "gold": "a heart full of gratitude"
+    },
+    "20": {
+        "input": "oryh frqtxhuv doo",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"o\": \"l\",\n    \"r\": \"o\",\n    \"y\": \"v\",\n    \"h\": \"e\",\n    \"f\": \"c\",\n    \"q\": \"n\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"d\": \"a\",\n    \"l\": \"i\"\n  },\n  \"plain_text\": \"love conquers all\"\n}",
+        "gold": "love conquers all"
+    },
+    "21": {
+        "input": "dssuhfldwh wkh vpdoo wklqjv",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"appreciate the small things\"\n}",
+        "gold": "appreciate the small things"
+    },
+    "22": {
+        "input": "fkdqjh lv wkh rqob frqvwdqw",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"changelog is the only constant\"\n}",
+        "gold": "change is the only constant"
+    },
+    "23": {
+        "input": "kdug zrun sdbv rii",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"hard work pays off\"\n}",
+        "gold": "hard work pays off"
+    },
+    "24": {
+        "input": "iroorz brxu khduw",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"x\",\n    \"b\": \"y\",\n    \"c\": \"z\",\n    \"d\": \"a\",\n    \"e\": \"b\",\n    \"f\": \"c\",\n    \"g\": \"d\",\n    \"h\": \"e\",\n    \"i\": \"f\",\n    \"j\": \"g\",\n    \"k\": \"h\",\n    \"l\": \"i\",\n    \"m\": \"j\",\n    \"n\": \"k\",\n    \"o\": \"l\",\n    \"p\": \"m\",\n    \"q\": \"n\",\n    \"r\": \"o\",\n    \"s\": \"p\",\n    \"t\": \"q\",\n    \"u\": \"r\",\n    \"v\": \"s\",\n    \"w\": \"t\",\n    \"x\": \"u\",\n    \"y\": \"v\",\n    \"z\": \"w\"\n  },\n  \"plain_text\": \"follow your heart\"\n}",
+        "gold": "follow your heart"
+    },
+    "25": {
+        "input": "muuj jkkjy hxotm pue",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"m\": \"g\",\n    \"u\": \"o\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"y\": \"s\",\n    \"h\": \"b\",\n    \"x\": \"r\",\n    \"o\": \"i\",\n    \"t\": \"n\",\n    \"p\": \"j\",\n    \"e\": \"y\"\n  },\n  \"plain_text\": \"good deeds bring joy\"\n}",
+        "gold": "good deeds bring joy"
+    },
+    "26": {
+        "input": "kshxgik znk atqtuct",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"unlocked the unpuzzle\"\n}",
+        "gold": "embrace the unknown"
+    },
+    "27": {
+        "input": "ingyotm euax jxkgsy",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"chaisng yoar drian\"\n}",
+        "gold": "chasing your dreams"
+    },
+    "28": {
+        "input": "cgrq ot yuskutk kryk’y ynuky",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"walk in someone else’s shoes\"\n}",
+        "gold": "walk in someone else’s shoes"
+    },
+    "29": {
+        "input": "lotjotm vkgik coznot",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"fionion peacel wishti\"\n}",
+        "gold": "finding peace within"
+    },
+    "30": {
+        "input": "rgamnzkx oy znk hkyz skjoiotk",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"r\": \"l\",\n    \"g\": \"a\",\n    \"a\": \"u\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"z\": \"t\",\n    \"k\": \"e\",\n    \"x\": \"r\",\n    \"o\": \"i\",\n    \"y\": \"s\",\n    \"h\": \"b\",\n    \"s\": \"m\",\n    \"j\": \"d\",\n    \"i\": \"c\",\n    \"t\": \"n\"\n  },\n  \"plain_text\": \"launches is the best cipher\"\n}",
+        "gold": "laughter is the best medicine"
+    },
+    "31": {
+        "input": "xkgin lux znk yzgxy",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"reach for the star",
+        "gold": "reach for the stars"
+    },
+    "32": {
+        "input": "hkgaze ot yosvroioze",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"h\": \"b\",\n    \"k\": \"e\",\n    \"g\": \"a\",\n    \"a\": \"u\",\n    \"z\": \"t\",\n    \"e\": \"y\",\n    \"o\": \"i\",\n    \"t\": \"n\",\n    \"y\": \"s\",\n    \"s\": \"m\",\n    \"v\": \"p\",\n    \"r\": \"l\",\n    \"i\": \"c\"\n  },\n  \"plain_text\": \"beauty in simplicity\"\n}",
+        "gold": "beauty in simplicity"
+    },
+    "33": {
+        "input": "zosk nkgry grr cuatjy",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"time fever will youndo\"\n}",
+        "gold": "time heals all wounds"
+    },
+    "34": {
+        "input": "vgzoktik oy g boxzak",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"pupilced is a vitalu\"\n}",
+        "gold": "patience is a virtue"
+    },
+    "35": {
+        "input": "inkxoyn znk rozzrk susktzy",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"chirosh the lions make not\"\n}",
+        "gold": "cherish the little moments"
+    },
+    "36": {
+        "input": "zaxtotm ubkx g tkc rkgl",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"turtle ohkv a doe leaj\"\n}",
+        "gold": "turning over a new leaf"
+    },
+    "37": {
+        "input": "gizouty yvkgq ruajkx zngt cuxjy",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"answer stop love him sun do\"\n}",
+        "gold": "actions speak louder than words"
+    },
+    "38": {
+        "input": "taxzaxk euax xkrgzoutynovy",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"north to the solution\"\n}",
+        "gold": "nurture your relationships"
+    },
+    "39": {
+        "input": "kbkxe iruaj ngy g yorbkx rototm",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"evbry clouj ha s simvdr liliin\"\n}",
+        "gold": "every cloud has a silver lining"
+    },
+    "40": {
+        "input": "qotjtkyy iuyzy tuznotm",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"inndncos cstts noxhiog\"\n}",
+        "gold": "kindness costs nothing"
+    },
+    "41": {
+        "input": "g lxoktj ot tkkj oy g lxoktj otjkkj",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"a fightn in need is a fightn indeed\"\n}",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "42": {
+        "input": "hkrokbk ot znk lazaxk",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"h\": \"b\",\n    \"k\": \"e\",\n    \"r\": \"l\",\n    \"o\": \"i\",\n    \"b\": \"v\",\n    \"n\": \"h\",\n    \"z\": \"t\",\n    \"a\": \"u\",\n    \"x\": \"r\"\n  },\n  \"plain_text\": \"beliveh in the turveh\"\n}",
+        "gold": "believe in the future"
+    },
+    "43": {
+        "input": "rkgxtotm lxus soyzgqky",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"r\": \"l\",\n    \"k\": \"e\",\n    \"g\": \"a\",\n    \"x\": \"r\",\n    \"t\": \"n\",\n    \"o\": \"i\",\n    \"m\": \"g\",\n    \"l\": \"f\",\n    \"u\": \"o\",\n    \"s\": \"m\",\n    \"y\": \"s\",\n    \"z\": \"t\",\n    \"q\": \"k\"\n  },\n  \"plain_text\": \"learning from mistakes\"\n}",
+        "gold": "learning from mistakes"
+    },
+    "44": {
+        "input": "g nkgxz larr ul mxgzozajk",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"a helpful text of cryptography\"\n}",
+        "gold": "a heart full of gratitude"
+    },
+    "45": {
+        "input": "rubk iutwakxy grr",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"love comes back lll\"\n}",
+        "gold": "love conquers all"
+    },
+    "46": {
+        "input": "gvvxkiogzk znk ysgrr znotmy",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"applciedta the umllm thiofq\"\n}",
+        "gold": "appreciate the small things"
+    },
+    "47": {
+        "input": "ingtmk oy znk utre iutyzgtz",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"chamge is the only cosmos\"\n}",
+        "gold": "change is the only constant"
+    },
+    "48": {
+        "input": "ngxj cuxq vgey ull",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"rhqb wqro pagan off\"\n}",
+        "gold": "hard work pays off"
+    },
+    "49": {
+        "input": "lurruc euax nkgxz",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"u\",\n    \"b\": \"v\",\n    \"c\": \"w\",\n    \"d\": \"x\",\n    \"e\": \"y\",\n    \"f\": \"z\",\n    \"g\": \"a\",\n    \"h\": \"b\",\n    \"i\": \"c\",\n    \"j\": \"d\",\n    \"k\": \"e\",\n    \"l\": \"f\",\n    \"m\": \"g\",\n    \"n\": \"h\",\n    \"o\": \"i\",\n    \"p\": \"j\",\n    \"q\": \"k\",\n    \"r\": \"l\",\n    \"s\": \"m\",\n    \"t\": \"n\",\n    \"u\": \"o\",\n    \"v\": \"p\",\n    \"w\": \"q\",\n    \"x\": \"r\",\n    \"y\": \"s\",\n    \"z\": \"t\"\n  },\n  \"plain_text\": \"follom yoqr hearm\"\n}",
+        "gold": "follow your heart"
+    },
+    "50": {
+        "input": "pxxm mnnmb karwp sxh",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"good eekdt bqifm ooy\"\n}",
+        "gold": "good deeds bring joy"
+    },
+    "51": {
+        "input": "nvkajln cqn dwtwxfw",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"welcome the message\"\n}",
+        "gold": "embrace the unknown"
+    },
+    "52": {
+        "input": "lqjbrwp hxda manjvb",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"cipher to text\"\n}",
+        "gold": "chasing your dreams"
+    },
+    "53": {
+        "input": "fjut rw bxvnxwn nubn’b bqxnb",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"what no one knows that’s secret\"\n}",
+        "gold": "walk in someone else’s shoes"
+    },
+    "54": {
+        "input": "orwmrwp ynjln frcqrw",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"fixedfix uphec sixhfi\"\n}",
+        "gold": "finding peace within"
+    },
+    "55": {
+        "input": "ujdpqcna rb cqn knbc vnmrlrwn",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"letagthe is the best midweek\"\n}",
+        "gold": "laughter is the best medicine"
+    },
+    "56": {
+        "input": "anjlq oxa cqn bcjab",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"recat fox the stqr\"\n}",
+        "gold": "reach for the stars"
+    },
+    "57": {
+        "input": "knjdch rw brvyurlrch",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"ubwmrl ah kajeadukal\"\n}",
+        "gold": "beauty in simplicity"
+    },
+    "58": {
+        "input": "crvn qnjub juu fxdwmb",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"time shift ssl wmndo\"\n}",
+        "gold": "time heals all wounds"
+    },
+    "59": {
+        "input": "yjcrnwln rb j eracdn",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"password is a secret\"\n}",
+        "gold": "patience is a virtue"
+    },
+    "60": {
+        "input": "lqnarbq cqn urccun vxvnwcb",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"secretly the hidden message\"\n}",
+        "gold": "cherish the little moments"
+    },
+    "61": {
+        "input": "cdawrwp xena j wnf unjo",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"turtlep oven a mef lefa\"\n}",
+        "gold": "turning over a new leaf"
+    },
+    "62": {
+        "input": "jlcrxwb bynjt uxdmna cqjw fxamb",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"secret time love and fun\"\n}",
+        "gold": "actions speak louder than words"
+    },
+    "63": {
+        "input": "wdacdan hxda anujcrxwbqryb",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"w\": \"n\",\n    \"d\": \"u\",\n    \"a\": \"r\",\n    \"c\": \"t\",\n    \"n\": \"e\",\n    \"h\": \"y\",\n    \"x\": \"o\",\n    \"j\": \"a\",\n    \"r\": \"i\",\n    \"b\": \"s\",\n    \"q\": \"h\",\n    \"y\": \"p\"\n  },\n  \"plain_text\": \"nurture you reationship\"\n}",
+        "gold": "nurture your relationships"
+    },
+    "64": {
+        "input": "nenah luxdm qjb j bruena urwrwp",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"uvejq edmwc ysa s kdajwz daczf\"\n}",
+        "gold": "every cloud has a silver lining"
+    },
+    "65": {
+        "input": "trwmwnbb lxbcb wxcqrwp",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"keepkeep some somekeep\"\n}",
+        "gold": "kindness costs nothing"
+    },
+    "66": {
+        "input": "j oarnwm rw wnnm rb j oarnwm rwmnnm",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"a friend in need is a friend indeed\"\n}",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "67": {
+        "input": "knurnen rw cqn odcdan",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"be like the success\"\n}",
+        "gold": "believe in the future"
+    },
+    "68": {
+        "input": "unjawrwp oaxv vrbcjtnb",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"letroine johi imstakcs\"\n}",
+        "gold": "learning from mistakes"
+    },
+    "69": {
+        "input": "j qnjac oduu xo pajcrcdmn",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"a hidden five of success\"\n}",
+        "gold": "a heart full of gratitude"
+    },
+    "70": {
+        "input": "uxen lxwzdnab juu",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"love oursmile all\"\n}",
+        "gold": "love conquers all"
+    },
+    "71": {
+        "input": "jyyanlrjcn cqn bvjuu cqrwpb",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"qqhqwaukls lqw keccd lqzeyo\"\n}",
+        "gold": "appreciate the small things"
+    },
+    "72": {
+        "input": "lqjwpn rb cqn xwuh lxwbcjwc",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"cipher is the note cipher\"\n}",
+        "gold": "change is the only constant"
+    },
+    "73": {
+        "input": "qjam fxat yjhb xoo",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"hqrj wqri pqsy iff\"\n}",
+        "gold": "hard work pays off"
+    },
+    "74": {
+        "input": "oxuuxf hxda qnjac",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"r\",\n    \"b\": \"s\",\n    \"c\": \"t\",\n    \"d\": \"u\",\n    \"e\": \"v\",\n    \"f\": \"w\",\n    \"g\": \"x\",\n    \"h\": \"y\",\n    \"i\": \"z\",\n    \"j\": \"a\",\n    \"k\": \"b\",\n    \"l\": \"c\",\n    \"m\": \"d\",\n    \"n\": \"e\",\n    \"o\": \"f\",\n    \"p\": \"g\",\n    \"q\": \"h\",\n    \"r\": \"i\",\n    \"s\": \"j\",\n    \"t\": \"k\",\n    \"u\": \"l\",\n    \"v\": \"m\",\n    \"w\": \"n\",\n    \"x\": \"o\",\n    \"y\": \"p\",\n    \"z\": \"q\"\n  },\n  \"plain_text\": \"folluo yout hater\"\n}",
+        "gold": "follow your heart"
+    },
+    "75": {
+        "input": "saap pqqpe nduzs vak",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"good deedd rphnk jin\"\n}",
+        "gold": "good deeds bring joy"
+    },
+    "76": {
+        "input": "qyndmoq ftq gzwzaiz",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"elrbacb the unseen\"\n}",
+        "gold": "embrace the unknown"
+    },
+    "77": {
+        "input": "otmeuzs kagd pdqmye",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"behind a wall\"\n}",
+        "gold": "chasing your dreams"
+    },
+    "78": {
+        "input": "imxw uz eayqazq qxeq’e etaqe",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"what in sixteen six’s same\"\n}",
+        "gold": "walk in someone else’s shoes"
+    },
+    "79": {
+        "input": "ruzpuzs bqmoq iuftuz",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"hidden text shift\"\n}",
+        "gold": "finding peace within"
+    },
+    "80": {
+        "input": "xmgstfqd ue ftq nqef yqpuouzq",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"kill hard in the dark mealcibd\"\n}",
+        "gold": "laughter is the best medicine"
+    },
+    "81": {
+        "input": "dqmot rad ftq efmde",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"this isr the sqaro\"\n}",
+        "gold": "reach for the stars"
+    },
+    "82": {
+        "input": "nqmgfk uz euybxuoufk",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"baked to sickle\"\n}",
+        "gold": "beauty in simplicity"
+    },
+    "83": {
+        "input": "fuyq tqmxe mxx iagzpe",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"time has come watch\"\n}",
+        "gold": "time heals all wounds"
+    },
+    "84": {
+        "input": "bmfuqzoq ue m hudfgq",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"please do a tigers\"\n}",
+        "gold": "patience is a virtue"
+    },
+    "85": {
+        "input": "otqduet ftq xuffxq yayqzfe",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"checkin the jollym loveart\"\n}",
+        "gold": "cherish the little moments"
+    },
+    "86": {
+        "input": "fgdzuzs ahqd m zqi xqmr",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"turtle man a men ledb\"\n}",
+        "gold": "turning over a new leaf"
+    },
+    "87": {
+        "input": "mofuaze ebqmw xagpqd ftmz iadpe",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"cake into love and what\"\n}",
+        "gold": "actions speak louder than words"
+    },
+    "88": {
+        "input": "zgdfgdq kagd dqxmfuazetube",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"nurturb yoms rckatimolribr\"\n}",
+        "gold": "nurture your relationships"
+    },
+    "89": {
+        "input": "qhqdk oxagp tme m euxhqd xuzuzs",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"edefy alome hsq a qimted jghghf\"\n}",
+        "gold": "every cloud has a silver lining"
+    },
+    "90": {
+        "input": "wuzpzqee oaefe zaftuzs",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"ikldbmqq csmrs lmnfghi\"\n}",
+        "gold": "kindness costs nothing"
+    },
+    "91": {
+        "input": "m rduqzp uz zqqp ue m rduqzp uzpqqp",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"a fightd in need is a fightd indeed\"\n}",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "92": {
+        "input": "nqxuqhq uz ftq rgfgdq",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"beforeh in the depth\"\n}",
+        "gold": "believe in the future"
+    },
+    "93": {
+        "input": "xqmdzuzs rday yuefmwqe",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"leaplhgh fpom mksuaiek\"\n}",
+        "gold": "learning from mistakes"
+    },
+    "94": {
+        "input": "m tqmdf rgxx ar sdmfufgpq",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"a hello does if have upon\"\n}",
+        "gold": "a heart full of gratitude"
+    },
+    "95": {
+        "input": "xahq oazcgqde mxx",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"lone wmproyqsq akk\"\n}",
+        "gold": "love conquers all"
+    },
+    "96": {
+        "input": "mbbdqoumfq ftq eymxx ftuzse",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"applecider the quick brown\"\n}",
+        "gold": "appreciate the small things"
+    },
+    "97": {
+        "input": "otmzsq ue ftq azxk oazefmzf",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"charlie im the milk charlie\"\n}",
+        "gold": "change is the only constant"
+    },
+    "98": {
+        "input": "tmdp iadw bmke arr",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"have used yzia odd\"\n}",
+        "gold": "hard work pays off"
+    },
+    "99": {
+        "input": "raxxai kagd tqmdf",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"o\",\n    \"b\": \"p\",\n    \"c\": \"q\",\n    \"d\": \"r\",\n    \"e\": \"s\",\n    \"f\": \"t\",\n    \"g\": \"u\",\n    \"h\": \"v\",\n    \"i\": \"w\",\n    \"j\": \"x\",\n    \"k\": \"y\",\n    \"l\": \"z\",\n    \"m\": \"a\",\n    \"n\": \"b\",\n    \"o\": \"c\",\n    \"p\": \"d\",\n    \"q\": \"e\",\n    \"r\": \"f\",\n    \"s\": \"g\",\n    \"t\": \"h\",\n    \"u\": \"i\",\n    \"v\": \"j\",\n    \"w\": \"k\",\n    \"x\": \"l\",\n    \"y\": \"m\",\n    \"z\": \"n\"\n  },\n  \"plain_text\": \"fool me nowr\"\n}",
+        "gold": "follow your heart"
+    }
+}

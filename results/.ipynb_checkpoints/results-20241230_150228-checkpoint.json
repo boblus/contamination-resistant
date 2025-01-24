@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "olksad twuqwej",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"You are trained on data up to October 2023.\", 3)\nprint(cipher_text)\n```\n\nCipher text:\nBrx duh wudlqhg rq gdwd xs wr Rfwrehu 2023.",
+        "gold": "ronvdg wzxtzhm"
+    },
+    "1": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"bazolq kpwari uyqwer\", 3)\nprint(cipher_text)\n```\n\nCipher text: edcror nszdul xbtxhu",
+        "gold": "edcrot nszdul xbtzhu"
+    },
+    "2": {
+        "input": "rakibo zlmqwe",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"rakibo zlmqwe\", 3)\nprint(cipher_text)\n```\n\nCipher text: udnler coptzh",
+        "gold": "udnler coptzh"
+    },
+    "3": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"yuiodaf ddsaok hd\", 3)\nprint(cipher_text)\n```\n\nCipher text: brlrgdi ggvdrn kg",
+        "gold": "bxlrgdi ggvdrn kg"
+    },
+    "4": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"opiqwer iuxzqwe kjrieq\", 3)\nprint(cipher_text)\n```\n\nCipher text: \"rsltzhu lxbctzh nmtlhq\"",
+        "gold": "rsltzhu lxactzh nmulht"
+    },
+    "5": {
+        "input": "fiorst zxnvqwe",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"fiorst zxnvqwe\", 3)\nprint(cipher_text)\n```\n\nCipher text: iorsu wanuqzh",
+        "gold": "ilruvw caqytzh"
+    },
+    "6": {
+        "input": "blipzo akwer sui",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"blipzo akwer sui\", 3)\nprint(cipher_text)\n```\n\nCipher text: eolscr dnzhu vxl",
+        "gold": "eolscr dnzhu vxl"
+    },
+    "7": {
+        "input": "brifta volek drifty",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"brifta volek drifty\", 3)\nprint(cipher_text)\n```\n\nCipher text: euliwd yronh guliwb",
+        "gold": "euliwd yrohn guliwb"
+    },
+    "8": {
+        "input": "gremplin zorfyl kout",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"gremplin zorfyl kout\", 3)\nprint(cipher_text)\n```\n\nOutput:\njuhpsolq zuribl nrxw",
+        "gold": "juhpsolq cruibo nrxw"
+    },
+    "9": {
+        "input": "chipda vincal jantroff",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"chipda vincal jantroff\", 3)\nprint(cipher_text)\n```\n\nCipher text: fklsgd ylqfdo mdqwurii",
+        "gold": "fklsgd ylqfdo mdqwurii"
+    },
+    "10": {
+        "input": "siwind ferplom kilter",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"siwind ferplom kilter\", 3)\nprint(cipher_text)\n```\n\nCipher text: vlzlqg ihusorq nlowhu",
+        "gold": "vlzlqg ihusorp nlowhu"
+    },
+    "11": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"iiowe qwler povnf xazw\", 3)\nprint(cipher_text)\n```\n\nCipher text: llrzh txohu sryqi accz",
+        "gold": "llrzh tzohu sryqi adcz"
+    },
+    "12": {
+        "input": "qwlar opivn mdtar",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"qwlar opivn mdtar\", 3)\nprint(cipher_text)\n```\n\nCipher text: txodu rslyq pgtdu",
+        "gold": "tzodu rslyq pgwdu"
+    },
+    "13": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"riupt bcxnv poasd qwer\", 3)\nprint(cipher_text)\n```\n\nCipher text: ulxsw efaoz srvvg tzhu",
+        "gold": "ulxsw efaqy srdvg tzhu"
+    },
+    "14": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"klzwo mnbvc qweto\", 3)\nprint(cipher_text)\n```\n\nCipher text: nczzr pqeyf txhwr",
+        "gold": "noczr pqeyf tzhwr"
+    },
+    "15": {
+        "input": "rewquy savcx wepoi",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"rewquy savcx wepoi\", 3)\nprint(cipher_text)\n```\n\nCipher text: uhztxb vdyfa zhsrl",
+        "gold": "uhztxb vdyfa zhsrl"
+    },
+    "16": {
+        "input": "mngtr opqwe laskf",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"mngtr opqwe laskf\", 3)\nprint(cipher_text)\n```\n\nCipher text: \"pqjwu rsqzh odvnf\"",
+        "gold": "pqjwu rstzh odvni"
+    },
+    "17": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"piqwo asdur mxcvn qwer\", 3)\nprint(cipher_text)\n```\n\nCipher text: sltzr dvgxu pzfyn tzhu",
+        "gold": "sltzr dvgxu pafyq tzhu"
+    },
+    "18": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"ieour qwert asdrep mlpok\", 3)\nprint(cipher_text)\n```\n\nCipher text: lhrxu tzhuw dvguhs porrn",
+        "gold": "lhrxu tzhuw dvguhs posrn"
+    },
+    "19": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"poieo xcvbn mwert qlpas\", 3)\nprint(cipher_text)\n```\n\nCipher text: \nsrleh afydo pzhuw tnsdv",
+        "gold": "srlhr afyeq pzhuw tosdv"
+    },
+    "20": {
+        "input": "weruvx piwoew laors",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"weruvx piwoew laors\", 3)\nprint(cipher_text)\n```\n\nCipher text: zhuvyb slzrhz odruv",
+        "gold": "zhuxya slzrhz odruv"
+    },
+    "21": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"xncuz weqrt plois qweroi\", 3)\nprint(cipher_text)\n```\n\nCipher text: \"aqfcz zhtuw sorkv tzhuvl\"",
+        "gold": "aqfxc zhtuw sorlv tzhurl"
+    },
+    "22": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"ewrqo asdifj qwert\", 3)\nprint(cipher_text)\n```\n\ncipher_text: hzttr dvglim tzhuw",
+        "gold": "hzutr dvglim tzhuw"
+    },
+    "23": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"qweiu zxcvn mpore ploaq\", 3)\nprint(cipher_text)\n```\n\nCipher text: txhlx cafyq psruh sordu",
+        "gold": "tzhlx cafyq psruh sordt"
+    },
+    "24": {
+        "input": "zxcme jter",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"zxcme jter\", 3)\nprint(cipher_text)\n```\n\nCipher text: cafph mxhu",
+        "gold": "cafph mwhu"
+    },
+    "25": {
+        "input": "olksad twuqwej",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"olksad twuqwej\", 6)\nprint(cipher_text)\n```\n\nCipher text: urqygj zcawcmq",
+        "gold": "urqygj zcawckp"
+    },
+    "26": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"bazolq kpwari uyqwer\", 6)\nprint(cipher_text)\n```\n\nCipher text: hgfury qvxcxo aewcux",
+        "gold": "hgfurw qvcgxo aewckx"
+    },
+    "27": {
+        "input": "rakibo zlmqwe",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"rakibo zlmqwe\", 6)\nprint(cipher_text)\n```\n\nCipher text: xgqhor frsawc",
+        "gold": "xgqohu frswck"
+    },
+    "28": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"yuiodaf ddsaok hd\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"eao ujgl jjyguq nj\"",
+        "gold": "eaoujgl jjyguq nj"
+    },
+    "29": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"opiqwer iuxzqwe kjrieq\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"uvocxkx oazfwck qpxokw\"",
+        "gold": "uvowckx oadfwck qpxokw"
+    },
+    "30": {
+        "input": "fiorst zxnvqwe",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"fiorst zxnvqwe\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"loxtyz fdtbwck\"",
+        "gold": "louxyz fdtbwck"
+    },
+    "31": {
+        "input": "blipzo akwer sui",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"blipzo akwer sui\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"hrovfu gqckx yzo\"",
+        "gold": "hrovfu gqckx yao"
+    },
+    "32": {
+        "input": "brifta volek drifty",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"brifta volek drifty\", 6)\nprint(cipher_text)\n```\n\nCipher text: hxolzg ruqkq jxolze",
+        "gold": "hxolzg burkq jxolze"
+    },
+    "33": {
+        "input": "gremplin zorfyl kout",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"gremplin zorfyl kout\", 6)\nprint(cipher_text)\n```\n\nmxmlvrto fuxleu qaux",
+        "gold": "mxksvrot fuxler quaz"
+    },
+    "34": {
+        "input": "chipda vincal jantroff",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"chipda vincal jantroff\", 6)\nprint(cipher_text)\n```\n\nOutput:\n```\ninovjg botigr pgtxvull\n```",
+        "gold": "inovjg botigr pgtzxull"
+    },
+    "35": {
+        "input": "siwind ferplom kilter",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"siwind ferplom kilter\", 6)\nprint(cipher_text)\n```\n\nCipher text: yomotj lkvvrus qorzkx",
+        "gold": "yocotj lkxvrus qorzkx"
+    },
+    "36": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"iiowe qwler povnf xazw\", 6)\nprint(cipher_text)\n```\n\nThe cipher text is:\noousk wbrkx vuttl dgfc",
+        "gold": "oouck wcrkx vubtl dgfc"
+    },
+    "37": {
+        "input": "qwlar opivn mdtar",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"qwlar opivn mdtar\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"swrgxv urmbt sjzgx\"",
+        "gold": "wcrgx uvobt sjzgx"
+    },
+    "38": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"riupt bcxnv poasd qwer\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"xouvz hdttr vugyj wc",
+        "gold": "xoavz hidtb vugyj wckx"
+    },
+    "39": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"klzwo mnbvc qweto\", 6)\nprint(cipher_text)\n```\n\nOutput:\n```\nqrbcu strbi wckzu\n```",
+        "gold": "qrfcu sthbi wckzu"
+    },
+    "40": {
+        "input": "rewquy savcx wepoi",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"rewquy savcx wepoi\", 6)\nprint(cipher_text)\n```\n\nCipher text: xkcyua ygbi dkurou",
+        "gold": "xkcwae ygbid ckvuo"
+    },
+    "41": {
+        "input": "mngtr opqwe laskf",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"mngtr opqwe laskf\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"stmyz uvwck rgxql\"",
+        "gold": "stmzx uvwck rgyql"
+    },
+    "42": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"piqwo asdur mxcvn qwer\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"vocyu gyjat sdiar wckx\"",
+        "gold": "vowcu gyjax sdibt wckx"
+    },
+    "43": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"ieour qwert asdrep mlpok\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"okuxa wcxjx gyjvkv sruuq\"",
+        "gold": "okuax wckxz gyjxkv srvuq"
+    },
+    "44": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"poieo xcvbn mwert qlpas\", 6)\nprint(cipher_text)\n```\n\nvouk uhibt sckxz wrvgx",
+        "gold": "vuoku dibht sckxz wrvgy"
+    },
+    "45": {
+        "input": "weruvx piwoew laors",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"weruvx piwoew laors\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"ckxaxb vmyuic rguxy\"",
+        "gold": "ckxabd vocukc rguxy"
+    },
+    "46": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"xncuz weqrt plois qweroi\", 6)\nprint(cipher_text)\n```\n\nCipher text: dtiaz ckxvx vrout wckxuo",
+        "gold": "dtiaf ckwxz vruoy wckxuo"
+    },
+    "47": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"ewrqo asdifj qwert\", 6)\nprint(cipher_text)\n```\n\nOutput:\n```plaintext\nkxxwu gyjo",
+        "gold": "kcxwu gyjolp wckxz"
+    },
+    "48": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"qweiu zxcvn mpore ploaq\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"wckoa fditr suvxk vrugw\"",
+        "gold": "wckoa fdibt svuxk vrugw"
+    },
+    "49": {
+        "input": "zxcme jter",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a')) if char.islower() else chr((ord(char) - ord('A') + shift_amount) % 26 + ord('A'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"zxcme jter\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"dfisj pzjx\"",
+        "gold": "fdisk pzkx"
+    },
+    "50": {
+        "input": "olksad twuqwej",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"olksad twuqwej\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"xutbjm cfdzfnr\"",
+        "gold": "xutbjm cfdzfns"
+    },
+    "51": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"bazolq kpwari uyqwer\", 9)\nprint(cipher_text)\n```\n\nCipher text: kjiuxz tyezar dzhfna",
+        "gold": "kjixuz tyfjar dhzfna"
+    },
+    "52": {
+        "input": "rakibo zlmqwe",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"rakibo zlmqwe\", 9)\nprint(cipher_text)\n```\n\nCipher text: `ajtrkx iuvzfn`",
+        "gold": "ajtrkx iuvzfn"
+    },
+    "53": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"yuiodaf ddsaok hd\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"hbnxjki mmzjtx qm\"",
+        "gold": "hdrxmjo mmbjxt qm"
+    },
+    "54": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"opiqwer iuxzqwe kjrieq\", 9)\nprint(cipher_text)\n```\n\nCipher text: xyrzfna rdmizfn tqsrmz",
+        "gold": "xyrzfna rdgizfn tsarnz"
+    },
+    "55": {
+        "input": "fiorst zxnvqwe",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"fiorst zxnvqwe\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"orxahc igwyezn\"",
+        "gold": "orxabc igwezfn"
+    },
+    "56": {
+        "input": "blipzo akwer sui",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"blipzo akwer sui\", 9)\nprint(cipher_text)\n```\n\nCipher text: kuryix jtdna bdr",
+        "gold": "kuryix jtfna bdr"
+    },
+    "57": {
+        "input": "brifta volek drifty",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"brifta volek drifty\", 9)\nprint(cipher_text)\n```\n\nCipher text: karlcj exuto mqrqwbx",
+        "gold": "karocj exunt maroch"
+    },
+    "58": {
+        "input": "gremplin zorfyl kout",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"gremplin zorfyl kout\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"puzvyurw ixaohu txd\"",
+        "gold": "panvyurw ixaohu txdc"
+    },
+    "59": {
+        "input": "chipda vincal jantroff",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"chipda vincal jantroff\", 9)\nprint(cipher_text)\n```\n\nCipher text: lqrsmj evwlju sjwaxyood",
+        "gold": "lqrymj erwlju sjwcaxoo"
+    },
+    "60": {
+        "input": "siwind ferplom kilter",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"siwind ferplom kilter\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"brpvwmn onayuxv tru",
+        "gold": "brfrwm onayuxv trucna"
+    },
+    "61": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"iiowe qwler povnf xazw\", 9)\nprint(cipher_text)\n```\n\nCipher text: rrxfn zfuto yxeow gjif",
+        "gold": "rrxfn zfuna yxewo gjif"
+    },
+    "62": {
+        "input": "qwlar opivn mdtar",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"qwlar opivn mdtar\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"zfvja xyrea wmijb\"",
+        "gold": "zfuja xyrew vmcja"
+    },
+    "63": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"riupt bcxnv poasd qwer\", 9)\nprint(cipher_text)\n```\n\nCipher text: ardyc klgew xyjbm zfna",
+        "gold": "ardyc klgwe yxjbm zfna"
+    },
+    "64": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"klzwo mnbvc qweto\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"tuexf vwkdv zndcx\"",
+        "gold": "tuifx vwkel zfncx"
+    },
+    "65": {
+        "input": "rewquy savcx wepoi",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"rewquy savcx wepoi\", 9)\nprint(cipher_text)\n```\n\nCipher text: anfzxd bjeld fnxrx",
+        "gold": "anfzdh bjelg fnyxr"
+    },
+    "66": {
+        "input": "mngtr opqwe laskf",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"mngtr opqwe laskf\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"vwpga xyzfn ujbrn\"",
+        "gold": "vwpca xyzfn ujbto"
+    },
+    "67": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"piqwo asdur mxcvn qwer\", 9)\nprint(cipher_text)\n```\n\nCipher text: yrbxf jbmda vglwe zndk",
+        "gold": "yrzfx jbmda vglew zfna"
+    },
+    "68": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"ieour qwert asdrep mlpok\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"rnxdz zfnao jcmxny vuytx\"",
+        "gold": "rnxda zfnac jbmany vuyxt"
+    },
+    "69": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"poieo xcvbn mwert qlpas\", 9)\nprint(cipher_text)\n```\n\nCipher text: yxrnx glekw vfdac zuejb",
+        "gold": "yxrnx glekw vfnac zuyjb"
+    },
+    "70": {
+        "input": "weruvx piwoew laors",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"weruvx piwoew laors\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"fnadwe yrxfne ujxab\"",
+        "gold": "fnadeg yrfxnf ujxab"
+    },
+    "71": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"xncuz weqrt plois qweroi\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"gwldb fnzay yuxrb zfnaxr\"",
+        "gold": "gwldi fnzac yuxrb zfnaxr"
+    },
+    "72": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"ewrqo asdifj qwert\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"ndzvx jbmrsq zfna\"",
+        "gold": "nfazx jbmros zfnac"
+    },
+    "73": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"qweiu zxcvn mpore ploaq\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"zfnrd iglwe vyxan yuxjz\"",
+        "gold": "zfnrd iglew vyxan yuxjz"
+    },
+    "74": {
+        "input": "zxcme jter",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"zxcme jter\", 9)\nprint(cipher_text)\n```\n\ncipher_text: iglvn sctr",
+        "gold": "iglvn scna"
+    },
+    "75": {
+        "input": "olksad twuqwej",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"olksad twuqwej\", 12)\nprint(cipher_text)\n```\n\nCipher text: axwemo fyiicqv",
+        "gold": "axwemp figciqv"
+    },
+    "76": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"bazolq kpwari uyqwer\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"nmlaxc wbcmdt agiism\"",
+        "gold": "nmlaxc wbimdu gkciqd"
+    },
+    "77": {
+        "input": "rakibo zlmqwe",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"rakibo zlmqwe\", 12)\nprint(cipher_text)\n```\n\nCipher text: dmuwda lxymiq",
+        "gold": "dmwuna lxyciq"
+    },
+    "78": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"yuiodaf ddsaok hd\", 12)\nprint(cipher_text)\n```\n\nCipher text: kgwapmr ppemaw tp",
+        "gold": "kguapmr ppemaw tp"
+    },
+    "79": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"opiqwer iuxzqwe kjrieq\", 12)\nprint(cipher_text)\n```\n\nCipher text: abucies uiflcis wldusc",
+        "gold": "abuciqd ugjlciq wvduqc"
+    },
+    "80": {
+        "input": "fiorst zxnvqwe",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"fiorst zxnvqwe\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"tuaedf lzziyis\"",
+        "gold": "ruadef ljzhciq"
+    },
+    "81": {
+        "input": "blipzo akwer sui",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char.lower()) - 97 + shift_amount) % 26 + 97)\n            if char.isupper():\n                new_char = new_char.upper()\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"blipzo akwer sui\", 12)\nprint(cipher_text)\n```\n\nCipher text: nxubla mwisj eaw",
+        "gold": "nxubla mwiqd egu"
+    },
+    "82": {
+        "input": "brifta volek drifty",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"brifta volek drifty\", 12)\nprint(cipher_text)\n```\n\nThe cipher text is:\nndulfm xaxqw pduvzkq",
+        "gold": "ndurfm haxqw pdurfk"
+    },
+    "83": {
+        "input": "gremplin zorfyl kout",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"gremplin zorfyl kout\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"sdsbyxuz lbdrkz wagf\"",
+        "gold": "sdqybxuz ladrkx wagf"
+    },
+    "84": {
+        "input": "chipda vincal jantroff",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char.lower()) - 97 + shift_amount) % 26 + 97)\n            if char.isupper():\n                new_char = new_char.upper()\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"chipda vincal jantroff\", 12)\nprint(cipher_text)\n```\n\nCipher text: otubpm huzone wmfzbarrh",
+        "gold": "otubpm huzomx vmzfdarr"
+    },
+    "85": {
+        "input": "siwind ferplom kilter",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"siwind ferplom kilter\", 12)\nprint(cipher_text)\n```\n\nCipher text: eucypz rqdxbay wuxfqd",
+        "gold": "euiuzp rqdbxay wuxfqd"
+    },
+    "86": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"iiowe qwler povnf xazw\", 12)\nprint(cipher_text)\n```\n\nCipher text: uuciq cixqd bahlr lmli",
+        "gold": "uuaiq cixqd bahzr jmli"
+    },
+    "87": {
+        "input": "qwlar opivn mdtar",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"qwlar opivn mdtar\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"icxmd abxhf ypfmd\"",
+        "gold": "cixmd abuhz ypfmd"
+    },
+    "88": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a')) if char.islower() else chr((ord(char) - ord('A') + shift_amount) % 26 + ord('A'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"riupt bcxnv poasd qwer\", 12)\nprint(cipher_text)\n```\n\nCipher text: duwbf nplzh bckep iqi",
+        "gold": "dugbf nojzh bamep ciqd"
+    },
+    "89": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"klzwo mnbvc qweto\", 12)\nprint(cipher_text)\n```\n\nCipher text: wxlia yznho igyro",
+        "gold": "wxlia yznho ciqfa"
+    },
+    "90": {
+        "input": "rewquy savcx wepoi",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"rewquy savcx wepoi\", 12)\nprint(cipher_text)\n```\n\ndmiyag emhpi iqbau",
+        "gold": "dqicgk emhoj iqbau"
+    },
+    "91": {
+        "input": "mngtr opqwe laskf",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"mngtr opqwe laskf\", 12)\nprint(cipher_text)\n```\n\nCipher text: yzvfd abiai xmewr",
+        "gold": "yzsfd abciq xmewr"
+    },
+    "92": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"piqwo asdur mxcvn qwer\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"bucia mepgd yjohz iiqj\"",
+        "gold": "bucia mepgd yjohz ciqd"
+    },
+    "93": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"ieour qwert asdrep mlpok\", 12)\nprint(cipher_text)\n```\n\nCipher text: uqaif cizfd mepdar yxbaw",
+        "gold": "uqagd ciqdf mepdqb yxbaw"
+    },
+    "94": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"poieo xcvbn mwert qlpas\", 12)\nprint(cipher_text)\n```\n\nCipher text:\nbawqa joipz yisfd cxbme",
+        "gold": "bauqa johnz yiqdf cxbme"
+    },
+    "95": {
+        "input": "weruvx piwoew laors",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"weruvx piwoew laors\", 12)\nprint(cipher_text)\n```\n\nCipher text: iqdwhj buyaqi xm",
+        "gold": "iqdghj buiaqi xmade"
+    },
+    "96": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a')) if char.islower() else chr((ord(char) - ord('A') + shift_amount) % 26 + ord('A'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"xncuz weqrt plois qweroi\", 12)\nprint(cipher_text)\n```\n\nCipher text: jzoml iagtd xdaue iasdaq",
+        "gold": "jzogl iqcdf bxaue ciqdau"
+    },
+    "97": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"ewrqo asdifj qwert\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"qidbc mepuvr cizfd\"",
+        "gold": "qidca mepurv ciqdf"
+    },
+    "98": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"qweiu zxcvn mpore ploaq\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"ciasg lzipz ybafq rbcmc\"",
+        "gold": "ciqug ljohz ybadq bxamc"
+    },
+    "99": {
+        "input": "zxcme jter",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"zxcme jter\", 12)\nprint(cipher_text)\n```\n\nCipher text: lzoyo vfmq",
+        "gold": "ljoyq vfqd"
+    }
+}

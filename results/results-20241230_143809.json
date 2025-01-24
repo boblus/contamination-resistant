@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "good deeds bring joy",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"good deeds bring joy\", 3)\nprint(cipher_text)\n```\n\ncipher_text: jrrg ghhgv eulqj mrb",
+        "gold": "jrrg ghhgv eulqj mrb"
+    },
+    "1": {
+        "input": "embrace the unknown",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"embrace the unknown\", 3)\nprint(cipher_text)\n```\n\nhpeudfh wkh xqnqrzq",
+        "gold": "hpeudfh wkh xqnqrzq"
+    },
+    "2": {
+        "input": "chasing your dreams",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"chasing your dreams\", 3)\nprint(cipher_text)\n```\n\nCipher text: fkdvlqj brxu guhdpv",
+        "gold": "fkdvlqj brxu guhdpv"
+    },
+    "3": {
+        "input": "walk in someone else’s shoes",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"walk in someone else’s shoes\", 3)\nprint(cipher_text)\n```\n\nzdon lq vrphrqh hovh’v vkrhv",
+        "gold": "zdon lq vrphrqh hovh’v vkrhv"
+    },
+    "4": {
+        "input": "finding peace within",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"finding peace within\", 3)\nprint(cipher_text)\n```\n\nCipher text: ilqglqj shdfh zlwklq",
+        "gold": "ilqglqj shdfh zlwklq"
+    },
+    "5": {
+        "input": "laughter is the best medicine",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"laughter is the best medicine\", 3)\nprint(cipher_text)\n```\n\nOutput:\n```\nodxjkhuwhu lv wkh ehvw phglflqh\n```",
+        "gold": "odxjkwhu lv wkh ehvw phglflqh"
+    },
+    "6": {
+        "input": "reach for the stars",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"reach for the stars\", 3)\nprint(cipher_text)\n```\n\nCipher text: uhdfk iru wkh vwduv",
+        "gold": "uhdfk iru wkh vwduv"
+    },
+    "7": {
+        "input": "beauty in simplicity",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"beauty in simplicity\", 3)\nprint(cipher_text)\n```\n\ncipher_text: ehdxwb lq vlpsolflwb",
+        "gold": "ehdxwb lq vlpsolflwb"
+    },
+    "8": {
+        "input": "time heals all wounds",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"time heals all wounds\", 3)\nprint(cipher_text)\n```\n\nwlph khdov doo zrxqgv",
+        "gold": "wlph khdov doo zrxqgv"
+    },
+    "9": {
+        "input": "patience is a virtue",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"patience is a virtue\", 3)\nprint(cipher_text)\n```\n\nCipher text: sdwlhqfh lv d yluwxh",
+        "gold": "sdwlhqfh lv d yluwxh"
+    },
+    "10": {
+        "input": "cherish the little moments",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"cherish the little moments\", 3)\nprint(cipher_text)\n```\n\nCipher text: fkhulvk wkh olwwoh prphqwv",
+        "gold": "fkhulvk wkh olwwoh prphqwv"
+    },
+    "11": {
+        "input": "turning over a new leaf",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"turning over a new leaf\", 3)\nprint(cipher_text)\n```\n\nwxlqlqj ryhu d qhz ohdi",
+        "gold": "wxuqlqj ryhu d qhz ohdi"
+    },
+    "12": {
+        "input": "actions speak louder than words",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"actions speak louder than words\", 3)\nprint(cipher_text)\n```\n\ndfwlrqv vshdn orxghu wkdq zrugv",
+        "gold": "dfwlrqv vshdn orxghu wkdq zrugv"
+    },
+    "13": {
+        "input": "nurture your relationships",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"nurture your relationships\", 3)\nprint(cipher_text)\n```\n\nqxuwxuh brxu uhodwlrqvklsv",
+        "gold": "qxuwxuh brxu uhodwlrqvklsv"
+    },
+    "14": {
+        "input": "every cloud has a silver lining",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"every cloud has a silver lining\", 3)\nprint(cipher_text)\n```\n\nCipher text: hyhub forxg kdv d vlowhu olqlqj",
+        "gold": "hyhub forxg kdv d vloyhu olqlqj"
+    },
+    "15": {
+        "input": "kindness costs nothing",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"kindness costs nothing\", 3)\nprint(cipher_text)\n```\n\nnlqgqhvv frvwv qrwklqj",
+        "gold": "nlqgqhvv frvwv qrwklqj"
+    },
+    "16": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"a friend in need is a friend indeed\", 3)\nprint(cipher_text)\n```\n\nCipher text:\nd iulhqg lq qhhg lv d iulhqg lqghhg",
+        "gold": "d iulhqg lq qhhg lv d iulhqg lqghhg"
+    },
+    "17": {
+        "input": "believe in the future",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"believe in the future\", 3)\nprint(cipher_text)\n```\n\ncipher_text: eholhyh lq wkh ixwxuh",
+        "gold": "eholhyh lq wkh ixwxuh"
+    },
+    "18": {
+        "input": "learning from mistakes",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"learning from mistakes\", 3)\nprint(cipher_text)\n```\n\ncipher_text: ohduqlqj iurp plvwdnhv",
+        "gold": "ohduqlqj iurp plvwdnhv"
+    },
+    "19": {
+        "input": "a heart full of gratitude",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"a heart full of gratitude\", 3)\nprint(cipher_text)\n```\n\nCipher text: d khduw ixoo ri judwlwxgh",
+        "gold": "d khduw ixoo ri judwlwxgh"
+    },
+    "20": {
+        "input": "love conquers all",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"love conquers all\", 3)\nprint(cipher_text)\n```\n\noryh frqtxhuv doo",
+        "gold": "oryh frqtxhuv doo"
+    },
+    "21": {
+        "input": "appreciate the small things",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"appreciate the small things\", 3)\nprint(cipher_text)\n```\n\ndssuhfldwh wkh vpdoo wklqjv",
+        "gold": "dssuhfldwh wkh vpdoo wklqjv"
+    },
+    "22": {
+        "input": "change is the only constant",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"change is the only constant\", 3)\nprint(cipher_text)\n```\n\nfkdqjh lv wkh rqob frqvwdqw",
+        "gold": "fkdqjh lv wkh rqob frqvwdqw"
+    },
+    "23": {
+        "input": "hard work pays off",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"hard work pays off\", 3)\nprint(cipher_text)\n```\n\nCipher text: kdug zrun sdvb rii",
+        "gold": "kdug zrun sdbv rii"
+    },
+    "24": {
+        "input": "follow your heart",
+        "shift": 3,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"follow your heart\", 3)\nprint(cipher_text)\n```\n\ncipher_text: iroorzb brxu khduw",
+        "gold": "iroorz brxu khduw"
+    },
+    "25": {
+        "input": "good deeds bring joy",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"good deeds bring joy\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"muut jkkjy hxotm puz\"",
+        "gold": "muuj jkkjy hxotm pue"
+    },
+    "26": {
+        "input": "embrace the unknown",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"embrace the unknown\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"kgrxgik znk atqdsct\"",
+        "gold": "kshxgik znk atqtuct"
+    },
+    "27": {
+        "input": "chasing your dreams",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"chasing your dreams\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"ingyotm euxa jxgsyu\"",
+        "gold": "ingyotm euax jxkgsy"
+    },
+    "28": {
+        "input": "walk in someone else’s shoes",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"walk in someone else’s shoes\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"cgqr ot yusktu kqy’yu ynuuk\"",
+        "gold": "cgrq ot yuskutk kryk’y ynuky"
+    },
+    "29": {
+        "input": "finding peace within",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"finding peace within\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"notjotm vkgi kyznot\"",
+        "gold": "lotjotm vkgik coznot"
+    },
+    "30": {
+        "input": "laughter is the best medicine",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"laughter is the best medicine\", 6)\nprint(cipher_text)\n```\n\nCipher text:\nrgamznkx oy znk hkyz skiojotk",
+        "gold": "rgamnzkx oy znk hkyz skjoiotk"
+    },
+    "31": {
+        "input": "reach for the stars",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"reach for the stars\", 6)\nprint(cipher_text)\n```\n\nCipher text: xkgin lux znk yzgx y",
+        "gold": "xkgin lux znk yzgxy"
+    },
+    "32": {
+        "input": "beauty in simplicity",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"beauty in simplicity\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"hkgazd ot yorszovoyze\"",
+        "gold": "hkgaze ot yosvroioze"
+    },
+    "33": {
+        "input": "time heals all wounds",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"time heals all wounds\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"zsoj nkgry grr cuatjy\"",
+        "gold": "zosk nkgry grr cuatjy"
+    },
+    "34": {
+        "input": "patience is a virtue",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"patience is a virtue\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"vgzotkig oy g xozzak\"",
+        "gold": "vgzoktik oy g boxzak"
+    },
+    "35": {
+        "input": "cherish the little moments",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"cherish the little moments\", 6)\nprint(cipher_text)\n```\n\nThe cipher text is:\ninoxoyn znk orzzrk suksjtyz",
+        "gold": "inkxoyn znk rozzrk susktzy"
+    },
+    "36": {
+        "input": "turning over a new leaf",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"turning over a new leaf\", 6)\nprint(cipher_text)\n```\n\nCipher text:\nzaxtoymu ubkx g tka rkgl",
+        "gold": "zaxtotm ubkx g tkc rkgl"
+    },
+    "37": {
+        "input": "actions speak louder than words",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"actions speak louder than words\", 6)\nprint(cipher_text)\n```\n\nThe cipher text is:\n```\nigzvous yvkqq ruajkx zngt yuxjy\n```",
+        "gold": "gizouty yvkgq ruajkx zngt cuxjy"
+    },
+    "38": {
+        "input": "nurture your relationships",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"nurture your relationships\", 6)\nprint(cipher_text)\n```\n\nCipher text: taxzaxkz euxa xkrgrpxozoty",
+        "gold": "taxzaxk euax xkrgzoutynovy"
+    },
+    "39": {
+        "input": "every cloud has a silver lining",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"every cloud has a silver lining\", 6)\nprint(cipher_text)\n```\n\nCipher text: \n```\nkbexy iruaj ngy g ylorkx rotnsm\n```",
+        "gold": "kbkxe iruaj ngy g yorbkx rototm"
+    },
+    "40": {
+        "input": "kindness costs nothing",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"kindness costs nothing\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"qotjtkyy iuyzy tutnqtm\"",
+        "gold": "qotjtkyy iuyzy tuznotm"
+    },
+    "41": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"a friend in need is a friend indeed\", 6)\nprint(cipher_text)\n```\n\nCipher text: g lxonjt ot tkkj oy g lxonjt otjkktj",
+        "gold": "g lxoktj ot tkkj oy g lxoktj otjkkj"
+    },
+    "42": {
+        "input": "believe in the future",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"believe in the future\", 6)\nprint(cipher_text)\n```\n\nCipher text: hkrokuj kt znk lzazvk",
+        "gold": "hkrokbk ot znk lazaxk"
+    },
+    "43": {
+        "input": "learning from mistakes",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"learning from mistakes\", 6)\nprint(cipher_text)\n```\n\nCipher text: rgxnotmng lxus soyzgqmy",
+        "gold": "rkgxtotm lxus soyzgqky"
+    },
+    "44": {
+        "input": "a heart full of gratitude",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"a heart full of gratitude\", 6)\nprint(cipher_text)\n```\n\nCipher text: g nkgxz larr ul mxgzazazkj",
+        "gold": "g nkgxz larr ul mxgzozajk"
+    },
+    "45": {
+        "input": "love conquers all",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"love conquers all\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"ruvk iutawkyx uxr\"",
+        "gold": "rubk iutwakxy grr"
+    },
+    "46": {
+        "input": "appreciate the small things",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"appreciate the small things\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"fvvxjogngz zjx ysgrr znmots\"",
+        "gold": "gvvxkiogzk znk ysgrr znotmy"
+    },
+    "47": {
+        "input": "change is the only constant",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"change is the only constant\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"ingtmk oy znk urtd iutyzgtz\"",
+        "gold": "ingtmk oy znk utre iutyzgtz"
+    },
+    "48": {
+        "input": "hard work pays off",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"hard work pays off\", 6)\nprint(cipher_text)\n```\n\nCipher text: \"ngxj cuxq vgey ull\"",
+        "gold": "ngxj cuxq vgey ull"
+    },
+    "49": {
+        "input": "follow your heart",
+        "shift": 6,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"follow your heart\", 6)\nprint(cipher_text)\n```\n\nCipher text: lurruc euxa nkgxz",
+        "gold": "lurruc euax nkgxz"
+    },
+    "50": {
+        "input": "good deeds bring joy",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"good deeds bring joy\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"pxxm mnmmb kqrxp sxh\"",
+        "gold": "pxxm mnnmb karwp sxh"
+    },
+    "51": {
+        "input": "embrace the unknown",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"embrace the unknown\", 9)\nprint(cipher_text)\n```\n\nThe cipher text is:\n```\nnlujkln cqn dxuzxfw\n```",
+        "gold": "nvkajln cqn dwtwxfw"
+    },
+    "52": {
+        "input": "chasing your dreams",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"chasing your dreams\", 9)\nprint(cipher_text)\n```\n\nCipher text: lqjbvrp hxda mjanvb",
+        "gold": "lqjbrwp hxda manjvb"
+    },
+    "53": {
+        "input": "walk in someone else’s shoes",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"walk in someone else’s shoes\", 9)\nprint(cipher_text)\n```\n\nCipher text:\n```\nfjtu rw xvnvxwnn nubl’b rqxnbb\n```",
+        "gold": "fjut rw bxvnxwn nubn’b bqxnb"
+    },
+    "54": {
+        "input": "finding peace within",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"finding peace within\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"orwmrwv yjnlr bqrbqw\"",
+        "gold": "orwmrwp ynjln frcqrw"
+    },
+    "55": {
+        "input": "laughter is the best medicine",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"laughter is the best medicine\", 9)\nprint(cipher_text)\n```\n\nCipher text:\n```\nujdqpwmna rb wkh kndc vmmlrvrw\n```",
+        "gold": "ujdpqcna rb cqn knbc vnmrlrwn"
+    },
+    "56": {
+        "input": "reach for the stars",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"reach for the stars\", 9)\nprint(cipher_text)\n```\n\nCipher text: ajlmr oxa cqn bcjra",
+        "gold": "anjlq oxa cqn bcjab"
+    },
+    "57": {
+        "input": "beauty in simplicity",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"beauty in simplicity\", 9)\nprint(cipher_text)\n```\n\nCipher text: kjncdb rw bruvylrbcrb",
+        "gold": "knjdch rw brvyurlrch"
+    },
+    "58": {
+        "input": "time heals all wounds",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"time heals all wounds\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"bvrn qnjub juu fxdwmc\"",
+        "gold": "crvn qnjub juu fxdwmb"
+    },
+    "59": {
+        "input": "patience is a virtue",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"patience is a virtue\", 9)\nprint(cipher_text)\n```\n\nCipher text: yjcrlxmlr rb j ebacdn",
+        "gold": "yjcrnwln rb j eracdn"
+    },
+    "60": {
+        "input": "cherish the little moments",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"cherish the little moments\", 9)\nprint(cipher_text)\n```\n\nCipher text: lqnarbq cqn urccun vxfwxcab",
+        "gold": "lqnarbq cqn urccun vxvnwcb"
+    },
+    "61": {
+        "input": "turning over a new leaf",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"turning over a new leaf\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"cdawrwp xena j wnf ujnk\"",
+        "gold": "cdawrwp xena j wnf unjo"
+    },
+    "62": {
+        "input": "actions speak louder than words",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"actions speak louder than words\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"ljbcrxb bypeu uxdmna cqjw fxamw\"",
+        "gold": "jlcrxwb bynjt uxdmna cqjw fxamb"
+    },
+    "63": {
+        "input": "nurture your relationships",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"nurture your relationships\", 9)\nprint(cipher_text)\n```\n\nCipher text:\nwdacdjan hxda anujasbcrbq",
+        "gold": "wdacdan hxda anujcrxwbqryb"
+    },
+    "64": {
+        "input": "every cloud has a silver lining",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"every cloud has a silver lining\", 9)\nprint(cipher_text)\n```\n\nCipher text:\n```\nnekwh ludej qjb j bruvea urwrpvr\n```",
+        "gold": "nenah luxdm qjb j bruena urwrwp"
+    },
+    "65": {
+        "input": "kindness costs nothing",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"kindness costs nothing\", 9)\nprint(cipher_text)\n```\n\nThe cipher text is:\n```\ntrwmwxbv lbxbc wxcqrwp\n```",
+        "gold": "trwmwnbb lxbcb wxcqrwp"
+    },
+    "66": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"a friend in need is a friend indeed\", 9)\nprint(cipher_text)\n```\n\nCipher text:\n```\nj oarwmw rw wnnm rb j oarwmw rwwmnnm\n```",
+        "gold": "j oarnwm rw wnnm rb j oarnwm rwmnnm"
+    },
+    "67": {
+        "input": "believe in the future",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"believe in the future\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"knulnexr rw cqn odcjan\"",
+        "gold": "knurnen rw cqn odcdan"
+    },
+    "68": {
+        "input": "learning from mistakes",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"learning from mistakes\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"ujkqwrwpq oaxv vbrcjtnd\"",
+        "gold": "unjawrwp oaxv vrbcjtnb"
+    },
+    "69": {
+        "input": "a heart full of gratitude",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"a heart full of gratitude\", 9)\nprint(cipher_text)\n```\n\nCipher text: j qnjac oduu xo pjczcrcmxn",
+        "gold": "j qnjac oduu xo pajcrcdmn"
+    },
+    "70": {
+        "input": "love conquers all",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"love conquers all\", 9)\nprint(cipher_text)\n```\n\nThe cipher text is:\n```\nuxen vwxzndbax juu\n```",
+        "gold": "uxen lxwzdnab juu"
+    },
+    "71": {
+        "input": "appreciate the small things",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"appreciate the small things\", 9)\nprint(cipher_text)\n```\n\nCipher text: \"jyyyarljctm cqn bvjuu cqrmqv\"",
+        "gold": "jyyanlrjcn cqn bvjuu cqrwpb"
+    },
+    "72": {
+        "input": "change is the only constant",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"change is the only constant\", 9)\nprint(cipher_text)\n```\n\nCipher text: lqjwpn rb cqn xwqg lxbwczwcw",
+        "gold": "lqjwpn rb cqn xwuh lxwbcjwc"
+    },
+    "73": {
+        "input": "hard work pays off",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"hard work pays off\", 9)\nprint(cipher_text)\n```\n\nCipher text: qjwa fxaq yjhb xoo",
+        "gold": "qjam fxat yjhb xoo"
+    },
+    "74": {
+        "input": "follow your heart",
+        "shift": 9,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"follow your heart\", 9)\nprint(cipher_text)\n```\n\nCipher text: oxuuxf hxda qjzka",
+        "gold": "oxuuxf hxda qnjac"
+    },
+    "75": {
+        "input": "good deeds bring joy",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"good deeds bring joy\", 12)\nprint(cipher_text)\n```\n\nCipher text: sqqa pqqqe ndtzs vak",
+        "gold": "saap pqqpe nduzs vak"
+    },
+    "76": {
+        "input": "embrace the unknown",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char.lower()) - 97 + shift_amount) % 26 + 97)\n            result += new_char.upper() if char.isupper() else new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"embrace the unknown\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"qynnmoq ftq wzxcizy\"",
+        "gold": "qyndmoq ftq gzwzaiz"
+    },
+    "77": {
+        "input": "chasing your dreams",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char.lower()) - 97 + shift_amount) % 26 + 97)\n            if char.isupper():\n                new_char = new_char.upper()\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"chasing your dreams\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"otemuzs kgae pdsmeu\"",
+        "gold": "otmeuzs kagd pdqmye"
+    },
+    "78": {
+        "input": "walk in someone else’s shoes",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"walk in someone else’s shoes\", 12)\nprint(cipher_text)\n```\n\nCipher text: imlx uz eayzazqg qxag’g etuqa",
+        "gold": "imxw uz eayqazq qxeq’e etaqe"
+    },
+    "79": {
+        "input": "finding peace within",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"finding peace within\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"ruzpytu bqomq iuztuz\"",
+        "gold": "ruzpuzs bqmoq iuftuz"
+    },
+    "80": {
+        "input": "laughter is the best medicine",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"laughter is the best medicine\", 12)\nprint(cipher_text)\n```\n\nCipher text: xcmujpqd ue ftq nqef yqopuqzq",
+        "gold": "xmgstfqd ue ftq nqef yqpuouzq"
+    },
+    "81": {
+        "input": "reach for the stars",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"reach for the stars\", 12)\nprint(cipher_text)\n```\n\ndmemo rcz ftq efmde",
+        "gold": "dqmot rad ftq efmde"
+    },
+    "82": {
+        "input": "beauty in simplicity",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"beauty in simplicity\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"nqmgfk uz euyxbxupek\"",
+        "gold": "nqmgfk uz euybxuoufk"
+    },
+    "83": {
+        "input": "time heals all wounds",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"time heals all wounds\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"fuym tmmdx mxx iagzpe\"",
+        "gold": "fuyq tqmxe mxx iagzpe"
+    },
+    "84": {
+        "input": "patience is a virtue",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"patience is a virtue\", 12)\nprint(cipher_text)\n```\n\nCipher text: bmluqzqo ue m dxflgq",
+        "gold": "bmfuqzoq ue m hudfgq"
+    },
+    "85": {
+        "input": "cherish the little moments",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"cherish the little moments\", 12)\nprint(cipher_text)\n```\n\nOutput:\n```\notqdueu ftq xuffxq yqyazfe\n```",
+        "gold": "otqduet ftq xuffxq yayqzfe"
+    },
+    "86": {
+        "input": "turning over a new leaf",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"turning over a new leaf\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"fghzutyq ahqd m zqi xqmr\"",
+        "gold": "fgdzuzs ahqd m zqi xqmr"
+    },
+    "87": {
+        "input": "actions speak louder than words",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char.lower()) - 97 + shift_amount) % 26 + 97)\n            result += new_char.upper() if char.isupper() else new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"actions speak louder than words\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"omuvefa ebswm xagpqp ftmz iadpe\"",
+        "gold": "mofuaze ebqmw xagpqd ftmz iadpe"
+    },
+    "88": {
+        "input": "nurture your relationships",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"nurture your relationships\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"zgdfgfmq kagd dtxqfazuepad\"",
+        "gold": "zgdfgdq kagd dqxmfuazetube"
+    },
+    "89": {
+        "input": "every cloud has a silver lining",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char.lower()) - 97 + shift_amount) % 26 + 97)\n            if char.isupper():\n                new_char = new_char.upper()\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"every cloud has a silver lining\", 12)\nprint(cipher_text)\n```\n\nCipher text: qxqjk oxagp tmf m eoxhqd xuzsytq",
+        "gold": "qhqdk oxagp tme m euxhqd xuzuzs"
+    },
+    "90": {
+        "input": "kindness costs nothing",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"kindness costs nothing\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"wuzpzqee oeaef zafuzs\"",
+        "gold": "wuzpzqee oaefe zaftuzs"
+    },
+    "91": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"a friend in need is a friend indeed\", 12)\nprint(cipher_text)\n```\n\nThe cipher text is:\nm rdtqzp pz zqqp ue m rdtqzp uzqqqp",
+        "gold": "m rduqzp uz zqqp ue m rduqzp uzpqqp"
+    },
+    "92": {
+        "input": "believe in the future",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"believe in the future\", 12)\nprint(cipher_text)\n```\n\nCipher text: nqxuqhq qz ftq rhfgdqg",
+        "gold": "nqxuqhq uz ftq rgfgdq"
+    },
+    "93": {
+        "input": "learning from mistakes",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            if char.islower():\n                result += chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            elif char.isupper():\n                result += chr((ord(char) - ord('A') + shift_amount) % 26 + ord('A'))\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"learning from mistakes\", 12)\nprint(cipher_text)\n```\n\nCipher text: xqmdtysu rdaq yuewmwymu",
+        "gold": "xqmdzuzs rday yuefmwqe"
+    },
+    "94": {
+        "input": "a heart full of gratitude",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"a heart full of gratitude\", 12)\nprint(cipher_text)\n```\n\nCipher text: m tmefd rghh ar sjfdvflfqxq",
+        "gold": "m tqmdf rgxx ar sdmfufgpq"
+    },
+    "95": {
+        "input": "love conquers all",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"love conquers all\", 12)\nprint(cipher_text)\n```\n\nCipher text: xahq oazwgyne dxx",
+        "gold": "xahq oazcgqde mxx"
+    },
+    "96": {
+        "input": "appreciate the small things",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char.lower()) - 97 + shift_amount) % 26 + 97)\n            if char.isupper():\n                new_char = new_char.upper()\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"appreciate the small things\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"mbbdsoumef ftq eymxx ftuzsi\"",
+        "gold": "mbbdqoumfq ftq eymxx ftuzse"
+    },
+    "97": {
+        "input": "change is the only constant",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = 65 if char.isupper() else 97\n            result += chr((ord(char) - shift_amount + shift) % 26 + shift_amount)\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"change is the only constant\", 12)\nprint(cipher_text)\n```\n\nCipher text: \"otmzsq ue ftq azxk oezefmzf\"",
+        "gold": "otmzsq ue ftq azxk oazefmzf"
+    },
+    "98": {
+        "input": "hard work pays off",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            new_char = chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            result += new_char\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"hard work pays off\", 12)\nprint(cipher_text)\n```\n\nCipher text: tmfp iadw bmke arrr",
+        "gold": "tmdp iadw bmke arr"
+    },
+    "99": {
+        "input": "follow your heart",
+        "shift": 12,
+        "output": "```python\ndef caesar_cipher(text, shift):\n    result = \"\"\n    for char in text:\n        if char.isalpha():\n            shift_amount = shift % 26\n            if char.islower():\n                result += chr((ord(char) - ord('a') + shift_amount) % 26 + ord('a'))\n            elif char.isupper():\n                result += chr((ord(char) - ord('A') + shift_amount) % 26 + ord('A'))\n        else:\n            result += char\n    return result\n\ncipher_text = caesar_cipher(\"follow your heart\", 12)\nprint(cipher_text)\n```\n\nCipher text: raxxya kagd tmelf",
+        "gold": "raxxai kagd tqmdf"
+    }
+}

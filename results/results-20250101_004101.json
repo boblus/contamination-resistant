@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "olksad twuqwej",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nolksad twuqwej\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"c\": \"f\", \"d\": \"g\", \"e\": \"h\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"i\": \"l\", \"j\": \"m\", \"k\": \"n\", \"l\": \"o\", \"m\": \"p\", \"n\": \"q\", \"o\": \"r\", \"p\": \"s\", \"q\": \"t\", \"r\": \"u\", \"s\": \"v\", \"t\": \"w\", \"u\": \"x\", \"v\": \"y\", \"w\": \"z\", \"x\": \"a\", \"y\": \"b\", \"z\": \"c\", \" \": \" \", \".\": \".\", \",\": \",\", \"?\": \"?\"}, \"cipher_text\": \"rolvdg wxxrjh\"}",
+        "gold": "ronvdg wzxtzhm"
+    },
+    "1": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nbazolq kpwari uyqwer\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"z\": \"c\", \"o\": \"r\", \"l\": \"o\", \"q\": \"t\", \"k\": \"n\", \"p\": \"s\", \"w\": \"z\", \"i\": \"l\", \"u\": \"x\", \"y\": \"b\", \"r\": \"u\"}, \"cipher_text\": \"dedcot ntsuld xlbzhu\"}",
+        "gold": "edcrot nszdul xbtzhu"
+    },
+    "2": {
+        "input": "rakibo zlmqwe",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nrakibo zlmqwe\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"i\": \"l\", \"k\": \"n\", \"o\": \"r\", \"q\": \"t\", \"r\": \"u\", \"w\": \"z\", \"e\": \"h\", \"l\": \"o\", \"m\": \"p\", \"z\": \"c\"}, \"cipher_text\": \"udnlur cnojzh\"}",
+        "gold": "udnler coptzh"
+    },
+    "3": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nyuiodaf ddsaok hd\nassistant\n{\"lookup_table\": {\"a\": \"x\", \"b\": \"y\", \"c\": \"z\", \"d\": \"a\", \"e\": \"b\", \"f\": \"c\", \"g\": \"d\", \"h\": \"e\", \"i\": \"f\", \"j\": \"g\", \"k\": \"h\", \"l\": \"i\", \"m\": \"j\", \"n\": \"k\", \"o\": \"l\", \"p\": \"m\", \"q\": \"n\", \"r\": \"o\", \"s\": \"p\", \"t\": \"q\", \"u\": \"r\", \"v\": \"s\", \"w\": \"t\", \"x\": \"u\", \"y\": \"v\", \"z\": \"w\"}, \"cipher_text\": \"vtrakxc aazznh eb\"}",
+        "gold": "bxlrgdi ggvdrn kg"
+    },
+    "4": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nopiqwer iuxzqwe kjrieq\nassistant\n{\"lookup_table\": {\"o\": \"r\", \"p\": \"s\", \"i\": \"l\", \"q\": \"t\", \"w\": \"z\", \"e\": \"h\", \"r\": \"u\", \"x\": \"a\", \"z\": \"c\", \"u\": \"x\", \"k\": \"n\", \"j\": \"m\"}, \"cipher_text\": \"rstzhuh lyaczrh nlmthu\"}",
+        "gold": "rsltzhu lxactzh nmulht"
+    },
+    "5": {
+        "input": "fiorst zxnvqwe",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nfiorst zxnvqwe\nassistant\n{\"lookup_table\": {\"a\": \"x\", \"b\": \"y\", \"c\": \"z\", \"d\": \"a\", \"e\": \"b\", \"f\": \"c\", \"g\": \"d\", \"h\": \"e\", \"i\": \"f\", \"j\": \"g\", \"k\": \"h\", \"l\": \"i\", \"m\": \"j\", \"n\": \"k\", \"o\": \"l\", \"p\": \"m\", \"q\": \"n\", \"r\": \"o\", \"s\": \"p\", \"t\": \"q\", \"u\": \"r\", \"v\": \"s\", \"w\": \"t\", \"x\": \"u\", \"y\": \"v\", \"z\": \"w\"}, \"cipher_text\": \"ilwu hvryzh\"}",
+        "gold": "ilruvw caqytzh"
+    },
+    "6": {
+        "input": "blipzo akwer sui",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nblipzo akwer sui\nassistant\n{\"lookup_table\": {\"a\": \"x\", \"b\": \"y\", \"c\": \"z\", \"d\": \"a\", \"e\": \"b\", \"f\": \"c\", \"g\": \"d\", \"h\": \"e\", \"i\": \"f\", \"j\": \"g\", \"k\": \"h\", \"l\": \"i\", \"m\": \"j\", \"n\": \"k\", \"o\": \"l\", \"p\": \"m\", \"q\": \"n\", \"r\": \"o\", \"s\": \"p\", \"t\": \"q\", \"u\": \"r\", \"v\": \"s\", \"w\": \"t\", \"x\": \"u\", \"y\": \"v\", \"z\": \"w\"}, \"cipher_text\": \"eksocb dnzhu vxl\"}",
+        "gold": "eolscr dnzhu vxl"
+    },
+    "7": {
+        "input": "brifta volek drifty",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nbrifta volek drifty\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"c\": \"f\", \"d\": \"g\", \"e\": \"h\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"i\": \"l\", \"j\": \"m\", \"k\": \"n\", \"l\": \"o\", \"m\": \"p\", \"n\": \"q\", \"o\": \"r\", \"p\": \"s\", \"q\": \"t\", \"r\": \"u\", \"s\": \"v\", \"t\": \"w\", \"u\": \"x\", \"v\": \"y\", \"w\": \"z\", \"x\": \"a\", \"y\": \"b\", \"z\": \"c\"}, \"cipher_text\": \"eulwhwd irshpd guklwb\"}",
+        "gold": "euliwd yrohn guliwb"
+    },
+    "8": {
+        "input": "gremplin zorfyl kout",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\ngremplin zorfyl kout\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"c\": \"f\", \"d\": \"g\", \"e\": \"h\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"i\": \"l\", \"j\": \"m\", \"k\": \"n\", \"l\": \"o\", \"m\": \"p\", \"n\": \"q\", \"o\": \"r\", \"p\": \"s\", \"q\": \"t\", \"r\": \"u\", \"s\": \"v\", \"t\": \"w\", \"u\": \"x\", \"v\": \"y\", \"w\": \"z\", \"x\": \"a\", \"y\": \"b\", \"z\": \"c\"}, \"cipher_text\": \"juwhsoql cukzig nrxy\"}",
+        "gold": "juhpsolq cruibo nrxw"
+    },
+    "9": {
+        "input": "chipda vincal jantroff",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nchipda vincal jantroff\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"c\": \"f\", \"d\": \"g\", \"e\": \"h\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"i\": \"l\", \"j\": \"m\", \"k\": \"n\", \"l\": \"o\", \"m\": \"p\", \"n\": \"q\", \"o\": \"r\", \"p\": \"s\", \"q\": \"t\", \"r\": \"u\", \"s\": \"v\", \"t\": \"w\", \"u\": \"x\", \"v\": \"y\", \"w\": \"z\", \"x\": \"a\", \"y\": \"b\", \"z\": \"c\"}, \"cipher_text\": \"flskgd ylqdog mdaruui\"}",
+        "gold": "fklsgd ylqfdo mdqwurii"
+    },
+    "10": {
+        "input": "siwind ferplom kilter",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nsiwind ferplom kilter\nassistant\n{\"lookup_table\": {\"s\": \"v\", \"i\": \"l\", \"n\": \"q\", \"d\": \"g\", \"f\": \"i\", \"e\": \"h\", \"r\": \"u\", \"p\": \"s\", \"l\": \"o\", \"o\": \"r\", \"m\": \"p\", \"k\": \"n\", \"t\": \"w\", \"l\": \"o\"}, \"cipher_text\": \"vlqlg ihusro nloiwu\"}",
+        "gold": "vlzlqg ihusorp nlowhu"
+    },
+    "11": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\niiowe qwler povnf xazw\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"c\": \"f\", \"d\": \"g\", \"e\": \"h\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"i\": \"l\", \"j\": \"m\", \"k\": \"n\", \"l\": \"o\", \"m\": \"p\", \"n\": \"q\", \"o\": \"r\", \"p\": \"s\", \"q\": \"t\", \"r\": \"u\", \"s\": \"v\", \"t\": \"w\", \"u\": \"x\", \"v\": \"y\", \"w\": \"z\", \"x\": \"a\", \"y\": \"b\", \"z\": \"c\"}, \"cipher_text\": \"llrzh txshu srqri abcz\"}",
+        "gold": "llrzh tzohu sryqi adcz"
+    },
+    "12": {
+        "input": "qwlar opivn mdtar",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nqwlar opivn mdtar\nassistant\n{\"lookup_table\": {\"q\": \"t\", \"w\": \"z\", \"l\": \"o\", \"a\": \"d\", \"r\": \"u\", \"o\": \"r\", \"p\": \"s\", \"i\": \"l\", \"v\": \"y\", \"n\": \"q\", \"m\": \"p\", \"d\": \"g\", \"t\": \"w\"}, \"cipher_text\": \"tzudo rsly qwgdu\"}",
+        "gold": "tzodu rslyq pgwdu"
+    },
+    "13": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nriupt bcxnv poasd qwer\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"c\": \"f\", \"d\": \"g\", \"e\": \"h\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"i\": \"l\", \"j\": \"m\", \"k\": \"n\", \"l\": \"o\", \"m\": \"p\", \"n\": \"q\", \"o\": \"r\", \"p\": \"s\", \"q\": \"t\", \"r\": \"u\", \"s\": \"v\", \"t\": \"w\", \"u\": \"x\", \"v\": \"y\", \"w\": \"z\", \"x\": \"a\", \"y\": \"b\", \"z\": \"c\"}, \"cipher_text\": \"ulswu efxsy srdeg txhy\"}",
+        "gold": "ulxsw efaqy srdvg tzhu"
+    },
+    "14": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nklzwo mnbvc qweto\nassistant\n{\"lookup_table\": {\"a\": \"x\", \"b\": \"y\", \"c\": \"z\", \"d\": \"a\", \"e\": \"b\", \"f\": \"c\", \"g\": \"d\", \"h\": \"e\", \"i\": \"f\", \"j\": \"g\", \"k\": \"h\", \"l\": \"i\", \"m\": \"j\", \"n\": \"k\", \"o\": \"l\", \"p\": \"m\", \"q\": \"n\", \"r\": \"o\", \"s\": \"p\", \"t\": \"q\", \"u\": \"r\", \"v\": \"s\", \"w\": \"t\", \"x\": \"u\", \"y\": \"v\", \"z\": \"w\"}, \"cipher_text\": \"noafr pqyxi txhyw\"}",
+        "gold": "noczr pqeyf tzhwr"
+    },
+    "15": {
+        "input": "rewquy savcx wepoi",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nrewquy savcx wepoi\nassistant\n{\"lookup_table\": {\"r\": \"u\", \"e\": \"h\", \"w\": \"z\", \"q\": \"t\", \"u\": \"x\", \"y\": \"b\", \"s\": \"v\", \"a\": \"d\", \"v\": \"y\", \"c\": \"f\", \"x\": \"a\", \"w\": \"z\", \"p\": \"s\", \"o\": \"r\", \"i\": \"l\"}, \"cipher_text\": \"uhzx tb ylvsr\"}",
+        "gold": "uhztxb vdyfa zhsrl"
+    },
+    "16": {
+        "input": "mngtr opqwe laskf",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nmngtr opqwe laskf\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"c\": \"f\", \"d\": \"g\", \"e\": \"h\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"i\": \"l\", \"j\": \"m\", \"k\": \"n\", \"l\": \"o\", \"m\": \"p\", \"n\": \"q\", \"o\": \"r\", \"p\": \"s\", \"q\": \"t\", \"r\": \"u\", \"s\": \"v\", \"t\": \"w\", \"u\": \"x\", \"v\": \"y\", \"w\": \"z\", \"x\": \"a\", \"y\": \"b\", \"z\": \"c\"}, \"cipher_text\": \"qhjww srzih odvlg\"}",
+        "gold": "pqjwu rstzh odvni"
+    },
+    "17": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\npiqwo asdur mxcvn qwer\nassistant\n{\"lookup_table\": {\"p\": \"s\", \"i\": \"l\", \"q\": \"t\", \"w\": \"z\", \"o\": \"r\", \"a\": \"d\", \"s\": \"v\", \"d\": \"g\", \"u\": \"x\", \"r\": \"u\", \"m\": \"p\", \"x\": \"a\", \"c\": \"f\", \"v\": \"y\", \"n\": \"q\", \"q\": \"t\", \"e\": \"h\"}, \"cipher_text\": \"slztr dvgux pxayq tzhu\"}",
+        "gold": "sltzr dvgxu pafyq tzhu"
+    },
+    "18": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nieour qwert asdrep mlpok\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"s\": \"v\", \"d\": \"g\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"j\": \"m\", \"k\": \"n\", \"l\": \"q\", \"z\": \"c\", \"x\": \"a\", \"c\": \"f\", \"v\": \"y\", \"b\": \"e\", \"n\": \"q\", \"m\": \"p\", \"q\": \"t\", \"w\": \"z\", \"e\": \"h\", \"r\": \"u\", \"t\": \"w\", \"y\": \"b\", \"u\": \"x\", \"i\": \"l\", \"o\": \"r\"}, \"cipher_text\": \"lhryu txshu dvgush opdsrn\"}",
+        "gold": "lhrxu tzhuw dvguhs posrn"
+    },
+    "19": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\npoieo xcvbn mwert qlpas\nassistant\n{\"lookup_table\": {\"p\": \"s\", \"o\": \"r\", \"i\": \"l\", \"e\": \"h\", \"x\": \"a\", \"c\": \"f\", \"v\": \"y\", \"b\": \"e\", \"n\": \"q\", \"m\": \"p\", \"w\": \"z\", \"r\": \"u\", \"t\": \"w\", \"q\": \"t\", \"l\": \"o\", \"a\": \"d\", \"s\": \"v\", \"p\": \"s\"}, \"cipher_text\": \"srhlr azyqm pzisu vsmdv\"}",
+        "gold": "srlhr afyeq pzhuw tosdv"
+    },
+    "20": {
+        "input": "weruvx piwoew laors",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nweruvx piwoew laors\nassistant\n{\"lookup_table\": {\"w\": \"z\", \"e\": \"h\", \"r\": \"u\", \"u\": \"x\", \"v\": \"y\", \"x\": \"a\", \"p\": \"s\", \"i\": \"l\", \"o\": \"r\", \"w\": \"z\", \"e\": \"h\", \"l\": \"o\", \"a\": \"d\", \"o\": \"r\", \"r\": \"u\", \"s\": \"v\"}, \"cipher_text\": \"zhxxy a lzrh\"}",
+        "gold": "zhuxya slzrhz odruv"
+    },
+    "21": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nxncuz weqrt plois qweroi\nassistant\n{\"lookup_table\": {\"a\": \"x\", \"b\": \"y\", \"c\": \"z\", \"d\": \"a\", \"e\": \"b\", \"f\": \"c\", \"g\": \"d\", \"h\": \"e\", \"i\": \"f\", \"j\": \"g\", \"k\": \"h\", \"l\": \"i\", \"m\": \"j\", \"n\": \"k\", \"o\": \"l\", \"p\": \"m\", \"q\": \"n\", \"r\": \"o\", \"s\": \"p\", \"t\": \"q\", \"u\": \"r\", \"v\": \"s\", \"w\": \"t\", \"x\": \"u\", \"y\": \"v\", \"z\": \"w\"}, \"cipher_text\": \"tkayr trnpo knlmr trnph\"}",
+        "gold": "aqfxc zhtuw sorlv tzhurl"
+    },
+    "22": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\newrqo asdifj qwert\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"c\": \"f\", \"d\": \"g\", \"e\": \"h\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"i\": \"l\", \"j\": \"m\", \"k\": \"n\", \"l\": \"o\", \"m\": \"p\", \"n\": \"q\", \"o\": \"r\", \"p\": \"s\", \"q\": \"t\", \"r\": \"u\", \"s\": \"v\", \"t\": \"w\", \"u\": \"x\", \"v\": \"y\", \"w\": \"z\", \"x\": \"a\", \"y\": \"b\", \"z\": \"c\"}, \"cipher_text\": \"hzuvw duimlc txish\"}",
+        "gold": "hzutr dvglim tzhuw"
+    },
+    "23": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nqweiu zxcvn mpore ploaq\nassistant\n{\"lookup_table\": {\"a\": \"d\", \"b\": \"e\", \"c\": \"f\", \"d\": \"g\", \"e\": \"h\", \"f\": \"i\", \"g\": \"j\", \"h\": \"k\", \"i\": \"l\", \"j\": \"m\", \"k\": \"n\", \"l\": \"o\", \"m\": \"p\", \"n\": \"q\", \"o\": \"r\", \"p\": \"s\", \"q\": \"t\", \"r\": \"u\", \"s\": \"v\", \"t\": \"w\", \"u\": \"x\", \"v\": \"y\", \"w\": \"z\", \"x\": \"a\", \"y\": \"b\", \"z\": \"c\"}, \"cipher_text\": \"txhly cifys sruuh srodz\"}",
+        "gold": "tzhlx cafyq psruh sordt"
+    },
+    "24": {
+        "input": "zxcme jter",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nzxcme jter\nassistant\n{\"lookup_table\": {\"a\": \"x\", \"b\": \"y\", \"c\": \"z\", \"d\": \"a\", \"e\": \"b\", \"f\": \"c\", \"g\": \"d\", \"h\": \"e\", \"i\": \"f\", \"j\": \"g\", \"k\": \"h\", \"l\": \"i\", \"m\": \"j\", \"n\": \"k\", \"o\": \"l\", \"p\": \"m\", \"q\": \"n\", \"r\": \"o\", \"s\": \"p\", \"t\": \"q\", \"u\": \"r\", \"v\": \"s\", \"w\": \"t\", \"x\": \"u\", \"y\": \"v\", \"z\": \"w\"}, \"cipher_text\": \"wsihb qofq\"}",
+        "gold": "cafph mwhu"
+    },
+    "25": {
+        "input": "olksad twuqwej",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nolksad twuqwej\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"uqygiz dygxakl\"}",
+        "gold": "urqygj zcawckp"
+    },
+    "26": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nbazolq kpwari uyqwer\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"ghdzsw nfygoz ezcykl\"}",
+        "gold": "hgfurw qvcgxo aewckx"
+    },
+    "27": {
+        "input": "rakibo zlmqwe",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nrakibo zlmqwe\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"xqokhx gzywka\"}",
+        "gold": "xgqohu frswck"
+    },
+    "28": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nyuiodaf ddsaok hd\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\", \" \": \" \", \"d\": \"j\"}, \"cipher_text\": \"eukujkgl jkzukr rn\"}",
+        "gold": "eaoujgl jjyguq nj"
+    },
+    "29": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nopiqwer iuxzqwe kjrieq\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"uxosmkj noefcyk qnomks\"}",
+        "gold": "uvowckx oadfwck qpxokw"
+    },
+    "30": {
+        "input": "fiorst zxnvqwe",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nfiorst zxnvqwe\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"lkxzyj fbcblka\"}",
+        "gold": "louxyz fdtbwck"
+    },
+    "31": {
+        "input": "blipzo akwer sui",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nblipzo akwer sui\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"hprdc gojks yzm\"}",
+        "gold": "hrovfu gqckx yao"
+    },
+    "32": {
+        "input": "brifta volek drifty",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nbrifta volek drifty\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"hxnzg cukas jznlu\"}",
+        "gold": "hxolzg burkq jxolze"
+    },
+    "33": {
+        "input": "gremplin zorfyl kout",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\ngremplin zorfyl kout\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"mgsxrnps gaxzlr qoxz\"}",
+        "gold": "mxksvrot fuxler quaz"
+    },
+    "34": {
+        "input": "chipda vincal jantroff",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nchipda vincal jantroff\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"ignrj goqglp poyztsll\"}",
+        "gold": "inovjg botigr pgtzxull"
+    },
+    "35": {
+        "input": "siwind ferplom kilter",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nsiwind ferplom kilter\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"yoxjrs kgztyrs qokzjz\"}",
+        "gold": "yocotj lkxvrus qorzkx"
+    },
+    "36": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\niiowe qwler povnf xazw\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\", \" \": \" \", \".\": \".\", \",\": \",\", \"?\": \"?\"}, \"cipher_text\": \"ookug cykzs vzbxk fgoz\"}",
+        "gold": "oouck wcrkx vubtl dgfc"
+    },
+    "37": {
+        "input": "qwlar opivn mdtar",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nqwlar opivn mdtar\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"wxzgy zsgbx rjzgx\"}",
+        "gold": "wcrgx uvobt sjzgx"
+    },
+    "38": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nriupt bcxnv poasd qwer\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"xkzxy hixbz vsizj yksz\"}",
+        "gold": "xoavz hidtb vugyj wckx"
+    },
+    "39": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nklzwo mnbvc qweto\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"qrxcs yzaxi cyduz\"}",
+        "gold": "qrfcu sthbi wckzu"
+    },
+    "40": {
+        "input": "rewquy savcx wepoi",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nrewquy savcx wepoi\nassistant\n{\"lookup_table\": {\"r\": \"z\", \"e\": \"k\", \"w\": \"c\", \"q\": \"y\", \"u\": \"a\", \"y\": \"e\", \"s\": \"y\", \"a\": \"g\", \"v\": \"l\", \"x\": \"d\", \"w\": \"c\", \"e\": \"k\", \"p\": \"x\", \"o\": \"u\", \"i\": \"o\"}, \"cipher_text\": \"zkcayk yglcy czuxk\"}",
+        "gold": "xkcwae ygbid ckvuo"
+    },
+    "41": {
+        "input": "mngtr opqwe laskf",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nmngtr opqwe laskf\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"sugzy zgykl rglir\"}",
+        "gold": "stmzx uvwck rgyql"
+    },
+    "42": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\npiqwo asdur mxcvn qwer\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\", \" \": \" \", \".\": \".\", \",\": \",\", \"?\": \"?\"}, \"cipher_text\": \"voucx gozaz ryslb vouz\"}",
+        "gold": "vowcu gyjax sdibt wckx"
+    },
+    "43": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nieour qwert asdrep mlpok\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\", \" \": \" \"}, \"cipher_text\": \"okaxk czuxj gizjsk szwus\"}",
+        "gold": "okuax wckxz gyjxkv srvuq"
+    },
+    "44": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\npoieo xcvbn mwert qlpas\nassistant\n{\"lookup_table\": {\"p\": \"v\", \"o\": \"u\", \"i\": \"o\", \"e\": \"k\", \"x\": \"d\", \"c\": \"i\", \"v\": \"l\", \"b\": \"h\", \"n\": \"t\", \"m\": \"s\", \"w\": \"c\", \"r\": \"z\", \"t\": \"a\", \"q\": \"w\", \"l\": \"r\", \"a\": \"g\", \"s\": \"y\"}, \"cipher_text\": \"vukuk dliht zcayr wqygx\"}",
+        "gold": "vuoku dibht sckxz wrvgy"
+    },
+    "45": {
+        "input": "weruvx piwoew laors",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nweruvx piwoew laors\nassistant\n{\"lookup_table\": {\"w\": \"c\", \"e\": \"k\", \"r\": \"z\", \"u\": \"a\", \"v\": \"b\", \"x\": \"d\", \"p\": \"v\", \"i\": \"o\", \"o\": \"u\", \"w\": \"c\", \"e\": \"k\", \"l\": \"r\", \"a\": \"g\", \"s\": \"y\"}, \"cipher_text\": \"ckzakc vkoukc ygzky\"}",
+        "gold": "ckxabd vocukc rguxy"
+    },
+    "46": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nxncuz weqrt plois qweroi\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"dpixf cuxzy tucyx uctxy\"}",
+        "gold": "dtiaf ckwxz vruoy wckxuo"
+    },
+    "47": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\newrqo asdifj qwert\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"kxwus kygoln axuzj\"}",
+        "gold": "kcxwu gyjolp wckxz"
+    },
+    "48": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nqweiu zxcvn mpore ploaq\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\", \" \": \" \", \".\": \".\", \",\": \",\"}, \"cipher_text\": \"wmkay fcohz szukk zuxkw\"}",
+        "gold": "wckoa fdibt svuxk vrugw"
+    },
+    "49": {
+        "input": "zxcme jter",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nzxcme jter\nassistant\n{\"lookup_table\": {\"a\": \"g\", \"b\": \"h\", \"c\": \"i\", \"d\": \"j\", \"e\": \"k\", \"f\": \"l\", \"g\": \"m\", \"h\": \"n\", \"i\": \"o\", \"j\": \"p\", \"k\": \"q\", \"l\": \"r\", \"m\": \"s\", \"n\": \"t\", \"o\": \"u\", \"p\": \"v\", \"q\": \"w\", \"r\": \"x\", \"s\": \"y\", \"t\": \"z\", \"u\": \"a\", \"v\": \"b\", \"w\": \"c\", \"x\": \"d\", \"y\": \"e\", \"z\": \"f\"}, \"cipher_text\": \"dzikg pozs\"}",
+        "gold": "fdisk pzkx"
+    },
+    "50": {
+        "input": "olksad twuqwej",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nolksad twuqwej\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"txbklq cxjfyq\"}",
+        "gold": "xutbjm cfdzfns"
+    },
+    "51": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nbazolq kpwari uyqwer\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"z\": \"a\", \"o\": \"x\", \"l\": \"u\", \"q\": \"v\", \" \": \"(\", \"k\": \"t\", \"p\": \"y\", \"w\": \"f\", \"r\": \"a\", \"i\": \"r\", \"u\": \"d\", \"y\": \"h\", \"e\": \"l\"}, \"cipher_text\": \"jkaxuv trarjr dhfral\"}",
+        "gold": "kjixuz tyfjar dhzfna"
+    },
+    "52": {
+        "input": "rakibo zlmqwe",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nrakibo zlmqwe\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"i\": \"r\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"o\": \"x\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"w\": \"f\", \"e\": \"n\", \"z\": \"i\"}, \"cipher_text\": \"ajtkr iunfxj\"}",
+        "gold": "ajtrkx iuvzfn"
+    },
+    "53": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nyuiodaf ddsaok hd\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\", \" \": \" \"}, \"cipher_text\": \"hjrmwnos wjjrsx qh\"}",
+        "gold": "hdrxmjo mmbjxt qm"
+    },
+    "54": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nopiqwer iuxzqwe kjrieq\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"xoyhfnx xlgahfn qstphfn\"}",
+        "gold": "xyrzfna rdgizfn tsarnz"
+    },
+    "55": {
+        "input": "fiorst zxnvqwe",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nfiorst zxnvqwe\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"ovaxcb goemdfj\"}",
+        "gold": "orxabc igwezfn"
+    },
+    "56": {
+        "input": "blipzo akwer sui",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nblipzo akwer sui\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"kutaid jpxws bzh\"}",
+        "gold": "kuryix jtfna bdr"
+    },
+    "57": {
+        "input": "brifta volek drifty",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nbrifta volek drifty\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"kaykjl eklwn kasyk\"}",
+        "gold": "karocj exunt maroch"
+    },
+    "58": {
+        "input": "gremplin zorfyl kout",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\ngremplin zorfyl kout\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"pxwusqvo haxmwp pxby\"}",
+        "gold": "panvyurw ixaohu txdc"
+    },
+    "59": {
+        "input": "chipda vincal jantroff",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nchipda vincal jantroff\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"lkzwln aohklsv sqjazwo\"}",
+        "gold": "lqrymj erwlju sjwcaxoo"
+    },
+    "60": {
+        "input": "siwind ferplom kilter",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nsiwind ferplom kilter\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"zboskw olnaxws slmcyk\"}",
+        "gold": "brfrwm onayuxv trucna"
+    },
+    "61": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\niiowe qwler povnf xazw\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"rrxln fapls wexcu gizs\"}",
+        "gold": "rrxfn zfuna yxewo gjif"
+    },
+    "62": {
+        "input": "qwlar opivn mdtar",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nqwlar opivn mdtar\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"zbawy zaxoe wkyza\"}",
+        "gold": "zfuja xyrew vmcja"
+    },
+    "63": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nriupt bcxnv poasd qwer\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"axzbl klyce wbxlo jxos\"}",
+        "gold": "ardyc klgwe yxjbm zfna"
+    },
+    "64": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nklzwo mnbvc qweto\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"tayfx wopil fxibw\"}",
+        "gold": "tuifx vwkel zfncx"
+    },
+    "65": {
+        "input": "rewquy savcx wepoi",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nrewquy savcx wepoi\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\", \" \": \" \"}, \"cipher_text\": \"axdrlh jekwo lhxrs\"}",
+        "gold": "anfzdh bjelg fnyxr"
+    },
+    "66": {
+        "input": "mngtr opqwe laskf",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nmngtr opqwe laskf\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"udzaw wjazw sqbka\"}",
+        "gold": "vwpca xyzfn ujbto"
+    },
+    "67": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\npiqwo asdur mxcvn qwer\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"axrdj jhske twdym xjms\"}",
+        "gold": "yrzfx jbmda vglew zfna"
+    },
+    "68": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nieour qwert asdrep mlpok\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"rnhyx boids jklwlu wsczy\"}",
+        "gold": "rnxda zfnac jbmany vuyxt"
+    },
+    "69": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\npoieo xcvbn mwert qlpas\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\", \" \": \" \"}, \"cipher_text\": \"yvplvx hlnyk wovcx bywjl\"}",
+        "gold": "yxrnx glekw vfnac zuyjb"
+    },
+    "70": {
+        "input": "weruvx piwoew laors",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nweruvx piwoew laors\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"fkyexq rofnfx svjai\"}",
+        "gold": "fnadeg yrfxnf ujxab"
+    },
+    "71": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nxncuz weqrt plois qweroi\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"gswax fndkw uzwlv fndkwv\"}",
+        "gold": "gwldi fnzac yuxrb zfnaxr"
+    },
+    "72": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\newrqo asdifj qwert\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"tnaxp jtnokw xlnyc\"}",
+        "gold": "nfazx jbmros zfnac"
+    },
+    "73": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nqweiu zxcvn mpore ploaq\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\", \" \": \" \"}, \"cipher_text\": \"jylnw iogcu wcyxn wlyjg\"}",
+        "gold": "zfnrd iglew vyxan yuxjz"
+    },
+    "74": {
+        "input": "zxcme jter",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nzxcme jter\nassistant\n{\"lookup_table\": {\"a\": \"j\", \"b\": \"k\", \"c\": \"l\", \"d\": \"m\", \"e\": \"n\", \"f\": \"o\", \"g\": \"p\", \"h\": \"q\", \"i\": \"r\", \"j\": \"s\", \"k\": \"t\", \"l\": \"u\", \"m\": \"v\", \"n\": \"w\", \"o\": \"x\", \"p\": \"y\", \"q\": \"z\", \"r\": \"a\", \"s\": \"b\", \"t\": \"c\", \"u\": \"d\", \"v\": \"e\", \"w\": \"f\", \"x\": \"g\", \"y\": \"h\", \"z\": \"i\"}, \"cipher_text\": \"igslw rcbi\"}",
+        "gold": "iglvn scna"
+    },
+    "75": {
+        "input": "olksad twuqwej",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nolksad twuqwej\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"cvexqc fpiocpf\"}",
+        "gold": "axwemp figciqv"
+    },
+    "76": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nbazolq kpwari uyqwer\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"nlizfa wzyctn hagtfz\"}",
+        "gold": "nmlaxc wbimdu gkciqd"
+    },
+    "77": {
+        "input": "rakibo zlmqwe",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nrakibo zlmqwe\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"dpkdmv ldfmvd\"}",
+        "gold": "dmwuna lxyciq"
+    },
+    "78": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nyuiodaf ddsaok hd\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"kylwmxqs qqqmxg tv\"}",
+        "gold": "kguapmr ppemaw tp"
+    },
+    "79": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nopiqwer iuxzqwe kjrieq\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"zcyawzb zqldawz qtvawzb\"}",
+        "gold": "abuciqd ugjlciq wvduqc"
+    },
+    "80": {
+        "input": "fiorst zxnvqwe",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nfiorst zxnvqwe\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"pwsduf hrfdbk\"}",
+        "gold": "ruadef ljzhciq"
+    },
+    "81": {
+        "input": "blipzo akwer sui",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nblipzo akwer sui\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"ntlbdm wscmy fuk\"}",
+        "gold": "nxubla mwiqd egu"
+    },
+    "82": {
+        "input": "brifta volek drifty",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nbrifta volek drifty\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"ntshfc hqncy xshtnc\"}",
+        "gold": "ndurfm haxqw pdurfk"
+    },
+    "83": {
+        "input": "gremplin zorfyl kout",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\ngremplin zorfyl kout\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"stwdfzvo hbdjtv wcyd\"}",
+        "gold": "sdqybxuz ladrkx wagf"
+    },
+    "84": {
+        "input": "chipda vincal jantroff",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nchipda vincal jantroff\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"exkdfm dqukuvm vsbxdfbb\"}",
+        "gold": "otubpm huzomx vmzfdarr"
+    },
+    "85": {
+        "input": "siwind ferplom kilter",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nsiwind ferplom kilter\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"euftzb dpnhbc wacfs\"}",
+        "gold": "euiuzp rqdbxay wuxfqd"
+    },
+    "86": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\niiowe qwler povnf xazw\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"ssgym cimwp yvdhs bspd\"}",
+        "gold": "uuaiq cixqd bahzr jmli"
+    },
+    "87": {
+        "input": "qwlar opivn mdtar",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nqwlar opivn mdtar\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"zmhni cgyzt wlpiz\"}",
+        "gold": "cixmd abuhz ypfmd"
+    },
+    "88": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nriupt bcxnv poasd qwer\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"dsyix nqrfb dsyeg yswf\"}",
+        "gold": "dugbf nojzh bamep ciqd"
+    },
+    "89": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nklzwo mnbvc qweto\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"tvfbi wdefr zfhbi\"}",
+        "gold": "wxlia yznho ciqfa"
+    },
+    "90": {
+        "input": "rewquy savcx wepoi",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nrewquy savcx wepoi\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"dpjdcn kigbo dpwvo\"}",
+        "gold": "dqicgk emhoj iqbau"
+    },
+    "91": {
+        "input": "mngtr opqwe laskf",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nmngtr opqwe laskf\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"zcafd mgyic fynsk\"}",
+        "gold": "yzsfd abciq xmewr"
+    },
+    "92": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\npiqwo asdur mxcvn qwer\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"fclyc qigbo hawzt fcly\"}",
+        "gold": "bucia mepgd yjohz ciqd"
+    },
+    "93": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nieour qwert asdrep mlpok\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"ugusf kaiyz cogftv zbcdu\"}",
+        "gold": "uqagd ciqdf mepdqb yxbaw"
+    },
+    "94": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\npoieo xcvbn mwert qlpas\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"bcymc jrfzt zicpx ojdcu\"}",
+        "gold": "bauqa johnz yiqdf cxbme"
+    },
+    "95": {
+        "input": "weruvx piwoew laors",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nweruvx piwoew laors\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"iofrbh zyiczo vsicy\"}",
+        "gold": "iqdghj buiaqi xmade"
+    },
+    "96": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nxncuz weqrt plois qweroi\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"fnswd cipzh drocy ipczhd\"}",
+        "gold": "jzogl iqcdf bxaue ciqdau"
+    },
+    "97": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\newrqo asdifj qwert\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"cmnjo mswtvb ioczf\"}",
+        "gold": "qidca mepurv ciqdf"
+    },
+    "98": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nqweiu zxcvn mpore ploaq\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"crgym fvbzh zcyig rjgy\"}",
+        "gold": "ciqug ljohz ybadq bxamc"
+    },
+    "99": {
+        "input": "zxcme jter",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12. Output a lookup table and the cipher text in a json dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only.\nuser\nzxcme jter\nassistant\n{\"lookup_table\": {\"a\": \"m\", \"b\": \"n\", \"c\": \"o\", \"d\": \"p\", \"e\": \"q\", \"f\": \"r\", \"g\": \"s\", \"h\": \"t\", \"i\": \"u\", \"j\": \"v\", \"k\": \"w\", \"l\": \"x\", \"m\": \"y\", \"n\": \"z\", \"o\": \"a\", \"p\": \"b\", \"q\": \"c\", \"r\": \"d\", \"s\": \"e\", \"t\": \"f\", \"u\": \"g\", \"v\": \"h\", \"w\": \"i\", \"x\": \"j\", \"y\": \"k\", \"z\": \"l\"}, \"cipher_text\": \"jrfwo zocp\"}",
+        "gold": "ljoyq vfqd"
+    }
+}

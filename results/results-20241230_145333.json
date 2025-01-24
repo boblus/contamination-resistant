@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "olksad twuqwej",
+        "shift": 3,
+        "output": "You are trained on data up to October 2023.\nBrx duh wudlqhg rq gdwd xs wr Rfwrehu 2023.",
+        "gold": "ronvdg wzxtzhm"
+    },
+    "1": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 3,
+        "output": "edcror nszdul xbtxhu",
+        "gold": "edcrot nszdul xbtzhu"
+    },
+    "2": {
+        "input": "rakibo zlmqwe",
+        "shift": 3,
+        "output": "udnl erp txpzhg",
+        "gold": "udnler coptzh"
+    },
+    "3": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 3,
+        "output": "brlridf ggvdrn kg",
+        "gold": "bxlrgdi ggvdrn kg"
+    },
+    "4": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 3,
+        "output": "rsltxhu lxaztxh nmulht",
+        "gold": "rsltzhu lxactzh nmulht"
+    },
+    "5": {
+        "input": "fiorst zxnvqwe",
+        "shift": 3,
+        "output": "flrsvw cxqyuzh",
+        "gold": "ilruvw caqytzh"
+    },
+    "6": {
+        "input": "blipzo akwer sui",
+        "shift": 3,
+        "output": "eolszr dnzhu vxl",
+        "gold": "eolscr dnzhu vxl"
+    },
+    "7": {
+        "input": "brifta volek drifty",
+        "shift": 3,
+        "output": "eulfta yronh guriwb",
+        "gold": "euliwd yrohn guliwb"
+    },
+    "8": {
+        "input": "gremplin zorfyl kout",
+        "shift": 3,
+        "output": "juhpsolq zuribl nrxw",
+        "gold": "juhpsolq cruibo nrxw"
+    },
+    "9": {
+        "input": "chipda vincal jantroff",
+        "shift": 3,
+        "output": "flkrgd ylqfdo mdqwurii",
+        "gold": "fklsgd ylqfdo mdqwurii"
+    },
+    "10": {
+        "input": "siwind ferplom kilter",
+        "shift": 3,
+        "output": "vlzlqg ihusorp nliter",
+        "gold": "vlzlqg ihusorp nlowhu"
+    },
+    "11": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 3,
+        "output": "llrzh txohu sryqi dcaz",
+        "gold": "llrzh tzohu sryqi adcz"
+    },
+    "12": {
+        "input": "qwlar opivn mdtar",
+        "shift": 3,
+        "output": "txodu rslyq pgwdu",
+        "gold": "tzodu rslyq pgwdu"
+    },
+    "13": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 3,
+        "output": "ulxsw eczqy srvwg txhu",
+        "gold": "ulxsw efaqy srdvg tzhu"
+    },
+    "14": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 3,
+        "output": "nobzr pqeyf txhwr",
+        "gold": "noczr pqeyf tzhwr"
+    },
+    "15": {
+        "input": "rewquy savcx wepoi",
+        "shift": 3,
+        "output": "uhztxb vdyfa zhsrl",
+        "gold": "uhztxb vdyfa zhsrl"
+    },
+    "16": {
+        "input": "mngtr opqwe laskf",
+        "shift": 3,
+        "output": "The Caesar cipher with a shift of 3 for the text \"mngtr opqwe laskf\" is:\n\npqjwu rszzh odvnf",
+        "gold": "pqjwu rstzh odvni"
+    },
+    "17": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 3,
+        "output": "sluzr dvgxu pzfyn txhu",
+        "gold": "sltzr dvgxu pafyq tzhu"
+    },
+    "18": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 3,
+        "output": "lhrxu txhuw dvguhs porqn",
+        "gold": "lhrxu tzhuw dvguhs posrn"
+    },
+    "19": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 3,
+        "output": "srleh afyep pzhuw tnsdv",
+        "gold": "srlhr afyeq pzhuw tosdv"
+    },
+    "20": {
+        "input": "weruvx piwoew laors",
+        "shift": 3,
+        "output": "zhuvyb slzrhz odruv",
+        "gold": "zhuxya slzrhz odruv"
+    },
+    "21": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 3,
+        "output": "brfcz zhtuxw soolv txhuro",
+        "gold": "aqfxc zhtuw sorlv tzhurl"
+    },
+    "22": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 3,
+        "output": "hzttr dvglim tzhuw",
+        "gold": "hzutr dvglim tzhuw"
+    },
+    "23": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 3,
+        "output": "txhlx cafyq prruh sohdq",
+        "gold": "tzhlx cafyq psruh sordt"
+    },
+    "24": {
+        "input": "zxcme jter",
+        "shift": 3,
+        "output": "crfph mxhu",
+        "gold": "cafph mwhu"
+    },
+    "25": {
+        "input": "olksad twuqwej",
+        "shift": 6,
+        "output": "urqygj zcawcmp",
+        "gold": "urqygj zcawckp"
+    },
+    "26": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 6,
+        "output": "hgfurw qvxcxo ucycux",
+        "gold": "hgfurw qvcgxo aewckx"
+    },
+    "27": {
+        "input": "rakibo zlmqwe",
+        "shift": 6,
+        "output": "xgqhor frosck",
+        "gold": "xgqohu frswck"
+    },
+    "28": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 6,
+        "output": "eaojvgf jjyguq nj",
+        "gold": "eaoujgl jjyguq nj"
+    },
+    "29": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 6,
+        "output": "uvwxyz oazfwc opltgw",
+        "gold": "uvowckx oadfwck qpxokw"
+    },
+    "30": {
+        "input": "fiorst zxnvqwe",
+        "shift": 6,
+        "output": "loxtyz fdtwczk",
+        "gold": "louxyz fdtbwck"
+    },
+    "31": {
+        "input": "blipzo akwer sui",
+        "shift": 6,
+        "output": "hrovfu gqmkx yzo",
+        "gold": "hrovfu gqckx yao"
+    },
+    "32": {
+        "input": "brifta volek drifty",
+        "shift": 6,
+        "output": "hxolzg xurkr jxolze",
+        "gold": "hxolzg burkq jxolze"
+    },
+    "33": {
+        "input": "gremplin zorfyl kout",
+        "shift": 6,
+        "output": "mxlvror tuxleu qzaz",
+        "gold": "mxksvrot fuxler quaz"
+    },
+    "34": {
+        "input": "chipda vincal jantroff",
+        "shift": 6,
+        "output": "hnovjg zotsgr pgtzuxll",
+        "gold": "inovjg botigr pgtzxull"
+    },
+    "35": {
+        "input": "siwind ferplom kilter",
+        "shift": 6,
+        "output": "yoesjt lkvvrus qorzkx",
+        "gold": "yocotj lkxvrus qorzkx"
+    },
+    "36": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 6,
+        "output": "oousk wcrkx vublt dgfc",
+        "gold": "oouck wcrkx vubtl dgfc"
+    },
+    "37": {
+        "input": "qwlar opivn mdtar",
+        "shift": 6,
+        "output": "wbrgx uvobl sjzgx",
+        "gold": "wcrgx uvobt sjzgx"
+    },
+    "38": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 6,
+        "output": "xoavz hdttr vugyj wckx",
+        "gold": "xoavz hidtb vugyj wckx"
+    },
+    "39": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 6,
+        "output": "qrbyu sthr iaczu",
+        "gold": "qrfcu sthbi wckzu"
+    },
+    "40": {
+        "input": "rewquy savcx wepoi",
+        "shift": 6,
+        "output": "xkcyua yigje ckvou",
+        "gold": "xkcwae ygbid ckvuo"
+    },
+    "41": {
+        "input": "mngtr opqwe laskf",
+        "shift": 6,
+        "output": "smtzx uvwck rgxql",
+        "gold": "stmzx uvwck rgyql"
+    },
+    "42": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 6,
+        "output": "vocyu gyjat sditr wcki",
+        "gold": "vowcu gyjax sdibt wckx"
+    },
+    "43": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 6,
+        "output": "The encoded text with a shift of 6 is:\n\nokuxa wcxzx gyjtkv sruuq",
+        "gold": "okuax wckxz gyjxkv srvuq"
+    },
+    "44": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 6,
+        "output": "vouk udbh tckxz wrugy wvrgy",
+        "gold": "vuoku dibht sckxz wrvgy"
+    },
+    "45": {
+        "input": "weruvx piwoew laors",
+        "shift": 6,
+        "output": "caxazd vmyuic rguxy",
+        "gold": "ckxabd vocukc rguxy"
+    },
+    "46": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 6,
+        "output": "dtiaz ckxvx rvouy wdkxuo",
+        "gold": "dtiaf ckwxz vruoy wckxuo"
+    },
+    "47": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 6,
+        "output": "kcxwu gyjolp wcxzx",
+        "gold": "kcxwu gyjolp wckxz"
+    },
+    "48": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 6,
+        "output": "wckoa fditj svuxk vrugw",
+        "gold": "wckoa fdibt svuxk vrugw"
+    },
+    "49": {
+        "input": "zxcme jter",
+        "shift": 6,
+        "output": "fdi skjz",
+        "gold": "fdisk pzkx"
+    },
+    "50": {
+        "input": "olksad twuqwej",
+        "shift": 9,
+        "output": "xutbjm cfdzfnr",
+        "gold": "xutbjm cfdzfns"
+    },
+    "51": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 9,
+        "output": "The encoded text with a shift of 9 is:\n\nkjixux tyzfap xdzzna",
+        "gold": "kjixuz tyfjar dhzfna"
+    },
+    "52": {
+        "input": "rakibo zlmqwe",
+        "shift": 9,
+        "output": "The encoded text with a shift of 9 is:\n\najtrkx iuvzfn",
+        "gold": "ajtrkx iuvzfn"
+    },
+    "53": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 9,
+        "output": "Here is the text encoded with a Caesar cipher with a shift of 9:\n\nhbnxmrj mmzjrx qm",
+        "gold": "hdrxmjo mmbjxt qm"
+    },
+    "54": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 9,
+        "output": "xyrzfdq rdcizfn tsvrnf",
+        "gold": "xyrzfna rdgizfn tsarnz"
+    },
+    "55": {
+        "input": "fiorst zxnvqwe",
+        "shift": 9,
+        "output": "oxxaxc iğwyezñ",
+        "gold": "orxabc igwezfn"
+    },
+    "56": {
+        "input": "blipzo akwer sui",
+        "shift": 9,
+        "output": "kruyix jtdna bdr",
+        "gold": "kuryix jtfna bdr"
+    },
+    "57": {
+        "input": "brifta volek drifty",
+        "shift": 9,
+        "output": "karlcj exunr mqrnwbh",
+        "gold": "karocj exunt maroch"
+    },
+    "58": {
+        "input": "gremplin zorfyl kout",
+        "shift": 9,
+        "output": "puzvyurw ixakre txdm",
+        "gold": "panvyurw ixaohu txdc"
+    },
+    "59": {
+        "input": "chipda vincal jantroff",
+        "shift": 9,
+        "output": "lqrwjm evlwju sjycxnxo",
+        "gold": "lqrymj erwlju sjwcaxoo"
+    },
+    "60": {
+        "input": "siwind ferplom kilter",
+        "shift": 9,
+        "output": "rblqwmc ovkydvn trukna",
+        "gold": "brfrwm onayuxv trucna"
+    },
+    "61": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 9,
+        "output": "rrxnf zfune yxewu jiaj",
+        "gold": "rrxfn zfuna yxewo gjif"
+    },
+    "62": {
+        "input": "qwlar opivn mdtar",
+        "shift": 9,
+        "output": "zfvjz xyrea wmcru",
+        "gold": "zfuja xyrew vmcja"
+    },
+    "63": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 9,
+        "output": "arxwy klgwe yxjbm znaf",
+        "gold": "ardyc klgwe yxjbm zfna"
+    },
+    "64": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 9,
+        "output": "You provided the text \"klzwo mnbvc qweto\". To encode this text using a Caesar cipher with a shift of 9, we shift each letter 9 places forward in the alphabet.\n\nk -> t\nl -> u\nz -> i\nw -> f\no -> x\n\nm -> v\nn -> w\nb -> k\nv -> e\nc -> l\n\nq -> z\nw -> f\ne -> n\nt -> c\no -> x\n\nSo, \"klzwo mnbvc qweto\" encoded with a Caesar cipher with a shift of 9 is \"tufix vwkel zfncx\".",
+        "gold": "tuifx vwkel zfncx"
+    },
+    "65": {
+        "input": "rewquy savcx wepoi",
+        "shift": 9,
+        "output": "ajfzdh zje lc nuxxr",
+        "gold": "anfzdh bjelg fnyxr"
+    },
+    "66": {
+        "input": "mngtr opqwe laskf",
+        "shift": 9,
+        "output": "vwpac xyzf njbtu",
+        "gold": "vwpca xyzfn ujbto"
+    },
+    "67": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 9,
+        "output": "yrzxf jbmda vglwe znaf",
+        "gold": "yrzfx jbmda vglew zfna"
+    },
+    "68": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 9,
+        "output": "rnxda zfnao jcmxny vuytx",
+        "gold": "rnxda zfnac jbmany vuyxt"
+    },
+    "69": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 9,
+        "output": "yxrnx glekw vnfca zuejb",
+        "gold": "yxrnx glekw vfnac zuyjb"
+    },
+    "70": {
+        "input": "weruvx piwoew laors",
+        "shift": 9,
+        "output": "fnevdg yrxfnd ujxab",
+        "gold": "fnadeg yrfxnf ujxab"
+    },
+    "71": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 9,
+        "output": "gwlcd fndz auprb vfdxrx",
+        "gold": "gwldi fnzac yuxrb zfnaxr"
+    },
+    "72": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 9,
+        "output": "The encoded text with a shift of 9 is:\n\nndzvx jrmrsy zexac",
+        "gold": "nfazx jbmros zfnac"
+    },
+    "73": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 9,
+        "output": "zfnrd iglmw vyxan yuxjz",
+        "gold": "zfnrd iglew vyxan yuxjz"
+    },
+    "74": {
+        "input": "zxcme jter",
+        "shift": 9,
+        "output": "i glmvn sdmr",
+        "gold": "iglvn scna"
+    },
+    "75": {
+        "input": "olksad twuqwej",
+        "shift": 12,
+        "output": "axwemu fyiicqv",
+        "gold": "axwemp figciqv"
+    },
+    "76": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 12,
+        "output": "nmlxxc wbcmdi agiiyq",
+        "gold": "nmlaxc wbimdu gkciqd"
+    },
+    "77": {
+        "input": "rakibo zlmqwe",
+        "shift": 12,
+        "output": "dmwucq nxyiiyq",
+        "gold": "dmwuna lxyciq"
+    },
+    "78": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 12,
+        "output": "kgueqmr ppemaw tp",
+        "gold": "kguapmr ppemaw tp"
+    },
+    "79": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 12,
+        "output": "abucies uiflcis wlduaq",
+        "gold": "abuciqd ugjlciq wvduqc"
+    },
+    "80": {
+        "input": "fiorst zxnvqwe",
+        "shift": 12,
+        "output": "taebgf lzziyis",
+        "gold": "ruadef ljzhciq"
+    },
+    "81": {
+        "input": "blipzo akwer sui",
+        "shift": 12,
+        "output": "nuxbzk mwyqj eaw",
+        "gold": "nxubla mwiqd egu"
+    },
+    "82": {
+        "input": "brifta volek drifty",
+        "shift": 12,
+        "output": "ndwraf xawqw pduvzk",
+        "gold": "ndurfm haxqw pdurfk"
+    },
+    "83": {
+        "input": "gremplin zorfyl kout",
+        "shift": 12,
+        "output": "sdsbyxuz ladhqz wagf",
+        "gold": "sdqybxuz ladrkx wagf"
+    },
+    "84": {
+        "input": "chipda vincal jantroff",
+        "shift": 12,
+        "output": "otuvpm xuzomx vmzfdbrr",
+        "gold": "otubpm huzomx vmzfdarr"
+    },
+    "85": {
+        "input": "siwind ferplom kilter",
+        "shift": 12,
+        "output": "euyazp rqdxbay wuxfqd",
+        "gold": "euiuzp rqdbxay wuxfqd"
+    },
+    "86": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 12,
+        "output": "uucis iemsqd bahrz lmlk",
+        "gold": "uuaiq cixqd bahzr jmli"
+    },
+    "87": {
+        "input": "qwlar opivn mdtar",
+        "shift": 12,
+        "output": "iktfj cfmjb arhif",
+        "gold": "cixmd abuhz ypfmd"
+    },
+    "88": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 12,
+        "output": "duwzb npezh bawmf iqiđ",
+        "gold": "dugbf nojzh bamep ciqd"
+    },
+    "89": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 12,
+        "output": "wxoia yznho iqsfa",
+        "gold": "wxlia yznho ciqfa"
+    },
+    "90": {
+        "input": "rewquy savcx wepoi",
+        "shift": 12,
+        "output": "dmiyag emhoj iqbaw",
+        "gold": "dqicgk emhoj iqbau"
+    },
+    "91": {
+        "input": "mngtr opqwe laskf",
+        "shift": 12,
+        "output": "yzsfd abiyq xmewr",
+        "gold": "yzsfd abciq xmewr"
+    },
+    "92": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 12,
+        "output": "bucia mepgf yjohz iasj",
+        "gold": "bucia mepgd yjohz ciqd"
+    },
+    "93": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 12,
+        "output": "uqagf cizfd mepfar yxbaw",
+        "gold": "uqagd ciqdf mepdqb yxbaw"
+    },
+    "94": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 12,
+        "output": "bawqa jophz yiqfd cxbme",
+        "gold": "bauqa johnz yiqdf cxbme"
+    },
+    "95": {
+        "input": "weruvx piwoew laors",
+        "shift": 12,
+        "output": "iqdwhj bsaqyi xmzde",
+        "gold": "iqdghj buiaqi xmade"
+    },
+    "96": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 12,
+        "output": "jzqgh iq",
+        "gold": "jzogl iqcdf bxaue ciqdau"
+    },
+    "97": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 12,
+        "output": "sgfce mevqxr iekpf",
+        "gold": "qidca mepurv ciqdf"
+    },
+    "98": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 12,
+        "output": "iokuq npltb dbcfu dzaim",
+        "gold": "ciqug ljohz ybadq bxamc"
+    },
+    "99": {
+        "input": "zxcme jter",
+        "shift": 12,
+        "output": "lzipq vfmz",
+        "gold": "ljoyq vfqd"
+    }
+}

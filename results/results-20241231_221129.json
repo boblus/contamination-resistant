@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "ronvdg wzxtzhm",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nronvdg wzxtzhm\nassistant\npqubj vywgklm",
+        "gold": "olksad twuqwej"
+    },
+    "1": {
+        "input": "edcrot nszdul xbtzhu",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nedcrot nszdul xbtzhu\nassistant\nbcdqiu myakva",
+        "gold": "bazolq kpwari uyqwer"
+    },
+    "2": {
+        "input": "udnler coptzh",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nudnler coptzh\nassistant\nbanana split",
+        "gold": "rakibo zlmqwe"
+    },
+    "3": {
+        "input": "bxlrgdi ggvdrn kg",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nbxlrgdi ggvdrn kg\nassistant\naxkrkfh fddkkp hj",
+        "gold": "yuiodaf ddsaok hd"
+    },
+    "4": {
+        "input": "rsltzhu lxactzh nmulht",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nrsltzhu lxactzh nmulht\nassistant\nqrstzhu qnavatz qonivt",
+        "gold": "opiqwer iuxzqwe kjrieq"
+    },
+    "5": {
+        "input": "ilruvw caqytzh",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nilruvw caqytzh\nassistant\njlvxyz defzbkj",
+        "gold": "fiorst zxnvqwe"
+    },
+    "6": {
+        "input": "eolscr dnzhu vxl",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\neolscr dnzhu vxl\nassistant\nhello world",
+        "gold": "blipzo akwer sui"
+    },
+    "7": {
+        "input": "euliwd yrohn guliwb",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\neuliwd yrohn guliwb\nassistant\ndancing flowers brightly",
+        "gold": "brifta volek drifty"
+    },
+    "8": {
+        "input": "juhpsolq cruibo nrxw",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\njuhpsolq cruibo nrxw\nassistant\njulpolq curibo nrwxyz",
+        "gold": "gremplin zorfyl kout"
+    },
+    "9": {
+        "input": "fklsgd ylqfdo mdqwurii",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nfklsgd ylqfdo mdqwurii\nassistant\nholistic approach toprogramming",
+        "gold": "chipda vincal jantroff"
+    },
+    "10": {
+        "input": "vlzlqg ihusorp nlowhu",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nvlzlqg ihusorp nlowhu\nassistant\nwelcome to the forum",
+        "gold": "siwind ferplom kilter"
+    },
+    "11": {
+        "input": "llrzh tzohu sryqi adcz",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nllrzh tzohu sryqi adcz\nassistant\nkkrwg twfgl qrzhc ytbwu",
+        "gold": "iiowe qwler povnf xazw"
+    },
+    "12": {
+        "input": "tzodu rslyq pgwdu",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\ntzodu rslyq pgwdu\nassistant\nsunce qrxyz vhcew",
+        "gold": "qwlar opivn mdtar"
+    },
+    "13": {
+        "input": "ulxsw efaqy srdvg tzhu",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nulxsw efaqy srdvg tzhu\nassistant\nhello world你好",
+        "gold": "riupt bcxnv poasd qwer"
+    },
+    "14": {
+        "input": "noczr pqeyf tzhwr",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nnoczr pqeyf tzhwr\nassistant\npixl would be",
+        "gold": "klzwo mnbvc qweto"
+    },
+    "15": {
+        "input": "uhztxb vdyfa zhsrl",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nuhztxb vdyfa zhsrl\nassistant\nwklvlw zdqvv",
+        "gold": "rewquy savcx wepoi"
+    },
+    "16": {
+        "input": "pqjwu rstzh odvni",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\npqjwu rstzh odvni\nassistant\nmnhx lqopj kujhm",
+        "gold": "mngtr opqwe laskf"
+    },
+    "17": {
+        "input": "sltzr dvgxu pafyq tzhu",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nsltzr dvgxu pafyq tzhu\nassistant\nqrxyz cvjxy uwnpr uwkt",
+        "gold": "piqwo asdur mxcvn qwer"
+    },
+    "18": {
+        "input": "lhrxu tzhuw dvguhs posrn",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nlhrxu tzhuw dvguhs posrn\nassistant\nkexwv wyvwk cnftr bnmqo",
+        "gold": "ieour qwert asdrep mlpok"
+    },
+    "19": {
+        "input": "srlhr afyeq pzhuw tosdv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nsrlhr afyeq pzhuw tosdv\nassistant\nvivad bhtiz scxqe wujxy",
+        "gold": "poieo xcvbn mwert qlpas"
+    },
+    "20": {
+        "input": "zhuxya slzrhz odruv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nzhuxya slzrhz odruv\nassistant\ntxtyw dqtwdq rhqcy",
+        "gold": "weruvx piwoew laors"
+    },
+    "21": {
+        "input": "aqfxc zhtuw sorlv tzhurl",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\naqfxc zhtuw sorlv tzhurl\nassistant\nthequick brown fox jumps",
+        "gold": "xncuz weqrt plois qweroi"
+    },
+    "22": {
+        "input": "hzutr dvglim tzhuw",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nhzutr dvglim tzhuw\nassistant\nfox jumps over dog",
+        "gold": "ewrqo asdifj qwert"
+    },
+    "23": {
+        "input": "tzhlx cafyq psruh sordt",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\ntzhlx cafyq psruh sordt\nassistant\nwklcu chvrw vrutu vrwxlwlf",
+        "gold": "qweiu zxcvn mpore ploaq"
+    },
+    "24": {
+        "input": "cafph mwhu",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\ncafph mwhu\nassistant\nbadly july",
+        "gold": "zxcme jter"
+    },
+    "25": {
+        "input": "urqygj zcawckp",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nurqygj zcawckp\nassistant\ntesting yourcipher",
+        "gold": "olksad twuqwej"
+    },
+    "26": {
+        "input": "hgfurw qvcgxo aewckx",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nhgfurw qvcgxo aewckx\nassistant\nbdfzan pqbfji yagbji",
+        "gold": "bazolq kpwari uyqwer"
+    },
+    "27": {
+        "input": "xgqohu frswck",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nxgqohu frswck\nassistant\nvjroqy gtizdm",
+        "gold": "rakibo zlmqwe"
+    },
+    "28": {
+        "input": "eaoujgl jjyguq nj",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\neaoujgl jjyguq nj\nassistant\nbduikf mxxfpi km",
+        "gold": "yuiodaf ddsaok hd"
+    },
+    "29": {
+        "input": "uvowckx oadfwck qpxokw",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nuvowckx oadfwck qpxokw\nassistant\nxyzbnlm rackeyn defghn",
+        "gold": "opiqwer iuxzqwe kjrieq"
+    },
+    "30": {
+        "input": "louxyz fdtbwck",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nlouxyz fdtbwck\nassistant\nkjinq evayzn",
+        "gold": "fiorst zxnvqwe"
+    },
+    "31": {
+        "input": "hrovfu gqckx yao",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nhrovfu gqckx yao\nassistant\nbknji cimhx uwm",
+        "gold": "blipzo akwer sui"
+    },
+    "32": {
+        "input": "hxolzg burkq jxolze",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nhxolzg burkq jxolze\nassistant\nkvmfg ypwjv kvmtf",
+        "gold": "brifta volek drifty"
+    },
+    "33": {
+        "input": "mxksvrot fuxler quaz",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nmxksvrot fuxler quaz\nassistant\nljkpvqnt bywkrp uoy",
+        "gold": "gremplin zorfyl kout"
+    },
+    "34": {
+        "input": "inovjg botigr pgtzxull",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ninovjg botigr pgtzxull\nassistant\nhello world thisisatest",
+        "gold": "chipda vincal jantroff"
+    },
+    "35": {
+        "input": "yocotj lkxvrus qorzkx",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nyocotj lkxvrus qorzkx\nassistant\nfoxjumped overlazy",
+        "gold": "siwind ferplom kilter"
+    },
+    "36": {
+        "input": "oouck wcrkx vubtl dgfc",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\noouck wcrkx vubtl dgfc\nassistant\nnoon and back to code",
+        "gold": "iiowe qwler povnf xazw"
+    },
+    "37": {
+        "input": "wcrgx uvobt sjzgx",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nwcrgx uvobt sjzgx\nassistant\nvqlja wqphv tklha",
+        "gold": "qwlar opivn mdtar"
+    },
+    "38": {
+        "input": "xoavz hidtb vugyj wckx",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nxoavz hidtb vugyj wckx\nassistant\nspeak friend and enter",
+        "gold": "riupt bcxnv poasd qwer"
+    },
+    "39": {
+        "input": "qrfcu sthbi wckzu",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nqrfcu sthbi wckzu\nassistant\nthrif yjdlp ixywa",
+        "gold": "klzwo mnbvc qweto"
+    },
+    "40": {
+        "input": "xkcwae ygbid ckvuo",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nxkcwae ygbid ckvuo\nassistant\nunbva zfcis rtwzn",
+        "gold": "rewquy savcx wepoi"
+    },
+    "41": {
+        "input": "stmzx uvwck rgyql",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nstmzx uvwck rgyql\nassistant\nthisx isz now yqjwm",
+        "gold": "mngtr opqwe laskf"
+    },
+    "42": {
+        "input": "vowcu gyjax sdibt wckx",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nvowcu gyjax sdibt wckx\nassistant\nupbzt fxhld rjagz vbyk",
+        "gold": "piqwo asdur mxcvn qwer"
+    },
+    "43": {
+        "input": "okuax wckxz gyjxkv srvuq",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nokuax wckxz gyjxkv srvuq\nassistant\nlgnth dfyzm clementine",
+        "gold": "ieour qwert asdrep mlpok"
+    },
+    "44": {
+        "input": "vuoku dibht sckxz wrvgy",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nvuoku dibht sckxz wrvgy\nassistant\ntanac the quick brown fox jumps",
+        "gold": "poieo xcvbn mwert qlpas"
+    },
+    "45": {
+        "input": "ckxabd vocukc rguxy",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nckxabd vocukc rguxy\nassistant\nalworth university",
+        "gold": "weruvx piwoew laors"
+    },
+    "46": {
+        "input": "dtiaf ckwxz vruoy wckxuo",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ndtiaf ckwxz vruoy wckxuo\nassistant\nthequick brown fox jumps",
+        "gold": "xncuz weqrt plois qweroi"
+    },
+    "47": {
+        "input": "kcxwu gyjolp wckxz",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nkcxwu gyjolp wckxz\nassistant\nfixab defghijk xyz",
+        "gold": "ewrqo asdifj qwert"
+    },
+    "48": {
+        "input": "wckoa fdibt svuxk vrugw",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nwckoa fdibt svuxk vrugw\nassistant\nvbjnj bnhaq ruvjt qtwph",
+        "gold": "qweiu zxcvn mpore ploaq"
+    },
+    "49": {
+        "input": "fdisk pzkx",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nfdisk pzkx\nassistant\ncipher = \"fdisk pzkx\"\nshift = 6\n\nplain_text = \"\"\n\nfor char in cipher:\n    if char.isalpha():\n        shift_char = chr(((ord(char.lower()) - 97 - shift) % 26) + 97)\n        plain_text += shift_char if char.islower() else shift_char.upper()\n    else:\n        plain_text += char\n\nprint(plain_text)",
+        "gold": "zxcme jter"
+    },
+    "50": {
+        "input": "xutbjm cfdzfns",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nxutbjm cfdzfns\nassistant\nwelcome to the party",
+        "gold": "olksad twuqwej"
+    },
+    "51": {
+        "input": "kjixuz tyfjar dhzfna",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nkjixuz tyfjar dhzfna\nassistant\nittoby tomorrow westart",
+        "gold": "bazolq kpwari uyqwer"
+    },
+    "52": {
+        "input": "ajtrkx iuvzfn",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\najtrkx iuvzfn\nassistant\nztokp zyxwml",
+        "gold": "rakibo zlmqwe"
+    },
+    "53": {
+        "input": "hdrxmjo mmbjxt qm",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nhdrxmjo mmbjxt qm\nassistant\nbutterfly effect",
+        "gold": "yuiodaf ddsaok hd"
+    },
+    "54": {
+        "input": "xyrzfna rdgizfn tsarnz",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nxyrzfna rdgizfn tsarnz\nassistant\nvwopgbq ujtipgo tuabcu",
+        "gold": "opiqwer iuxzqwe kjrieq"
+    },
+    "55": {
+        "input": "orxabc igwezfn",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\norxabc igwezfn\nassistant\nhello world",
+        "gold": "fiorst zxnvqwe"
+    },
+    "56": {
+        "input": "kuryix jtfna bdr",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nkuryix jtfna bdr\nassistant\nlvtzop cmkzg cew",
+        "gold": "blipzo akwer sui"
+    },
+    "57": {
+        "input": "karocj exunt maroch",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nkarocj exunt maroch\nassistant\nbajicd lupt bajicd",
+        "gold": "brifta volek drifty"
+    },
+    "58": {
+        "input": "panvyurw ixaohu txdc",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\npanvyurw ixaohu txdc\nassistant\ndonot use txdc",
+        "gold": "gremplin zorfyl kout"
+    },
+    "59": {
+        "input": "lqrymj erwlju sjwcaxoo",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nlqrymj erwlju sjwcaxoo\nassistant\njkimji dwikhn rbuvnnpq",
+        "gold": "chipda vincal jantroff"
+    },
+    "60": {
+        "input": "brfrwm onayuxv trucna",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nbrfrwm onayuxv trucna\nassistant\nakewlm njtbh frpsib",
+        "gold": "siwind ferplom kilter"
+    },
+    "61": {
+        "input": "rrxfn zfuna yxewo gjif",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nrrxfn zfuna yxewo gjif\nassistant\npquen vegun taxdo fihe",
+        "gold": "iiowe qwler povnf xazw"
+    },
+    "62": {
+        "input": "zfuja xyrew vmcja",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nzfuja xyrew vmcja\nassistant\nwewka uvdsn lbkib",
+        "gold": "qwlar opivn mdtar"
+    },
+    "63": {
+        "input": "ardyc klgwe yxjbm zfna",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nardyc klgwe yxjbm zfna\nassistant\nthis is a test message",
+        "gold": "riupt bcxnv poasd qwer"
+    },
+    "64": {
+        "input": "tuifx vwkel zfncx",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\ntuifx vwkel zfncx\nassistant\nhello world",
+        "gold": "klzwo mnbvc qweto"
+    },
+    "65": {
+        "input": "anfzdh bjelg fnyxr",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nanfzdh bjelg fnyxr\nassistant\nthequick brownfox",
+        "gold": "rewquy savcx wepoi"
+    },
+    "66": {
+        "input": "vwpca xyzfn ujbto",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nvwpca xyzfn ujbto\nassistant\nuvwba yjgcu kcpuc",
+        "gold": "mngtr opqwe laskf"
+    },
+    "67": {
+        "input": "yrzfx jbmda vglew zfna",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nyrzfx jbmda vglew zfna\nassistant\nthis is a test message",
+        "gold": "piqwo asdur mxcvn qwer"
+    },
+    "68": {
+        "input": "rnxda zfnac jbmany vuyxt",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nrnxda zfnac jbmany vuyxt\nassistant\nbanana split icecream",
+        "gold": "ieour qwert asdrep mlpok"
+    },
+    "69": {
+        "input": "yxrnx glekw vfnac zuyjb",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nyxrnx glekw vfnac zuyjb\nassistant\npxmnj ftkvm wjxhi avkzc",
+        "gold": "poieo xcvbn mwert qlpas"
+    },
+    "70": {
+        "input": "fnadeg yrfxnf ujxab",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nfnadeg yrfxnf ujxab\nassistant\nwelcome to the game",
+        "gold": "weruvx piwoew laors"
+    },
+    "71": {
+        "input": "gwldi fnzac yuxrb zfnaxr",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\ngwldi fnzac yuxrb zfnaxr\nassistant\nfailure to understand will result",
+        "gold": "xncuz weqrt plois qweroi"
+    },
+    "72": {
+        "input": "nfazx jbmros zfnac",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nnfazx jbmros zfnac\nassistant\nmebyu ikonvd ydvmr",
+        "gold": "ewrqo asdifj qwert"
+    },
+    "73": {
+        "input": "zfnrd iglew vyxan yuxjz",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nzfnrd iglew vyxan yuxjz\nassistant\nwewqc fwkho txwdm fivka",
+        "gold": "qweiu zxcvn mpore ploaq"
+    },
+    "74": {
+        "input": "iglvn scna",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\niglvn scna\nassistant\nhello world",
+        "gold": "zxcme jter"
+    },
+    "75": {
+        "input": "axwemp figciqv",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\naxwemp figciqv\nassistant\nthisisatesttext",
+        "gold": "olksad twuqwej"
+    },
+    "76": {
+        "input": "nmlaxc wbimdu gkciqd",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nnmlaxc wbimdu gkciqd\nassistant\nklzvbk fztllb eqbhpc",
+        "gold": "bazolq kpwari uyqwer"
+    },
+    "77": {
+        "input": "dmwuna lxyciq",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\ndmwuna lxyciq\nassistant\nanvill forge",
+        "gold": "rakibo zlmqwe"
+    },
+    "78": {
+        "input": "kguapmr ppemaw tp",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nkguapmr ppemaw tp\nassistant\nthisisateststring",
+        "gold": "yuiodaf ddsaok hd"
+    },
+    "79": {
+        "input": "abuciqd ugjlciq wvduqc",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nabuciqd ugjlciq wvduqc\nassistant\nztayhap tfahapn rjcmaph",
+        "gold": "opiqwer iuxzqwe kjrieq"
+    },
+    "80": {
+        "input": "ruadef ljzhciq",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nruadef ljzhciq\nassistant\nplease help me",
+        "gold": "fiorst zxnvqwe"
+    },
+    "81": {
+        "input": "nxubla mwiqd egu",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nnxubla mwiqd egu\nassistant\nthisisatextexample",
+        "gold": "blipzo akwer sui"
+    },
+    "82": {
+        "input": "ndurfm haxqw pdurfk",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nndurfm haxqw pdurfk\nassistant\nthis_is_the_ciphertext",
+        "gold": "brifta volek drifty"
+    },
+    "83": {
+        "input": "sdqybxuz ladrkx wagf",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nsdqybxuz ladrkx wagf\nassistant\nprogramming language java",
+        "gold": "gremplin zorfyl kout"
+    },
+    "84": {
+        "input": "otubpm huzomx vmzfdarr",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\notubpm huzomx vmzfdarr\nassistant\nnice day to visitfriends",
+        "gold": "chipda vincal jantroff"
+    },
+    "85": {
+        "input": "euiuzp rqdbxay wuxfqd",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\neuiuzp rqdbxay wuxfqd\nassistant\nthis is a test message",
+        "gold": "siwind ferplom kilter"
+    },
+    "86": {
+        "input": "uuaiq cixqd bahzr jmli",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nuuaiq cixqd bahzr jmli\nassistant\nttzhp btfnm azyks ijhkn",
+        "gold": "iiowe qwler povnf xazw"
+    },
+    "87": {
+        "input": "cixmd abuhz ypfmd",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\ncixmd abuhz ypfmd\nassistant\nbanana split banana",
+        "gold": "qwlar opivn mdtar"
+    },
+    "88": {
+        "input": "dugbf nojzh bamep ciqd",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\ndugbf nojzh bamep ciqd\nassistant\nthis is a test cipher",
+        "gold": "riupt bcxnv poasd qwer"
+    },
+    "89": {
+        "input": "wxlia yznho ciqfa",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nwxlia yznho ciqfa\nassistant\nthis is a test message",
+        "gold": "klzwo mnbvc qweto"
+    },
+    "90": {
+        "input": "dqicgk emhoj iqbau",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\ndqicgk emhoj iqbau\nassistant\napril fools day",
+        "gold": "rewquy savcx wepoi"
+    },
+    "91": {
+        "input": "yzsfd abciq xmewr",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nyzsfd abciq xmewr\nassistant\naxlec zbnhy twdov",
+        "gold": "mngtr opqwe laskf"
+    },
+    "92": {
+        "input": "bucia mepgd yjohz ciqd",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nbucia mepgd yjohz ciqd\nassistant\nadea lfcgk bhix",
+        "gold": "piqwo asdur mxcvn qwer"
+    },
+    "93": {
+        "input": "uqagd ciqdf mepdqb yxbaw",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nuqagd ciqdf mepdqb yxbaw\nassistant\nthis is a test message",
+        "gold": "ieour qwert asdrep mlpok"
+    },
+    "94": {
+        "input": "bauqa johnz yiqdf cxbme",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nbauqa johnz yiqdf cxbme\nassistant\nthiss isz aqjvf gkxne",
+        "gold": "poieo xcvbn mwert qlpas"
+    },
+    "95": {
+        "input": "iqdghj buiaqi xmade",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\niqdghj buiaqi xmade\nassistant\nhelloworldjava",
+        "gold": "weruvx piwoew laors"
+    },
+    "96": {
+        "input": "jzogl iqcdf bxaue ciqdau",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\njzogl iqcdf bxaue ciqdau\nassistant\nhello world this is a test",
+        "gold": "xncuz weqrt plois qweroi"
+    },
+    "97": {
+        "input": "qidca mepurv ciqdf",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nqidca mepurv ciqdf\nassistant\nthis is the caesar cipher",
+        "gold": "ewrqo asdifj qwert"
+    },
+    "98": {
+        "input": "ciqug ljohz ybadq bxamc",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nciqug ljohz ybadq bxamc\nassistant\nbhfk jfniy vznbp aklbn",
+        "gold": "qweiu zxcvn mpore ploaq"
+    },
+    "99": {
+        "input": "ljoyq vfqd",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nljoyq vfqd\nassistant\nthis is fun",
+        "gold": "zxcme jter"
+    }
+}

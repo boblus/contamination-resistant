@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "good deeds bring joy",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\ngood deeds bring joy\nassistant\njrrh dhvpx eho vriwfhw",
+        "gold": "jrrg ghhgv eulqj mrb"
+    },
+    "1": {
+        "input": "embrace the unknown",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nembrace the unknown\nassistant\nhduqhj wh qrsqrlqhg",
+        "gold": "hpeudfh wkh xqnqrzq"
+    },
+    "2": {
+        "input": "chasing your dreams",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nchasing your dreams\nassistant\nchlwwzhzd czhguhqg",
+        "gold": "fkdvlqj brxu guhdpv"
+    },
+    "3": {
+        "input": "walk in someone else’s shoes",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nwalk in someone else’s shoes\nassistant\nwrdf j vr vrph hfwlrq’s shwuhw",
+        "gold": "zdon lq vrphrqh hovh’v vkrhv"
+    },
+    "4": {
+        "input": "finding peace within",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nfinding peace within\nassistant\nklqghq shtqj yqhiges",
+        "gold": "ilqglqj shdfh zlwklq"
+    },
+    "5": {
+        "input": "laughter is the best medicine",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nlaughter is the best medicine\nassistant\n ldcxdoh lv whdu phofhrixu",
+        "gold": "odxjkwhu lv wkh ehvw phglflqh"
+    },
+    "6": {
+        "input": "reach for the stars",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nreach for the stars\nassistant\nshdui srh whd vwdl",
+        "gold": "uhdfk iru wkh vwduv"
+    },
+    "7": {
+        "input": "beauty in simplicity",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nbeauty in simplicity\nassistant\ndhvdw rh kr whqjrylw",
+        "gold": "ehdxwb lq vlpsolflwb"
+    },
+    "8": {
+        "input": "time heals all wounds",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\ntime heals all wounds\nassistant\nwklqg ihtdu dwd zdwrq",
+        "gold": "wlph khdov doo zrxqgv"
+    },
+    "9": {
+        "input": "patience is a virtue",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\npatience is a virtue\nassistant\nsdhodwhg lv d ywx '|'",
+        "gold": "sdwlhqfh lv d yluwxh"
+    },
+    "10": {
+        "input": "cherish the little moments",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\ncherish the little moments\nassistant\nflujsx wkh olqj moments",
+        "gold": "fkhulvk wkh olwwoh prphqwv"
+    },
+    "11": {
+        "input": "turning over a new leaf",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nturning over a new leaf\nassistant\nwhxshqw hxyd h qh rhwhvk",
+        "gold": "wxuqlqj ryhu d qhz ohdi"
+    },
+    "12": {
+        "input": "actions speak louder than words",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nactions speak louder than words\nassistant\ndldwhv vhf qdph whdu fdhv lwrs",
+        "gold": "dfwlrqv vshdn orxghu wkdq zrugv"
+    },
+    "13": {
+        "input": "nurture your relationships",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nnurture your relationships\nassistant\nqwhvxwhzdhqvdhqhvdhl",
+        "gold": "qxuwxuh brxu uhodwlrqvklsv"
+    },
+    "14": {
+        "input": "every cloud has a silver lining",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nevery cloud has a silver lining\nassistant\nhizqu fdwx lv h vdfwkh qhxlqj",
+        "gold": "hyhub forxg kdv d vloyhu olqlqj"
+    },
+    "15": {
+        "input": "kindness costs nothing",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nkindness costs nothing\nassistant\nkindness costs nothing encoded with a Caesar cipher with a shift of 3 is:\n\n`khoorqh frpsolhv`",
+        "gold": "nlqgqhvv frvwv qrwklqj"
+    },
+    "16": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\na friend in need is a friend indeed\nassistant\nd hriog lr qh lv d hriog ghj",
+        "gold": "d iulhqg lq qhhg lv d iulhqg lqghhg"
+    },
+    "17": {
+        "input": "believe in the future",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nbelieve in the future\nassistant\nehgwhrh lr whryhli",
+        "gold": "eholhyh lq wkh ixwxuh"
+    },
+    "18": {
+        "input": "learning from mistakes",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nlearning from mistakes\nassistant\nphdfngq ixq phduhvwlfhv",
+        "gold": "ohduqlqj iurp plvwdnhv"
+    },
+    "19": {
+        "input": "a heart full of gratitude",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\na heart full of gratitude\nassistant\nd hexkh irx hduhwhqj",
+        "gold": "d khduw ixoo ri judwlwxgh"
+    },
+    "20": {
+        "input": "love conquers all",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nlove conquers all\nassistant\nphrxy\\ dpdwhg\\ ehvw",
+        "gold": "oryh frqtxhuv doo"
+    },
+    "21": {
+        "input": "appreciate the small things",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nappreciate the small things\nassistant\ndqswhqwrg wh vnwhvhqgi",
+        "gold": "dssuhfldwh wkh vpdoo wklqjv"
+    },
+    "22": {
+        "input": "change is the only constant",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nchange is the only constant\nassistant\nchdfkr lv wkh sdun whdfklqj",
+        "gold": "fkdqjh lv wkh rqob frqvwdqw"
+    },
+    "23": {
+        "input": "hard work pays off",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nhard work pays off\nassistant\n leggings ydub qrr slq",
+        "gold": "kdug zrun sdbv rii"
+    },
+    "24": {
+        "input": "follow your heart",
+        "shift": 3,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 3.\nuser\nfollow your heart\nassistant\nrivqgl zriih khdu",
+        "gold": "iroorz brxu khduw"
+    },
+    "25": {
+        "input": "good deeds bring joy",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\ngood deeds bring joy\nassistant\njkss jhyy fzt lasa",
+        "gold": "muuj jkkjy hxotm pue"
+    },
+    "26": {
+        "input": "embrace the unknown",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nembrace the unknown\nassistant\njsiatr jy vaqyvk",
+        "gold": "kshxgik znk atqtuct"
+    },
+    "27": {
+        "input": "chasing your dreams",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nchasing your dreams\nassistant\ngikszq g zjxjrs",
+        "gold": "ingyotm euax jxkgsy"
+    },
+    "28": {
+        "input": "walk in someone else’s shoes",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nwalk in someone else’s shoes\nassistant\nTo encode the text \"walk in someone else’s shoes\" using a Caesar cipher with a shift of 6, we shift each letter by 6 places in the alphabet.\n\nHere's the encoded text:\n\n```\nadig ku uykqjy kixyjy igy\n```",
+        "gold": "cgrq ot yuskutk kryk’y ynuky"
+    },
+    "29": {
+        "input": "finding peace within",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nfinding peace within\nassistant\nkjljti tskcj yqyk",
+        "gold": "lotjotm vkgik coznot"
+    },
+    "30": {
+        "input": "laughter is the best medicine",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nlaughter is the best medicine\nassistant\nmexyysn jk jh jpjyjyj yjy yjy ymyyjyj.",
+        "gold": "rgamnzkx oy znk hkyz skjoiotk"
+    },
+    "31": {
+        "input": "reach for the stars",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nreach for the stars\nassistant\nsgxu jsk av yf zyvk",
+        "gold": "xkgin lux znk yzgxy"
+    },
+    "32": {
+        "input": "beauty in simplicity",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nbeauty in simplicity\nassistant\ngiazcs np yjyjtj",
+        "gold": "hkgaze ot yosvroioze"
+    },
+    "33": {
+        "input": "time heals all wounds",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\ntime heals all wounds\nassistant\nymsj ifkj cm azila zgxya",
+        "gold": "zosk nkgry grr cuatjy"
+    },
+    "34": {
+        "input": "patience is a virtue",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\npatience is a virtue\nassistant\nrjgykztkkngoigmjgycyaaycygycy",
+        "gold": "vgzoktik oy g boxzak"
+    },
+    "35": {
+        "input": "cherish the little moments",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\ncherish the little moments\nassistant\njgystt y jy rjy rjyysn",
+        "gold": "inkxoyn znk rozzrk susktzy"
+    },
+    "36": {
+        "input": "turning over a new leaf",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nturning over a new leaf\nassistant\n*j{u{ps{k}q}u{m}b{k}u{m}",
+        "gold": "zaxtotm ubkx g tkc rkgl"
+    },
+    "37": {
+        "input": "actions speak louder than words",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nactions speak louder than words\nassistant\ngfyqti yxq irupv vjuz yi azaj",
+        "gold": "gizouty yvkgq ruajkx zngt cuxjy"
+    },
+    "38": {
+        "input": "nurture your relationships",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nnurture your relationships\nassistant\nr{aj{sz{y{uj{s{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u{y{vk{u",
+        "gold": "taxzaxk euax xkrgzoutynovy"
+    },
+    "39": {
+        "input": "every cloud has a silver lining",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nevery cloud has a silver lining\nassistant\njkgqi hzifk jxi a wklv yhfn",
+        "gold": "kbkxe iruaj ngy g yorbkx rototm"
+    },
+    "40": {
+        "input": "kindness costs nothing",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nkindness costs nothing\nassistant\n姆rsxluqj xqu rqc xqc",
+        "gold": "qotjtkyy iuyzy tuznotm"
+    },
+    "41": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\na friend in need is a friend indeed\nassistant\ng jsiyk lv v jsi lvj khsa",
+        "gold": "g lxoktj ot tkkj oy g lxoktj otjkkj"
+    },
+    "42": {
+        "input": "believe in the future",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nbelieve in the future\nassistant\nhjmpjmj k jy jzljyk",
+        "gold": "hkrokbk ot znk lazaxk"
+    },
+    "43": {
+        "input": "learning from mistakes",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nlearning from mistakes\nassistant\nphukxqj jtu rvjytky",
+        "gold": "rkgxtotm lxus soyzgqky"
+    },
+    "44": {
+        "input": "a heart full of gratitude",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\na heart full of gratitude\nassistant\ng jiyv kri of ijwyyjya",
+        "gold": "g nkgxz larr ul mxgzozajk"
+    },
+    "45": {
+        "input": "love conquers all",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nlove conquers all\nassistant\nsuaty gpvsy fmvi",
+        "gold": "rubk iutwakxy grr"
+    },
+    "46": {
+        "input": "appreciate the small things",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nappreciate the small things\nassistant\ngukyxiyq yx vzccy vmwyk",
+        "gold": "gvvxkiogzk znk ysgrr znotmy"
+    },
+    "47": {
+        "input": "change is the only constant",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nchange is the only constant\nassistant\niikyqk tuw vjx ruw irxvk",
+        "gold": "ingtmk oy znk utre iutyzgtz"
+    },
+    "48": {
+        "input": "hard work pays off",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nhard work pays off\nassistant\njgiz{aei}uc{sj{u}t{y}",
+        "gold": "ngxj cuxq vgey ull"
+    },
+    "49": {
+        "input": "follow your heart",
+        "shift": 6,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 6.\nuser\nfollow your heart\nassistant\njugtky jyrj jhksja",
+        "gold": "lurruc euax nkgxz"
+    },
+    "50": {
+        "input": "good deeds bring joy",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\ngood deeds bring joy\nassistant\nrzkx elzxy cmk cnf",
+        "gold": "pxxm mnnmb karwp sxh"
+    },
+    "51": {
+        "input": "embrace the unknown",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nembrace the unknown\nassistant\nluajud lu zrqgj",
+        "gold": "nvkajln cqn dwtwxfw"
+    },
+    "52": {
+        "input": "chasing your dreams",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nchasing your dreams\nassistant\nlmwdtm zv cnfduo",
+        "gold": "lqjbrwp hxda manjvb"
+    },
+    "53": {
+        "input": "walk in someone else’s shoes",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nwalk in someone else’s shoes\nassistant\naply l z vjdn ylqj wkh vxw",
+        "gold": "fjut rw bxvnxwn nubn’b bqxnb"
+    },
+    "54": {
+        "input": "finding peace within",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nfinding peace within\nassistant\nolxyqj svyx cmwd",
+        "gold": "orwmrwp ynjln frcqrw"
+    },
+    "55": {
+        "input": "laughter is the best medicine",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nlaughter is the best medicine\nassistant\nrjmddzv nv zli qbtjfwk",
+        "gold": "ujdpqcna rb cqn knbc vnmrlrwn"
+    },
+    "56": {
+        "input": "reach for the stars",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nreach for the stars\nassistant\nyfdu ow ym b zcmcb",
+        "gold": "anjlq oxa cqn bcjab"
+    },
+    "57": {
+        "input": "beauty in simplicity",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nbeauty in simplicity\nassistant\nlmxdvx lv wklvlpdwh",
+        "gold": "knjdch rw brvyurlrch"
+    },
+    "58": {
+        "input": "time heals all wounds",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\ntime heals all wounds\nassistant\nymxf xicv jqq aczn",
+        "gold": "crvn qnjub juu fxdwmb"
+    },
+    "59": {
+        "input": "patience is a virtue",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\npatience is a virtue\nassistant\nauedujd xli l bfnzlw",
+        "gold": "yjcrnwln rb j eracdn"
+    },
+    "60": {
+        "input": "cherish the little moments",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\ncherish the little moments\nassistant\nluujvx wklv skhuh lwdui",
+        "gold": "lqnarbq cqn urccun vxvnwcb"
+    },
+    "61": {
+        "input": "turning over a new leaf",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nturning over a new leaf\nassistant\nadqzm wjxv lpd zq fvdq",
+        "gold": "cdawrwp xena j wnf unjo"
+    },
+    "62": {
+        "input": "actions speak louder than words",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nactions speak louder than words\nassistant\njdl{z}x{w}v{m}n{g}k{r}q{u}c{y}",
+        "gold": "jlcrxwb bynjt uxdmna cqjw fxamb"
+    },
+    "63": {
+        "input": "nurture your relationships",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nnurture your relationships\nassistant\nyvtrzh \\{w\\}zkl\\{w\\} zlxy{\\{w\\}}",
+        "gold": "wdacdan hxda anujcrxwbqryb"
+    },
+    "64": {
+        "input": "every cloud has a silver lining",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nevery cloud has a silver lining\nassistant\nwklq zuryx sw zry lzzcb qbtzy",
+        "gold": "nenah luxdm qjb j bruena urwrwp"
+    },
+    "65": {
+        "input": "kindness costs nothing",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nkindness costs nothing\nassistant\nrulyxtnn cvx lwjjlw",
+        "gold": "trwmwnbb lxbcb wxcqrwp"
+    },
+    "66": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\na friend in need is a friend indeed\nassistant\nr olxex s yx wklq s olx s yx lv wkh wkh",
+        "gold": "j oarnwm rw wnnm rb j oarnwm rwmnnm"
+    },
+    "67": {
+        "input": "believe in the future",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nbelieve in the future\nassistant\nlmwzklx kn w zlwvli",
+        "gold": "knurnen rw cqn odcdan"
+    },
+    "68": {
+        "input": "learning from mistakes",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nlearning from mistakes\nassistant\ntokdlxw olxv zklfk",
+        "gold": "unjawrwp oaxv vrbcjtnb"
+    },
+    "69": {
+        "input": "a heart full of gratitude",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\na heart full of gratitude\nassistant\nr yjmt wkl vbyexlja",
+        "gold": "j qnjac oduu xo pajcrcdmn"
+    },
+    "70": {
+        "input": "love conquers all",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nlove conquers all\nassistant\nxtrv\\ twhvlg\\ \\jzzlvg\\ dv\\ zklv\\",
+        "gold": "uxen lxwzdnab juu"
+    },
+    "71": {
+        "input": "appreciate the small things",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nappreciate the small things\nassistant\nztffvmrj z lx bzn znmvn",
+        "gold": "jyyanlrjcn cqn bvjuu cqrwpb"
+    },
+    "72": {
+        "input": "change is the only constant",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nchange is the only constant\nassistant\nlmwdlq lv wklv vwuhvw udwlrq",
+        "gold": "lqjwpn rb cqn xwuh lxwbcjwc"
+    },
+    "73": {
+        "input": "hard work pays off",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nhard work pays off\nassistant\nsduxd bxyj zrd rgy",
+        "gold": "qjam fxat yjhb xoo"
+    },
+    "74": {
+        "input": "follow your heart",
+        "shift": 9,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 9.\nuser\nfollow your heart\nassistant\nrydxdv izx kduj",
+        "gold": "oxuuxf hxda qnjac"
+    },
+    "75": {
+        "input": "good deeds bring joy",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\ngood deeds bring joy\nassistant\numinium fnzy tlu umay",
+        "gold": "saap pqqpe nduzs vak"
+    },
+    "76": {
+        "input": "embrace the unknown",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nembrace the unknown\nassistant\nygzqms v gur zebah",
+        "gold": "qyndmoq ftq gzwzaiz"
+    },
+    "77": {
+        "input": "chasing your dreams",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nchasing your dreams\nassistant\nponzrgng zr vjklv",
+        "gold": "otmeuzs kagd pdqmye"
+    },
+    "78": {
+        "input": "walk in someone else’s shoes",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nwalk in someone else’s shoes\nassistant\ntoqy eq yfdrq nly{ny lynq",
+        "gold": "imxw uz eayqazq qxeq’e etaqe"
+    },
+    "79": {
+        "input": "finding peace within",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nfinding peace within\nassistant\nlzolny gzyo avxv",
+        "gold": "ruzpuzs bqmoq iuftuz"
+    },
+    "80": {
+        "input": "laughter is the best medicine",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nlaughter is the best medicine\nassistant\nuwygwhv wh vqu whv rkzyq",
+        "gold": "xmgstfqd ue ftq nqef yqpuouzq"
+    },
+    "81": {
+        "input": "reach for the stars",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nreach for the stars\nassistant\nzmik znx fhw vnxy",
+        "gold": "dqmot rad ftq efmde"
+    },
+    "82": {
+        "input": "beauty in simplicity",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nbeauty in simplicity\nassistant\npfnqyv rn fzhxrmh",
+        "gold": "nqmgfk uz euybxuoufk"
+    },
+    "83": {
+        "input": "time heals all wounds",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\ntime heals all wounds\nassistant\nyqog jnfx lq dzzb",
+        "gold": "fuyq tqmxe mxx iagzpe"
+    },
+    "84": {
+        "input": "patience is a virtue",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\npatience is a virtue\nassistant\nvodbmdng qng l dnhgl",
+        "gold": "bmfuqzoq ue m hudfgq"
+    },
+    "85": {
+        "input": "cherish the little moments",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\ncherish the little moments\nassistant\nodiumy gur 12f znooyr qnqtrqvatia",
+        "gold": "otqduet ftq xuffxq yayqzfe"
+    },
+    "86": {
+        "input": "turning over a new leaf",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nturning over a new leaf\nassistant\n=T=SPXH=Q=V=I=Z=U=",
+        "gold": "fgdzuzs ahqd m zqi xqmr"
+    },
+    "87": {
+        "input": "actions speak louder than words",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nactions speak louder than words\nassistant\nmnopqr tdlh ebcg ny ynh zybn",
+        "gold": "mofuaze ebqmw xagpqd ftmz iadpe"
+    },
+    "88": {
+        "input": "nurture your relationships",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nnurture your relationships\nassistant\ntheofq jtcm ynhvmxjy",
+        "gold": "zgdfgdq kagd dqxmfuazetube"
+    },
+    "89": {
+        "input": "every cloud has a silver lining",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nevery cloud has a silver lining\nassistant\nmzqy egznhv nw d cghvyt yzrvmcv",
+        "gold": "qhqdk oxagp tme m euxhqd xuzuzs"
+    },
+    "90": {
+        "input": "kindness costs nothing",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nkindness costs nothing\nassistant\nuwywnaxz gurz nyy fbaqrebaf.",
+        "gold": "wuzpzqee oaefe zaftuzs"
+    },
+    "91": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\na friend in need is a friend indeed\nassistant\no nxyh qtb yf is o nxyh yfb",
+        "gold": "m rduqzp uz zqqp ue m rduqzp uzpqqp"
+    },
+    "92": {
+        "input": "believe in the future",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nbelieve in the future\nassistant\nzholgyp s v zyhwprih rzrglu",
+        "gold": "nqxuqhq uz ftq rgfgdq"
+    },
+    "93": {
+        "input": "learning from mistakes",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nlearning from mistakes\nassistant\nyzburq gur fubjvfyrqvat",
+        "gold": "xqmdzuzs rday yuefmwqe"
+    },
+    "94": {
+        "input": "a heart full of gratitude",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\na heart full of gratitude\nassistant\nq rymx eky nq fukzrtn",
+        "gold": "m tqmdf rgxx ar sdmfufgpq"
+    },
+    "95": {
+        "input": "love conquers all",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nlove conquers all\nassistant\nyztg wxywn cnuoqn",
+        "gold": "xahq oazcgqde mxx"
+    },
+    "96": {
+        "input": "appreciate the small things",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nappreciate the small things\nassistant\ntoqyyzng the cnw znxwn",
+        "gold": "mbbdqoumfq ftq eymxx ftuzse"
+    },
+    "97": {
+        "input": "change is the only constant",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nchange is the only constant\nassistant\nmeyeiz umq yv hz qvnj dws lvw",
+        "gold": "otmzsq ue ftq azxk oazefmzf"
+    },
+    "98": {
+        "input": "hard work pays off",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nhard work pays off\nassistant\nlmsg{zg{cmz{w{uj{mg{",
+        "gold": "tmdp iadw bmke arr"
+    },
+    "99": {
+        "input": "follow your heart",
+        "shift": 12,
+        "output": "system\nEncode the following text to a Caesar cipher. The shift is 12.\nuser\nfollow your heart\nassistant\nzrguh zr xwhvn",
+        "gold": "raxxai kagd tqmdf"
+    }
+}

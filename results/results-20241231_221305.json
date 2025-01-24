@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "jrrg ghhgv eulqj mrb",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\njrrg ghhgv eulqj mrb\nassistant\nfree fishy clock wal",
+        "gold": "good deeds bring joy"
+    },
+    "1": {
+        "input": "hpeudfh wkh xqnqrzq",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nhpeudfh wkh xqnqrzq\nassistant\ncreate the unknown",
+        "gold": "embrace the unknown"
+    },
+    "2": {
+        "input": "fkdvlqj brxu guhdpv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nfkdvlqj brxu guhdpv\nassistant\ncoding your programs",
+        "gold": "chasing your dreams"
+    },
+    "3": {
+        "input": "zdon lq vrphrqh hovh’v vkrhv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nzdon lq vrphrqh hovh’v vkrhv\nassistant\ncode in something free's does",
+        "gold": "walk in someone else’s shoes"
+    },
+    "4": {
+        "input": "ilqglqj shdfh zlwklq",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nilqglqj shdfh zlwklq\nassistant\nfriendship within",
+        "gold": "finding peace within"
+    },
+    "5": {
+        "input": "odxjkwhu lv wkh ehvw phglflqh",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nodxjkwhu lv wkh ehvw phglflqh\nassistant\nclosed is the best policy",
+        "gold": "laughter is the best medicine"
+    },
+    "6": {
+        "input": "uhdfk iru wkh vwduv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nuhdfk iru wkh vwduv\nassistant\ncrack for the moon\n\n*Note*: The decoded text with a shift of 3 should actually be \"break for the sun\". It seems there was an interpretation error in the plain text provided as a response. The correct answer based on the instruction would be:\n\n\"break for the sun\"",
+        "gold": "reach for the stars"
+    },
+    "7": {
+        "input": "ehdxwb lq vlpsolflwb",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nehdxwb lq vlpsolflwb\nassistant\ncaulk in simplicity",
+        "gold": "beauty in simplicity"
+    },
+    "8": {
+        "input": "wlph khdov doo zrxqgv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nwlph khdov doo zrxqgv\nassistant\ntime works all changes",
+        "gold": "time heals all wounds"
+    },
+    "9": {
+        "input": "sdwlhqfh lv d yluwxh",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nsdwlhqfh lv d yluwxh\nassistant\npardonme is a quiet",
+        "gold": "patience is a virtue"
+    },
+    "10": {
+        "input": "fkhulvk wkh olwwoh prphqwv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nfkhulvk wkh olwwoh prphqwv\nassistant\neighth the knight's mysterious",
+        "gold": "cherish the little moments"
+    },
+    "11": {
+        "input": "wxuqlqj ryhu d qhz ohdi",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nwxuqlqj ryhu d qhz ohdi\nassistant\nwishing over a new home\n\nCorrecting my mistake, the accurate decryption with a shift of 3 would be:\n\nworking over a new site",
+        "gold": "turning over a new leaf"
+    },
+    "12": {
+        "input": "dfwlrqv vshdn orxghu wkdq zrugv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\ndfwlrqv vshdn orxghu wkdq zrugv\nassistant\nchanges happen quickly rather than words",
+        "gold": "actions speak louder than words"
+    },
+    "13": {
+        "input": "qxuwxuh brxu uhodwlrqvklsv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nqxuwxuh brxu uhodwlrqvklsv\nassistant\nspzyzyk euwu xlggrynwlqyhv\n\nThe correct decoded message with a shift of 3 should be:\n\nthezeal your relationships\n\nHowever, the correct and coherent message should be:\n\nthe zeal your relationships\n\nIt seems there's an extra 'z' in \"thezeal\". Assuming a typo in the encoded message, the intended plain text is:\n\nthe zeal your relationships",
+        "gold": "nurture your relationships"
+    },
+    "14": {
+        "input": "hyhub forxg kdv d vloyhu olqlqj",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nhyhub forxg kdv d vloyhu olqlqj\nassistant\neugua cmltd iua a sltwe lniklf",
+        "gold": "every cloud has a silver lining"
+    },
+    "15": {
+        "input": "nlqgqhvv frvwv qrwklqj",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nnlqgqhvv frvwv qrwklqj\nassistant\nkississippi gives nothing",
+        "gold": "kindness costs nothing"
+    },
+    "16": {
+        "input": "d iulhqg lq qhhg lv d iulhqg lqghhg",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nd iulhqg lq qhhg lv d iulhqg lqghhg\nassistant\na friend in need is a friend indeed",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "17": {
+        "input": "eholhyh lq wkh ixwxuh",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\neholhyh lq wkh ixwxuh\nassistant\ncipher in the future",
+        "gold": "believe in the future"
+    },
+    "18": {
+        "input": "ohduqlqj iurp plvwdnhv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nohduqlqj iurp plvwdnhv\nassistant\nlearning from mistakes",
+        "gold": "learning from mistakes"
+    },
+    "19": {
+        "input": "d khduw ixoo ri judwlwxgh",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nd khduw ixoo ri judwlwxgh\nassistant\na friend full of wisdom",
+        "gold": "a heart full of gratitude"
+    },
+    "20": {
+        "input": "oryh frqtxhuv doo",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\noryh frqtxhuv doo\nassistant\npink flowers all",
+        "gold": "love conquers all"
+    },
+    "21": {
+        "input": "dssuhfldwh wkh vpdoo wklqjv",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\ndssuhfldwh wkh vpdoo wklqjv\nassistant\ncorrecting the small things",
+        "gold": "appreciate the small things"
+    },
+    "22": {
+        "input": "fkdqjh lv wkh rqob frqvwdqw",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nfkdqjh lv wkh rqob frqvwdqw\nassistant\ncodecrack is the first constant",
+        "gold": "change is the only constant"
+    },
+    "23": {
+        "input": "kdug zrun sdbv rii",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\nkdug zrun sdbv rii\nassistant\nhelp page text fff\n\nIt seems there was a slight error in decoding the last word since \"fff\" doesn't make sense in this context. The correct plain text should be:\n\nhelp page text ee\n\nHowever, if we assume \"ee\" might also be an error and consider typical phrases, it could be \"help page text now\". But based strictly on the given cipher and shift, the correct decoded text is:\n\nhelp page text ee",
+        "gold": "hard work pays off"
+    },
+    "24": {
+        "input": "iroorz brxu khduw",
+        "shift": 3,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.\nuser\niroorz brxu khduw\nassistant\nfriendship long live",
+        "gold": "follow your heart"
+    },
+    "25": {
+        "input": "muuj jkkjy hxotm pue",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nmuuj jkkjy hxotm pue\nassistant\ngoal freeq btkzo nay\n\nIt seems there was a misunderstanding. Let me correctly decode the message with a Caesar cipher shift of 6:\n\nsuns flower water grow",
+        "gold": "good deeds bring joy"
+    },
+    "26": {
+        "input": "kshxgik znk atqtuct",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nkshxgik znk atqtuct\nassistant\nfuture is bright",
+        "gold": "embrace the unknown"
+    },
+    "27": {
+        "input": "ingyotm euax jxkgsy",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ningyotm euax jxkgsy\nassistant\ncipher this normal",
+        "gold": "chasing your dreams"
+    },
+    "28": {
+        "input": "cgrq ot yuskutk kryk’y ynuky",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ncgrq ot yuskutk kryk’y ynuky\nassistant\nbeat or xqrjxqf qoxm'q smxm",
+        "gold": "walk in someone else’s shoes"
+    },
+    "29": {
+        "input": "lotjotm vkgik coznot",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nlotjotm vkgik coznot\nassistant\nhello world code",
+        "gold": "finding peace within"
+    },
+    "30": {
+        "input": "rgamnzkx oy znk hkyz skjoiotk",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nrgamnzkx oy znk hkyz skjoiotk\nassistant\npattern in the dark between",
+        "gold": "laughter is the best medicine"
+    },
+    "31": {
+        "input": "xkgin lux znk yzgxy",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nxkgin lux znk yzgxy\nassistant\nwater flow out from",
+        "gold": "reach for the stars"
+    },
+    "32": {
+        "input": "hkgaze ot yosvroioze",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nhkgaze ot yosvroioze\nassistant\nattack on titans",
+        "gold": "beauty in simplicity"
+    },
+    "33": {
+        "input": "zosk nkgry grr cuatjy",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nzosk nkgry grr cuatjy\nassistant\nwalk short ee wpssg",
+        "gold": "time heals all wounds"
+    },
+    "34": {
+        "input": "vgzoktik oy g boxzak",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nvgzoktik oy g boxzak\nassistant\nspwxekew kn u fnsxu",
+        "gold": "patience is a virtue"
+    },
+    "35": {
+        "input": "inkxoyn znk rozzrk susktzy",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ninkxoyn znk rozzrk susktzy\nassistant\nhello world freezed",
+        "gold": "cherish the little moments"
+    },
+    "36": {
+        "input": "zaxtotm ubkx g tkc rkgl",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nzaxtotm ubkx g tkc rkgl\nassistant\nvolume down the quiet",
+        "gold": "turning over a new leaf"
+    },
+    "37": {
+        "input": "gizouty yvkgq ruajkx zngt cuxjy",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ngizouty yvkgq ruajkx zngt cuxjy\nassistant\napple bloom from the garden",
+        "gold": "actions speak louder than words"
+    },
+    "38": {
+        "input": "taxzaxk euax xkrgzoutynovy",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ntaxzaxk euax xkrgzoutynovy\nassistant\nquarter past nineoclock",
+        "gold": "nurture your relationships"
+    },
+    "39": {
+        "input": "kbkxe iruaj ngy g yorbkx rototm",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nkbkxe iruaj ngy g yorbkx rototm\nassistant\nattack plans for the attack monday",
+        "gold": "every cloud has a silver lining"
+    },
+    "40": {
+        "input": "qotjtkyy iuyzy tuznotm",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nqotjtkyy iuyzy tuznotm\nassistant\nnationwide public support",
+        "gold": "kindness costs nothing"
+    },
+    "41": {
+        "input": "g lxoktj ot tkkj oy g lxoktj otjkkj",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ng lxoktj ot tkkj oy g lxoktj otjkkj\nassistant\na friend to all is no friend at all",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "42": {
+        "input": "hkrokbk ot znk lazaxk",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nhkrokbk ot znk lazaxk\nassistant\ncipher to you mystery\n\nIt seems there was a small error in the decoding. Let's correct it:\n\nGiven the shift of 6, the correct decoding of \"hkrokbk ot znk lazaxk\" should be:\n\n\"cipher to you mystery\"\n\nHowever, to perfectly match the context, it should read:\n\n\"cipher to you secret\"\n\nSo the most accurate plain text is:\n\ncipher to you secret",
+        "gold": "believe in the future"
+    },
+    "43": {
+        "input": "rkgxtotm lxus soyzgqky",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nrkgxtotm lxus soyzgqky\nassistant\npeaceful times startnow",
+        "gold": "learning from mistakes"
+    },
+    "44": {
+        "input": "g nkgxz larr ul mxgzozajk",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ng nkgxz larr ul mxgzozajk\nassistant\na plan came to startejn\nLooks like there's still an error in decoding the last word. Let me correct it:\n\na plan came to strategy",
+        "gold": "a heart full of gratitude"
+    },
+    "45": {
+        "input": "rubk iutwakxy grr",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nrubk iutwakxy grr\nassistant\npeacefully app",
+        "gold": "love conquers all"
+    },
+    "46": {
+        "input": "gvvxkiogzk znk ysgrr znotmy",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ngvvxkiogzk znk ysgrr znotmy\nassistant\nattacking now with cavalry",
+        "gold": "appreciate the small things"
+    },
+    "47": {
+        "input": "ingtmk oy znk utre iutyzgtz",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\ningtmk oy znk utre iutyzgtz\nassistant\ncipher is the most basic",
+        "gold": "change is the only constant"
+    },
+    "48": {
+        "input": "ngxj cuxq vgey ull",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nngxj cuxq vgey ull\nassistant\nlove this very much",
+        "gold": "hard work pays off"
+    },
+    "49": {
+        "input": "lurruc euax nkgxz",
+        "shift": 6,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.\nuser\nlurruc euax nkgxz\nassistant\nhello world math",
+        "gold": "follow your heart"
+    },
+    "50": {
+        "input": "pxxm mnnmb karwp sxh",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\npxxm mnnmb karwp sxh\nassistant\nthis world seems quiet",
+        "gold": "good deeds bring joy"
+    },
+    "51": {
+        "input": "nvkajln cqn dwtwxfw",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nnvkajln cqn dwtwxfw\nassistant\nsecret message",
+        "gold": "embrace the unknown"
+    },
+    "52": {
+        "input": "lqjbrwp hxda manjvb",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nlqjbrwp hxda manjvb\nassistant\ncipher text becomes",
+        "gold": "chasing your dreams"
+    },
+    "53": {
+        "input": "fjut rw bxvnxwn nubn’b bqxnb",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nfjut rw bxvnxwn nubn’b bqxnb\nassistant\ncode hs aqwmkfh fmai'p dzmka\n\nThe decoded message is: \"code has changed completely\"",
+        "gold": "walk in someone else’s shoes"
+    },
+    "54": {
+        "input": "orwmrwp ynjln frcqrw",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\norwmrwp ynjln frcqrw\nassistant\npython programming",
+        "gold": "finding peace within"
+    },
+    "55": {
+        "input": "ujdpqcna rb cqn knbc vnmrlrwn",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nujdpqcna rb cqn knbc vnmrlrwn\nassistant\nsecret message is hide carefully",
+        "gold": "laughter is the best medicine"
+    },
+    "56": {
+        "input": "anjlq oxa cqn bcjab",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nanjlq oxa cqn bcjab\nassistant\nwater lows to place",
+        "gold": "reach for the stars"
+    },
+    "57": {
+        "input": "knjdch rw brvyurlrch",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nknjdch rw brvyurlrch\nassistant\ncipher to plaintext\n\nplaintext: loving is beautiful",
+        "gold": "beauty in simplicity"
+    },
+    "58": {
+        "input": "crvn qnjub juu fxdwmb",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\ncrvn qnjub juu fxdwmb\nassistant\nblue mice eat quickly",
+        "gold": "time heals all wounds"
+    },
+    "59": {
+        "input": "yjcrnwln rb j eracdn",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nyjcrnwln rb j eracdn\nassistant\nsaying it is friday",
+        "gold": "patience is a virtue"
+    },
+    "60": {
+        "input": "lqnarbq cqn urccun vxvnwcb",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nlqnarbq cqn urccun vxvnwcb\nassistant\nhello and welcome tothe real world",
+        "gold": "cherish the little moments"
+    },
+    "61": {
+        "input": "cdawrwp xena j wnf unjo",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\ncdawrwp xena j wnf unjo\nassistant\nbanana peel is a fruit",
+        "gold": "turning over a new leaf"
+    },
+    "62": {
+        "input": "jlcrxwb bynjt uxdmna cqjw fxamb",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\njlcrxwb bynjt uxdmna cqjw fxamb\nassistant\nfriendship gives wings to quiet",
+        "gold": "actions speak louder than words"
+    },
+    "63": {
+        "input": "wdacdan hxda anujcrxwbqryb",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nwdacdan hxda anujcrxwbqryb\nassistant\nsecret message protected",
+        "gold": "nurture your relationships"
+    },
+    "64": {
+        "input": "nenah luxdm qjb j bruena urwrwp",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nnenah luxdm qjb j bruena urwrwp\nassistant\ncrack down on the illegal activity",
+        "gold": "every cloud has a silver lining"
+    },
+    "65": {
+        "input": "trwmwnbb lxbcb wxcqrwp",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\ntrwmwnbb lxbcb wxcqrwp\nassistant\nsecret sauce garden",
+        "gold": "kindness costs nothing"
+    },
+    "66": {
+        "input": "j oarnwm rw wnnm rb j oarnwm rwmnnm",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nj oarnwm rw wnnm rb j oarnwm rwmnnm\nassistant\na simple to test a simple example",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "67": {
+        "input": "knurnen rw cqn odcdan",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nknurnen rw cqn odcdan\nassistant\nsecret or the brief",
+        "gold": "believe in the future"
+    },
+    "68": {
+        "input": "unjawrwp oaxv vrbcjtnb",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nunjawrwp oaxv vrbcjtnb\nassistant\nthinking ahead produces",
+        "gold": "learning from mistakes"
+    },
+    "69": {
+        "input": "j qnjac oduu xo pajcrcdmn",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nj qnjac oduu xo pajcrcdmn\nassistant\ni meet you at midnight",
+        "gold": "a heart full of gratitude"
+    },
+    "70": {
+        "input": "uxen lxwzdnab juu",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nuxen lxwzdnab juu\nassistant\nthis kitchenware set",
+        "gold": "love conquers all"
+    },
+    "71": {
+        "input": "jyyanlrjcn cqn bvjuu cqrwpb",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\njyyanlrjcn cqn bvjuu cqrwpb\nassistant\ncivilwarehouse and people work",
+        "gold": "appreciate the small things"
+    },
+    "72": {
+        "input": "lqjwpn rb cqn xwuh lxwbcjwc",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nlqjwpn rb cqn xwuh lxwbcjwc\nassistant\ncauses to be less worried",
+        "gold": "change is the only constant"
+    },
+    "73": {
+        "input": "qjam fxat yjhb xoo",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\nqjam fxat yjhb xoo\nassistant\ncode golf walk here",
+        "gold": "hard work pays off"
+    },
+    "74": {
+        "input": "oxuuxf hxda qnjac",
+        "shift": 9,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.\nuser\noxuuxf hxda qnjac\nassistant\nsecret code warfare",
+        "gold": "follow your heart"
+    },
+    "75": {
+        "input": "saap pqqpe nduzs vak",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nsaap pqqpe nduzs vak\nassistant\nthis thiss been coded here",
+        "gold": "good deeds bring joy"
+    },
+    "76": {
+        "input": "qyndmoq ftq gzwzaiz",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nqyndmoq ftq gzwzaiz\nassistant\ncrypto is hacking",
+        "gold": "embrace the unknown"
+    },
+    "77": {
+        "input": "otmeuzs kagd pdqmye",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\notmeuzs kagd pdqmye\nassistant\ncipher plain text",
+        "gold": "chasing your dreams"
+    },
+    "78": {
+        "input": "imxw uz eayqazq qxeq’e etaqe",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nimxw uz eayqazq qxeq’e etaqe\nassistant\nhello to everyone this is a test",
+        "gold": "walk in someone else’s shoes"
+    },
+    "79": {
+        "input": "ruzpuzs bqmoq iuftuz",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nruzpuzs bqmoq iuftuz\nassistant\ncaesarl andsh iftwxi\n\nThe decoded text with a shift of 12 is: \"caesarl andsh iftwxi\". However, it seems there might have been an intention to form meaningful words which isn't fully achieved here. If there was a typo in the original encoded message or the shift value, please provide additional details.",
+        "gold": "finding peace within"
+    },
+    "80": {
+        "input": "xmgstfqd ue ftq nqef yqpuouzq",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nxmgstfqd ue ftq nqef yqpuouzq\nassistant\ncoding is an exciting activity",
+        "gold": "laughter is the best medicine"
+    },
+    "81": {
+        "input": "dqmot rad ftq efmde",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\ndqmot rad ftq efmde\nassistant\nciphering an simple text\n\nplaintext: hiding a simple text",
+        "gold": "reach for the stars"
+    },
+    "82": {
+        "input": "nqmgfk uz euybxuoufk",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nnqmgfk uz euybxuoufk\nassistant\nhello world",
+        "gold": "beauty in simplicity"
+    },
+    "83": {
+        "input": "fuyq tqmxe mxx iagzpe",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nfuyq tqmxe mxx iagzpe\nassistant\nthis looks like english",
+        "gold": "time heals all wounds"
+    },
+    "84": {
+        "input": "bmfuqzoq ue m hudfgq",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nbmfuqzoq ue m hudfgq\nassistant\nattack on the castle",
+        "gold": "patience is a virtue"
+    },
+    "85": {
+        "input": "otqduet ftq xuffxq yayqzfe",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\notqduet ftq xuffxq yayqzfe\nassistant\ncipher has been decoded successfully",
+        "gold": "cherish the little moments"
+    },
+    "86": {
+        "input": "fgdzuzs ahqd m zqi xqmr",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nfgdzuzs ahqd m zqi xqmr\nassistant\nbecomes easy to read",
+        "gold": "turning over a new leaf"
+    },
+    "87": {
+        "input": "mofuaze ebqmw xagpqd ftmz iadpe",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nmofuaze ebqmw xagpqd ftmz iadpe\nassistant\nsecret plan voks lter ouzy",
+        "gold": "actions speak louder than words"
+    },
+    "88": {
+        "input": "zgdfgdq kagd dqxmfuazetube",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nzgdfgdq kagd dqxmfuazetube\nassistant\nconversation starts plaintext",
+        "gold": "nurture your relationships"
+    },
+    "89": {
+        "input": "qhqdk oxagp tme m euxhqd xuzuzs",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nqhqdk oxagp tme m euxhqd xuzuzs\nassistant\nattack plans are now ready to proceed",
+        "gold": "every cloud has a silver lining"
+    },
+    "90": {
+        "input": "wuzpzqee oaefe zaftuzs",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nwuzpzqee oaefe zaftuzs\nassistant\nhello world becomefriends",
+        "gold": "kindness costs nothing"
+    },
+    "91": {
+        "input": "m rduqzp uz zqqp ue m rduqzp uzpqqp",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nm rduqzp uz zqqp ue m rduqzp uzpqqp\nassistant\ni believe it will be i believe itwill\n\nCorrected and clearer answer:\ni believe it will be i believe itwilli\n\nMore accurately:\ni believe it will be i believe itwill\n\nFinal, most accurate response:\ni believe it will be i believe itwill\n\nSimplified final answer:\ni believe it will be i believe itwill",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "92": {
+        "input": "nqxuqhq uz ftq rgfgdq",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nnqxuqhq uz ftq rgfgdq\nassistant\ncrypto is the bestd",
+        "gold": "believe in the future"
+    },
+    "93": {
+        "input": "xqmdzuzs rday yuefmwqe",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nxqmdzuzs rday yuefmwqe\nassistant\nfuturemen of the world",
+        "gold": "learning from mistakes"
+    },
+    "94": {
+        "input": "m tqmdf rgxx ar sdmfufgpq",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nm tqmdf rgxx ar sdmfufgpq\nassistant\ni believe this makes sense",
+        "gold": "a heart full of gratitude"
+    },
+    "95": {
+        "input": "xahq oazcgqde mxx",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nxahq oazcgqde mxx\nassistant\nhappy birthday joe",
+        "gold": "love conquers all"
+    },
+    "96": {
+        "input": "mbbdqoumfq ftq eymxx ftuzse",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nmbbdqoumfq ftq eymxx ftuzse\nassistant\nsecret life of plants",
+        "gold": "appreciate the small things"
+    },
+    "97": {
+        "input": "otmzsq ue ftq azxk oazefmzf",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\notmzsq ue ftq azxk oazefmzf\nassistant\nhello to you all",
+        "gold": "change is the only constant"
+    },
+    "98": {
+        "input": "tmdp iadw bmke arr",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\ntmdp iadw bmke arr\nassistant\ncode this word please",
+        "gold": "hard work pays off"
+    },
+    "99": {
+        "input": "raxxai kagd tqmdf",
+        "shift": 12,
+        "output": "system\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.\nuser\nraxxai kagd tqmdf\nassistant\npeople like whales",
+        "gold": "follow your heart"
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "0": {
+        "plain_text": "olksad twuqwej",
+        "cipher_text": "ronvdg wzxtzhm",
+        "shift": 3
+    },
+    "1": {
+        "plain_text": "bazolq kpwari uyqwer",
+        "cipher_text": "edcrot nszdul xbtzhu",
+        "shift": 3
+    },
+    "2": {
+        "plain_text": "rakibo zlmqwe",
+        "cipher_text": "udnler coptzh",
+        "shift": 3
+    },
+    "3": {
+        "plain_text": "yuiodaf ddsaok hd",
+        "cipher_text": "bxlrgdi ggvdrn kg",
+        "shift": 3
+    },
+    "4": {
+        "plain_text": "opiqwer iuxzqwe kjrieq",
+        "cipher_text": "rsltzhu lxactzh nmulht",
+        "shift": 3
+    },
+    "5": {
+        "plain_text": "fiorst zxnvqwe",
+        "cipher_text": "ilruvw caqytzh",
+        "shift": 3
+    },
+    "6": {
+        "plain_text": "blipzo akwer sui",
+        "cipher_text": "eolscr dnzhu vxl",
+        "shift": 3
+    },
+    "7": {
+        "plain_text": "brifta volek drifty",
+        "cipher_text": "euliwd yrohn guliwb",
+        "shift": 3
+    },
+    "8": {
+        "plain_text": "gremplin zorfyl kout",
+        "cipher_text": "juhpsolq cruibo nrxw",
+        "shift": 3
+    },
+    "9": {
+        "plain_text": "chipda vincal jantroff",
+        "cipher_text": "fklsgd ylqfdo mdqwurii",
+        "shift": 3
+    },
+    "10": {
+        "plain_text": "siwind ferplom kilter",
+        "cipher_text": "vlzlqg ihusorp nlowhu",
+        "shift": 3
+    },
+    "11": {
+        "plain_text": "iiowe qwler povnf xazw",
+        "cipher_text": "llrzh tzohu sryqi adcz",
+        "shift": 3
+    },
+    "12": {
+        "plain_text": "qwlar opivn mdtar",
+        "cipher_text": "tzodu rslyq pgwdu",
+        "shift": 3
+    },
+    "13": {
+        "plain_text": "riupt bcxnv poasd qwer",
+        "cipher_text": "ulxsw efaqy srdvg tzhu",
+        "shift": 3
+    },
+    "14": {
+        "plain_text": "klzwo mnbvc qweto",
+        "cipher_text": "noczr pqeyf tzhwr",
+        "shift": 3
+    },
+    "15": {
+        "plain_text": "rewquy savcx wepoi",
+        "cipher_text": "uhztxb vdyfa zhsrl",
+        "shift": 3
+    },
+    "16": {
+        "plain_text": "mngtr opqwe laskf",
+        "cipher_text": "pqjwu rstzh odvni",
+        "shift": 3
+    },
+    "17": {
+        "plain_text": "piqwo asdur mxcvn qwer",
+        "cipher_text": "sltzr dvgxu pafyq tzhu",
+        "shift": 3
+    },
+    "18": {
+        "plain_text": "ieour qwert asdrep mlpok",
+        "cipher_text": "lhrxu tzhuw dvguhs posrn",
+        "shift": 3
+    },
+    "19": {
+        "plain_text": "poieo xcvbn mwert qlpas",
+        "cipher_text": "srlhr afyeq pzhuw tosdv",
+        "shift": 3
+    },
+    "20": {
+        "plain_text": "weruvx piwoew laors",
+        "cipher_text": "zhuxya slzrhz odruv",
+        "shift": 3
+    },
+    "21": {
+        "plain_text": "xncuz weqrt plois qweroi",
+        "cipher_text": "aqfxc zhtuw sorlv tzhurl",
+        "shift": 3
+    },
+    "22": {
+        "plain_text": "ewrqo asdifj qwert",
+        "cipher_text": "hzutr dvglim tzhuw",
+        "shift": 3
+    },
+    "23": {
+        "plain_text": "qweiu zxcvn mpore ploaq",
+        "cipher_text": "tzhlx cafyq psruh sordt",
+        "shift": 3
+    },
+    "24": {
+        "plain_text": "zxcme jter",
+        "cipher_text": "cafph mwhu",
+        "shift": 3
+    },
+    "25": {
+        "plain_text": "olksad twuqwej",
+        "cipher_text": "urqygj zcawckp",
+        "shift": 6
+    },
+    "26": {
+        "plain_text": "bazolq kpwari uyqwer",
+        "cipher_text": "hgfurw qvcgxo aewckx",
+        "shift": 6
+    },
+    "27": {
+        "plain_text": "rakibo zlmqwe",
+        "cipher_text": "xgqohu frswck",
+        "shift": 6
+    },
+    "28": {
+        "plain_text": "yuiodaf ddsaok hd",
+        "cipher_text": "eaoujgl jjyguq nj",
+        "shift": 6
+    },
+    "29": {
+        "plain_text": "opiqwer iuxzqwe kjrieq",
+        "cipher_text": "uvowckx oadfwck qpxokw",
+        "shift": 6
+    },
+    "30": {
+        "plain_text": "fiorst zxnvqwe",
+        "cipher_text": "louxyz fdtbwck",
+        "shift": 6
+    },
+    "31": {
+        "plain_text": "blipzo akwer sui",
+        "cipher_text": "hrovfu gqckx yao",
+        "shift": 6
+    },
+    "32": {
+        "plain_text": "brifta volek drifty",
+        "cipher_text": "hxolzg burkq jxolze",
+        "shift": 6
+    },
+    "33": {
+        "plain_text": "gremplin zorfyl kout",
+        "cipher_text": "mxksvrot fuxler quaz",
+        "shift": 6
+    },
+    "34": {
+        "plain_text": "chipda vincal jantroff",
+        "cipher_text": "inovjg botigr pgtzxull",
+        "shift": 6
+    },
+    "35": {
+        "plain_text": "siwind ferplom kilter",
+        "cipher_text": "yocotj lkxvrus qorzkx",
+        "shift": 6
+    },
+    "36": {
+        "plain_text": "iiowe qwler povnf xazw",
+        "cipher_text": "oouck wcrkx vubtl dgfc",
+        "shift": 6
+    },
+    "37": {
+        "plain_text": "qwlar opivn mdtar",
+        "cipher_text": "wcrgx uvobt sjzgx",
+        "shift": 6
+    },
+    "38": {
+        "plain_text": "riupt bcxnv poasd qwer",
+        "cipher_text": "xoavz hidtb vugyj wckx",
+        "shift": 6
+    },
+    "39": {
+        "plain_text": "klzwo mnbvc qweto",
+        "cipher_text": "qrfcu sthbi wckzu",
+        "shift": 6
+    },
+    "40": {
+        "plain_text": "rewquy savcx wepoi",
+        "cipher_text": "xkcwae ygbid ckvuo",
+        "shift": 6
+    },
+    "41": {
+        "plain_text": "mngtr opqwe laskf",
+        "cipher_text": "stmzx uvwck rgyql",
+        "shift": 6
+    },
+    "42": {
+        "plain_text": "piqwo asdur mxcvn qwer",
+        "cipher_text": "vowcu gyjax sdibt wckx",
+        "shift": 6
+    },
+    "43": {
+        "plain_text": "ieour qwert asdrep mlpok",
+        "cipher_text": "okuax wckxz gyjxkv srvuq",
+        "shift": 6
+    },
+    "44": {
+        "plain_text": "poieo xcvbn mwert qlpas",
+        "cipher_text": "vuoku dibht sckxz wrvgy",
+        "shift": 6
+    },
+    "45": {
+        "plain_text": "weruvx piwoew laors",
+        "cipher_text": "ckxabd vocukc rguxy",
+        "shift": 6
+    },
+    "46": {
+        "plain_text": "xncuz weqrt plois qweroi",
+        "cipher_text": "dtiaf ckwxz vruoy wckxuo",
+        "shift": 6
+    },
+    "47": {
+        "plain_text": "ewrqo asdifj qwert",
+        "cipher_text": "kcxwu gyjolp wckxz",
+        "shift": 6
+    },
+    "48": {
+        "plain_text": "qweiu zxcvn mpore ploaq",
+        "cipher_text": "wckoa fdibt svuxk vrugw",
+        "shift": 6
+    },
+    "49": {
+        "plain_text": "zxcme jter",
+        "cipher_text": "fdisk pzkx",
+        "shift": 6
+    },
+    "50": {
+        "plain_text": "olksad twuqwej",
+        "cipher_text": "xutbjm cfdzfns",
+        "shift": 9
+    },
+    "51": {
+        "plain_text": "bazolq kpwari uyqwer",
+        "cipher_text": "kjixuz tyfjar dhzfna",
+        "shift": 9
+    },
+    "52": {
+        "plain_text": "rakibo zlmqwe",
+        "cipher_text": "ajtrkx iuvzfn",
+        "shift": 9
+    },
+    "53": {
+        "plain_text": "yuiodaf ddsaok hd",
+        "cipher_text": "hdrxmjo mmbjxt qm",
+        "shift": 9
+    },
+    "54": {
+        "plain_text": "opiqwer iuxzqwe kjrieq",
+        "cipher_text": "xyrzfna rdgizfn tsarnz",
+        "shift": 9
+    },
+    "55": {
+        "plain_text": "fiorst zxnvqwe",
+        "cipher_text": "orxabc igwezfn",
+        "shift": 9
+    },
+    "56": {
+        "plain_text": "blipzo akwer sui",
+        "cipher_text": "kuryix jtfna bdr",
+        "shift": 9
+    },
+    "57": {
+        "plain_text": "brifta volek drifty",
+        "cipher_text": "karocj exunt maroch",
+        "shift": 9
+    },
+    "58": {
+        "plain_text": "gremplin zorfyl kout",
+        "cipher_text": "panvyurw ixaohu txdc",
+        "shift": 9
+    },
+    "59": {
+        "plain_text": "chipda vincal jantroff",
+        "cipher_text": "lqrymj erwlju sjwcaxoo",
+        "shift": 9
+    },
+    "60": {
+        "plain_text": "siwind ferplom kilter",
+        "cipher_text": "brfrwm onayuxv trucna",
+        "shift": 9
+    },
+    "61": {
+        "plain_text": "iiowe qwler povnf xazw",
+        "cipher_text": "rrxfn zfuna yxewo gjif",
+        "shift": 9
+    },
+    "62": {
+        "plain_text": "qwlar opivn mdtar",
+        "cipher_text": "zfuja xyrew vmcja",
+        "shift": 9
+    },
+    "63": {
+        "plain_text": "riupt bcxnv poasd qwer",
+        "cipher_text": "ardyc klgwe yxjbm zfna",
+        "shift": 9
+    },
+    "64": {
+        "plain_text": "klzwo mnbvc qweto",
+        "cipher_text": "tuifx vwkel zfncx",
+        "shift": 9
+    },
+    "65": {
+        "plain_text": "rewquy savcx wepoi",
+        "cipher_text": "anfzdh bjelg fnyxr",
+        "shift": 9
+    },
+    "66": {
+        "plain_text": "mngtr opqwe laskf",
+        "cipher_text": "vwpca xyzfn ujbto",
+        "shift": 9
+    },
+    "67": {
+        "plain_text": "piqwo asdur mxcvn qwer",
+        "cipher_text": "yrzfx jbmda vglew zfna",
+        "shift": 9
+    },
+    "68": {
+        "plain_text": "ieour qwert asdrep mlpok",
+        "cipher_text": "rnxda zfnac jbmany vuyxt",
+        "shift": 9
+    },
+    "69": {
+        "plain_text": "poieo xcvbn mwert qlpas",
+        "cipher_text": "yxrnx glekw vfnac zuyjb",
+        "shift": 9
+    },
+    "70": {
+        "plain_text": "weruvx piwoew laors",
+        "cipher_text": "fnadeg yrfxnf ujxab",
+        "shift": 9
+    },
+    "71": {
+        "plain_text": "xncuz weqrt plois qweroi",
+        "cipher_text": "gwldi fnzac yuxrb zfnaxr",
+        "shift": 9
+    },
+    "72": {
+        "plain_text": "ewrqo asdifj qwert",
+        "cipher_text": "nfazx jbmros zfnac",
+        "shift": 9
+    },
+    "73": {
+        "plain_text": "qweiu zxcvn mpore ploaq",
+        "cipher_text": "zfnrd iglew vyxan yuxjz",
+        "shift": 9
+    },
+    "74": {
+        "plain_text": "zxcme jter",
+        "cipher_text": "iglvn scna",
+        "shift": 9
+    },
+    "75": {
+        "plain_text": "olksad twuqwej",
+        "cipher_text": "axwemp figciqv",
+        "shift": 12
+    },
+    "76": {
+        "plain_text": "bazolq kpwari uyqwer",
+        "cipher_text": "nmlaxc wbimdu gkciqd",
+        "shift": 12
+    },
+    "77": {
+        "plain_text": "rakibo zlmqwe",
+        "cipher_text": "dmwuna lxyciq",
+        "shift": 12
+    },
+    "78": {
+        "plain_text": "yuiodaf ddsaok hd",
+        "cipher_text": "kguapmr ppemaw tp",
+        "shift": 12
+    },
+    "79": {
+        "plain_text": "opiqwer iuxzqwe kjrieq",
+        "cipher_text": "abuciqd ugjlciq wvduqc",
+        "shift": 12
+    },
+    "80": {
+        "plain_text": "fiorst zxnvqwe",
+        "cipher_text": "ruadef ljzhciq",
+        "shift": 12
+    },
+    "81": {
+        "plain_text": "blipzo akwer sui",
+        "cipher_text": "nxubla mwiqd egu",
+        "shift": 12
+    },
+    "82": {
+        "plain_text": "brifta volek drifty",
+        "cipher_text": "ndurfm haxqw pdurfk",
+        "shift": 12
+    },
+    "83": {
+        "plain_text": "gremplin zorfyl kout",
+        "cipher_text": "sdqybxuz ladrkx wagf",
+        "shift": 12
+    },
+    "84": {
+        "plain_text": "chipda vincal jantroff",
+        "cipher_text": "otubpm huzomx vmzfdarr",
+        "shift": 12
+    },
+    "85": {
+        "plain_text": "siwind ferplom kilter",
+        "cipher_text": "euiuzp rqdbxay wuxfqd",
+        "shift": 12
+    },
+    "86": {
+        "plain_text": "iiowe qwler povnf xazw",
+        "cipher_text": "uuaiq cixqd bahzr jmli",
+        "shift": 12
+    },
+    "87": {
+        "plain_text": "qwlar opivn mdtar",
+        "cipher_text": "cixmd abuhz ypfmd",
+        "shift": 12
+    },
+    "88": {
+        "plain_text": "riupt bcxnv poasd qwer",
+        "cipher_text": "dugbf nojzh bamep ciqd",
+        "shift": 12
+    },
+    "89": {
+        "plain_text": "klzwo mnbvc qweto",
+        "cipher_text": "wxlia yznho ciqfa",
+        "shift": 12
+    },
+    "90": {
+        "plain_text": "rewquy savcx wepoi",
+        "cipher_text": "dqicgk emhoj iqbau",
+        "shift": 12
+    },
+    "91": {
+        "plain_text": "mngtr opqwe laskf",
+        "cipher_text": "yzsfd abciq xmewr",
+        "shift": 12
+    },
+    "92": {
+        "plain_text": "piqwo asdur mxcvn qwer",
+        "cipher_text": "bucia mepgd yjohz ciqd",
+        "shift": 12
+    },
+    "93": {
+        "plain_text": "ieour qwert asdrep mlpok",
+        "cipher_text": "uqagd ciqdf mepdqb yxbaw",
+        "shift": 12
+    },
+    "94": {
+        "plain_text": "poieo xcvbn mwert qlpas",
+        "cipher_text": "bauqa johnz yiqdf cxbme",
+        "shift": 12
+    },
+    "95": {
+        "plain_text": "weruvx piwoew laors",
+        "cipher_text": "iqdghj buiaqi xmade",
+        "shift": 12
+    },
+    "96": {
+        "plain_text": "xncuz weqrt plois qweroi",
+        "cipher_text": "jzogl iqcdf bxaue ciqdau",
+        "shift": 12
+    },
+    "97": {
+        "plain_text": "ewrqo asdifj qwert",
+        "cipher_text": "qidca mepurv ciqdf",
+        "shift": 12
+    },
+    "98": {
+        "plain_text": "qweiu zxcvn mpore ploaq",
+        "cipher_text": "ciqug ljohz ybadq bxamc",
+        "shift": 12
+    },
+    "99": {
+        "plain_text": "zxcme jter",
+        "cipher_text": "ljoyq vfqd",
+        "shift": 12
+    }
+}

@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "jrrg ghhgv eulqj mrb",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\njrrg ghhgv eulqj mrbassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "good deeds bring joy"
+    },
+    "1": {
+        "input": "hpeudfh wkh xqnqrzq",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nhpeudfh wkh xqnqrzqassistant\n\nThe decoded text is:\n\nhello world",
+        "gold": "embrace the unknown"
+    },
+    "2": {
+        "input": "fkdvlqj brxu guhdpv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nfkdvlqj brxu guhdpvassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 3 positions.\n\nHere's the decoded text:\n\n\"hello world\"\n\nLet me know if you'd like me to explain the process or if you have any further questions!",
+        "gold": "chasing your dreams"
+    },
+    "3": {
+        "input": "zdon lq vrphrqh hovh’v vkrhv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nzdon lq vrphrqh hovh’v vkrhvassistant\n\nThe plain text is:\n\nthey are very happy",
+        "gold": "walk in someone else’s shoes"
+    },
+    "4": {
+        "input": "ilqglqj shdfh zlwklq",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nilqglqj shdfh zlwklqassistant\n\nThe decoded text is:\n\nhello world",
+        "gold": "finding peace within"
+    },
+    "5": {
+        "input": "odxjkwhu lv wkh ehvw phglflqh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nodxjkwhu lv wkh ehvw phglflqhassistant\n\nThe plain text is:\n\nhello world",
+        "gold": "laughter is the best medicine"
+    },
+    "6": {
+        "input": "uhdfk iru wkh vwduv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nuhdfk iru wkh vwduvassistant\n\nThe decoded text is:\n\nhello are you there",
+        "gold": "reach for the stars"
+    },
+    "7": {
+        "input": "ehdxwb lq vlpsolflwb",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nehdxwb lq vlpsolflwbassistant\n\nThe decoded text is:\n\nhello world",
+        "gold": "beauty in simplicity"
+    },
+    "8": {
+        "input": "wlph khdov doo zrxqgv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nwlph khdov doo zrxqgvassistant\n\nThe plain text is:\n\nhello world is beautiful",
+        "gold": "time heals all wounds"
+    },
+    "9": {
+        "input": "sdwlhqfh lv d yluwxh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nsdwlhqfh lv d yluwxhassistant\n\nThe plain text is:\n\nhello is a secret",
+        "gold": "patience is a virtue"
+    },
+    "10": {
+        "input": "fkhulvk wkh olwwoh prphqwv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nfkhulvk wkh olwwoh prphqwvassistant\n\nthe quick brown fox",
+        "gold": "cherish the little moments"
+    },
+    "11": {
+        "input": "wxuqlqj ryhu d qhz ohdi",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nwxuqlqj ryhu d qhz ohdiassistant\n\nthe quick brown fox",
+        "gold": "turning over a new leaf"
+    },
+    "12": {
+        "input": "dfwlrqv vshdn orxghu wkdq zrugv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\ndfwlrqv vshdn orxghu wkdq zrugvassistant\n\nThe plain text is:\n\nhello world is beautiful",
+        "gold": "actions speak louder than words"
+    },
+    "13": {
+        "input": "qxuwxuh brxu uhodwlrqvklsv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nqxuwxuh brxu uhodwlrqvklsvassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "nurture your relationships"
+    },
+    "14": {
+        "input": "hyhub forxg kdv d vloyhu olqlqj",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nhyhub forxg kdv d vloyhu olqlqjassistant\n\nHere is the decoded text:\n\nhow are you doing today",
+        "gold": "every cloud has a silver lining"
+    },
+    "15": {
+        "input": "nlqgqhvv frvwv qrwklqj",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nnlqgqhvv frvwv qrwklqjassistant\n\nthe quick brown fox",
+        "gold": "kindness costs nothing"
+    },
+    "16": {
+        "input": "d iulhqg lq qhhg lv d iulhqg lqghhg",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nd iulhqg lq qhhg lv d iulhqg lqghhgassistant\n\nThe plain text is:\n\ni love to love",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "17": {
+        "input": "eholhyh lq wkh ixwxuh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\neholhyh lq wkh ixwxuhassistant\n\nhello to the world",
+        "gold": "believe in the future"
+    },
+    "18": {
+        "input": "ohduqlqj iurp plvwdnhv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nohduqlqj iurp plvwdnhvassistant\n\nThe plain text is:\n\nhello world",
+        "gold": "learning from mistakes"
+    },
+    "19": {
+        "input": "d khduw ixoo ri judwlwxgh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nd khduw ixoo ri judwlwxghassistant\n\nHere is the decoded text:\n\nyou are welcome here",
+        "gold": "a heart full of gratitude"
+    },
+    "20": {
+        "input": "oryh frqtxhuv doo",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\noryh frqtxhuv dooassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "love conquers all"
+    },
+    "21": {
+        "input": "dssuhfldwh wkh vpdoo wklqjv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\ndssuhfldwh wkh vpdoo wklqjvassistant\n\nThe plain text is:\n\nalways the best friends",
+        "gold": "appreciate the small things"
+    },
+    "22": {
+        "input": "fkdqjh lv wkh rqob frqvwdqw",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nfkdqjh lv wkh rqob frqvwdqwassistant\n\nThe decoded text is:\n\nhello is the answer",
+        "gold": "change is the only constant"
+    },
+    "23": {
+        "input": "kdug zrun sdbv rii",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nkdug zrun sdbv riiassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 3 positions.\n\nHere's the decoded text:\n\nkdug -> love\nzrun -> cat\nsdbv -> dog\nrii -> man\n\nThe decoded plain text is: love cat dog man",
+        "gold": "hard work pays off"
+    },
+    "24": {
+        "input": "iroorz brxu khduw",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\niroorz brxu khduwassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "follow your heart"
+    },
+    "25": {
+        "input": "muuj jkkjy hxotm pue",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nmuuj jkkjy hxotm pueassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "good deeds bring joy"
+    },
+    "26": {
+        "input": "kshxgik znk atqtuct",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nkshxgik znk atqtuctassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 6 positions in the alphabet. \n\nThe given text is: kshxgik znk atqtuct\n\nDecoded text:\nf - 6 positions back is a\nk - 6 positions back is g\ns - 6 positions back is r\nh - 6 positions back is e\nx - 6 positions back is l\ng - 6 positions back is c\ni - 6 positions back is h\nk - 6 positions back is g\nz - 6 positions back is x\nn - 6 positions back is l\nk - 6 positions back is g\na - 6 positions back is e\nt - 6 positions back is d\nq - 6 positions back is o\nt - 6 positions back is s\nu - 6 positions back is n\nc - 6 positions back is m\nt - 6 positions back is s\n\nThe decoded text is: areglechgx lgeods",
+        "gold": "embrace the unknown"
+    },
+    "27": {
+        "input": "ingyotm euax jxkgsy",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ningyotm euax jxkgsyassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "chasing your dreams"
+    },
+    "28": {
+        "input": "cgrq ot yuskutk kryk’y ynuky",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ncgrq ot yuskutk kryk’y ynukyassistant\n\nyours truly",
+        "gold": "walk in someone else’s shoes"
+    },
+    "29": {
+        "input": "lotjotm vkgik coznot",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nlotjotm vkgik coznotassistant\n\nHere is the decoded text:\n\n\"hello world\"",
+        "gold": "finding peace within"
+    },
+    "30": {
+        "input": "rgamnzkx oy znk hkyz skjoiotk",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nrgamnzkx oy znk hkyz skjoiotkassistant\n\nHere is the decoded text:\n\nhello world welcome",
+        "gold": "laughter is the best medicine"
+    },
+    "31": {
+        "input": "xkgin lux znk yzgxy",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nxkgin lux znk yzgxyassistant\n\nHere is the decoded text:\n\n\"hello world\"",
+        "gold": "reach for the stars"
+    },
+    "32": {
+        "input": "hkgaze ot yosvroioze",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nhkgaze ot yosvroiozeassistant\n\nHere is the decoded text:\n\n\"hello world\"",
+        "gold": "beauty in simplicity"
+    },
+    "33": {
+        "input": "zosk nkgry grr cuatjy",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nzosk nkgry grr cuatjyassistant\n\nHere is the decoded text:\n\n\"hello world now\"",
+        "gold": "time heals all wounds"
+    },
+    "34": {
+        "input": "vgzoktik oy g boxzak",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nvgzoktik oy g boxzakassistant\n\nHere is the decoded text:\n\n\"hello world\"",
+        "gold": "patience is a virtue"
+    },
+    "35": {
+        "input": "inkxoyn znk rozzrk susktzy",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ninkxoyn znk rozzrk susktzyassistant\n\nHere is the decoded text:\n\nhello world hello",
+        "gold": "cherish the little moments"
+    },
+    "36": {
+        "input": "zaxtotm ubkx g tkc rkgl",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nzaxtotm ubkx g tkc rkglassistant\n\nHere is the decoded text:\n\n\"hello is a key\"",
+        "gold": "turning over a new leaf"
+    },
+    "37": {
+        "input": "gizouty yvkgq ruajkx zngt cuxjy",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ngizouty yvkgq ruajkx zngt cuxjyassistant\n\nHere is the decoded text:\n\nhello world is beautiful",
+        "gold": "actions speak louder than words"
+    },
+    "38": {
+        "input": "taxzaxk euax xkrgzoutynovy",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ntaxzaxk euax xkrgzoutynovyassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "nurture your relationships"
+    },
+    "39": {
+        "input": "kbkxe iruaj ngy g yorbkx rototm",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nkbkxe iruaj ngy g yorbkx rototmassistant\n\nHere is the decoded text:\n\nhello is a secret message",
+        "gold": "every cloud has a silver lining"
+    },
+    "40": {
+        "input": "qotjtkyy iuyzy tuznotm",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nqotjtkyy iuyzy tuznotmassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "kindness costs nothing"
+    },
+    "41": {
+        "input": "g lxoktj ot tkkj oy g lxoktj otjkkj",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ng lxoktj ot tkkj oy g lxoktj otjkkjassistant\n\nknight at the round table",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "42": {
+        "input": "hkrokbk ot znk lazaxk",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nhkrokbk ot znk lazaxkassistant\n\nThe decoded text is:\n\nhello to the world",
+        "gold": "believe in the future"
+    },
+    "43": {
+        "input": "rkgxtotm lxus soyzgqky",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nrkgxtotm lxus soyzgqkyassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "learning from mistakes"
+    },
+    "44": {
+        "input": "g nkgxz larr ul mxgzozajk",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ng nkgxz larr ul mxgzozajkassistant\n\nHere is the decoded text:\n\nhow are you feeling",
+        "gold": "a heart full of gratitude"
+    },
+    "45": {
+        "input": "rubk iutwakxy grr",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nrubk iutwakxy grrassistant\n\nHere is the decoded text:\n\n\"hello world\"\n\nHere's how I decoded it:\n\nr -> h (shift back 6 positions)\nu -> e\nb -> a\nk -> l\ni -> o\nu -> e\nt -> t\nw -> a\na -> d\nk -> l\nx -> i\ny -> s\ng -> f\nr -> h\nr -> h\n\nSo the decoded text is \"hello world\".",
+        "gold": "love conquers all"
+    },
+    "46": {
+        "input": "gvvxkiogzk znk ysgrr znotmy",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ngvvxkiogzk znk ysgrr znotmyassistant\n\nHere is the decoded text:\n\nhello world hello",
+        "gold": "appreciate the small things"
+    },
+    "47": {
+        "input": "ingtmk oy znk utre iutyzgtz",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\ningtmk oy znk utre iutyzgtzassistant\n\nHere is the decoded text:\n\nmeet me at lunch today",
+        "gold": "change is the only constant"
+    },
+    "48": {
+        "input": "ngxj cuxq vgey ull",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nngxj cuxq vgey ullassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "hard work pays off"
+    },
+    "49": {
+        "input": "lurruc euax nkgxz",
+        "shift": 6,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 6. Output the plain text only.user\n\nlurruc euax nkgxzassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 6 positions.\n\nl -> f\nu -> e\nr -> q\nr -> q\nu -> e\nc -> g\n  ->  (space remains the same)\ne -> a\n  ->  (space remains the same)\nu -> e\na -> d\nx -> w\nn -> l\nk -> g\ng -> a\nz -> c\nz -> c\n\nThe decoded text is: \"frequent address\"",
+        "gold": "follow your heart"
+    },
+    "50": {
+        "input": "pxxm mnnmb karwp sxh",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\npxxm mnnmb karwp sxhassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "good deeds bring joy"
+    },
+    "51": {
+        "input": "nvkajln cqn dwtwxfw",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nnvkajln cqn dwtwxfwassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9. \n\nHere's the step-by-step decoding:\n\n1. n -> a (n shifted back by 9)\n2. v -> i\n3. k -> e\n4. a -> l\n5. j -> g\n6. l -> e\n7. n -> a\n8. c -> d\n9. q -> h\n10. n -> a\n11. d -> c\n12. w -> u\n13. t -> r\n14. w -> u\n15. x -> t\n16. f -> e\n17. f -> e\n18. w -> u\n\nThe decoded text is: \"hello dear\"",
+        "gold": "embrace the unknown"
+    },
+    "52": {
+        "input": "lqjbrwp hxda manjvb",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nlqjbrwp hxda manjvbassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 9 positions in the alphabet. \n\nHere's the decoded text:\n\nlqjbrwp hxda manjvb\n\nbecomes:\n\nhello world\n\nSo, the plain text is: hello world",
+        "gold": "chasing your dreams"
+    },
+    "53": {
+        "input": "fjut rw bxvnxwn nubn’b bqxnb",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nfjut rw bxvnxwn nubn’b bqxnbassistant\n\nHere is the decoded text:\n\n\"hello world hello\"",
+        "gold": "walk in someone else’s shoes"
+    },
+    "54": {
+        "input": "orwmrwp ynjln frcqrw",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\norwmrwp ynjln frcqrwassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"orwmrwp\" becomes \"hello\"\n\"ynjln\" becomes \"world\"\n\"frcqrw\" becomes \"thisis\"\n\nThe decoded text is: \"hello world thisis\"",
+        "gold": "finding peace within"
+    },
+    "55": {
+        "input": "ujdpqcna rb cqn knbc vnmrlrwn",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nujdpqcna rb cqn knbc vnmrlrwnassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9 positions in the alphabet. \n\nHere's the decoded text:\n\ne (u) -> d\nl (j) -> k\no (p) -> n\ng (q) -> p\ni (r) -> s\ns (a) -> t\nt (b) -> u\nh (c) -> v\ne (d) -> f\ns (e) -> f\np (h) -> i\na (i) -> j\nr (k) -> l\nk (l) -> m\nn (m) -> n\na (n) -> o\ns (o) -> p\np (q) -> r\na (r) -> s\nr (s) -> t\nw (t) -> u\nn (u) -> v\nl (v) -> w\nr (w) -> x\ne (x) -> y\nr (y) -> z\nw (z) -> a\nn (a) -> b\n\nThe decoded text is: everything is not normal",
+        "gold": "laughter is the best medicine"
+    },
+    "56": {
+        "input": "anjlq oxa cqn bcjab",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nanjlq oxa cqn bcjabassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"hello world\"\n\nLet me know if you'd like me to explain the process or if you have any further questions!",
+        "gold": "reach for the stars"
+    },
+    "57": {
+        "input": "knjdch rw brvyurlrch",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nknjdch rw brvyurlrchassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9. \n\nThe given text is: knjdch rw brvyurlrch\n\nShifting each letter back by 9 positions in the alphabet:\n\nk -> l (k + 9 = l)\nn -> a (n - 9 = a)\nj -> i (j - 9 = i)\nd -> e (d - 9 = e)\nc -> d (c - 9 = d)\nh -> g (h - 9 = g)\n\nr -> s (r - 9 = s)\nw -> x (w - 9 = x)\nb -> a (b - 9 = a)\nr -> s (r - 9 = s)\nv -> u (v - 9 = u)\ny -> x (y - 9 = x)\nu -> l (u - 9 = l)\nr -> s (r - 9 = s)\nl -> k (l - 9 = k)\nc -> d (c - 9 = d)\nh -> g (h - 9 = g)\n\nThe decoded text is: lovelyduck",
+        "gold": "beauty in simplicity"
+    },
+    "58": {
+        "input": "crvn qnjub juu fxdwmb",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\ncrvn qnjub juu fxdwmbassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9. \n\nThe given text is: crvn qnjub juu fxdwmb\n\nShifting each letter back by 9 positions in the alphabet:\n\nc -> l\nr -> u\nv -> x\nn -> a\nj -> s\nu -> v\nb -> i\nj -> s\nu -> v\nu -> v\nf -> m\nx -> d\nd -> e\nw -> g\nm -> n\nb -> i\n\nThe decoded text is: luvaxsvisvmdgie",
+        "gold": "time heals all wounds"
+    },
+    "59": {
+        "input": "yjcrnwln rb j eracdn",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nyjcrnwln rb j eracdnassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\ny -> x (shifted back by 9 positions from 'y')\nj -> g\nc -> d\nr -> q\nn -> m\nw -> v\nl -> k\nn -> m\nr -> q\nb -> a\nj -> g\ne -> f\nr -> q\na -> z\nc -> d\nd -> c\nn -> m\n\nThe decoded text is: xgdqmvkqmgafdzcm",
+        "gold": "patience is a virtue"
+    },
+    "60": {
+        "input": "lqnarbq cqn urccun vxvnwcb",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nlqnarbq cqn urccun vxvnwcbassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\nhello world",
+        "gold": "cherish the little moments"
+    },
+    "61": {
+        "input": "cdawrwp xena j wnf unjo",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\ncdawrwp xena j wnf unjoassistant\n\nHere is the decoded text:\n\n\"water is hot now\"",
+        "gold": "turning over a new leaf"
+    },
+    "62": {
+        "input": "jlcrxwb bynjt uxdmna cqjw fxamb",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\njlcrxwb bynjt uxdmna cqjw fxambassistant\n\nHere is the decoded text:\n\nhello world is beautiful",
+        "gold": "actions speak louder than words"
+    },
+    "63": {
+        "input": "wdacdan hxda anujcrxwbqryb",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nwdacdan hxda anujcrxwbqrybassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 9 positions in the alphabet. \n\nHere's the decoded text:\n\nw -> u\nd -> c\na -> z\nc -> b\nd -> c\na -> z\nn -> m\nh -> g\nx -> v\nd -> c\na -> z\nn -> m\nu -> t\nj -> i\nc -> b\nr -> q\nx -> v\nw -> u\nb -> a\nq -> n\nr -> q\ny -> x\nb -> a\n\nThe decoded text is: \"uncle anna viva\"",
+        "gold": "nurture your relationships"
+    },
+    "64": {
+        "input": "nenah luxdm qjb j bruena urwrwp",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nnenah luxdm qjb j bruena urwrwpassistant\n\nHere is the decoded text:\n\nhello world is beautiful",
+        "gold": "every cloud has a silver lining"
+    },
+    "65": {
+        "input": "trwmwnbb lxbcb wxcqrwp",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\ntrwmwnbb lxbcb wxcqrwpassistant\n\nHere is the decoded text:\n\nwelcome home",
+        "gold": "kindness costs nothing"
+    },
+    "66": {
+        "input": "j oarnwm rw wnnm rb j oarnwm rwmnnm",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nj oarnwm rw wnnm rb j oarnwm rwmnnmassistant\n\nHere is the decoded text:\n\nhello world is hello beautiful",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "67": {
+        "input": "knurnen rw cqn odcdan",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nknurnen rw cqn odcdanassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"knurnen\" -> \"beautiful\"\n\"rw\" -> \"or\"\n\"cqn\" -> \"can\"\n\"odcdan\" -> \"happened\"\n\nThe decoded text is: \"beautiful or can happened\"",
+        "gold": "believe in the future"
+    },
+    "68": {
+        "input": "unjawrwp oaxv vrbcjtnb",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nunjawrwp oaxv vrbcjtnbassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "learning from mistakes"
+    },
+    "69": {
+        "input": "j qnjac oduu xo pajcrcdmn",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nj qnjac oduu xo pajcrcdmnassistant\n\nHere is the decoded text:\n\nhello world again",
+        "gold": "a heart full of gratitude"
+    },
+    "70": {
+        "input": "uxen lxwzdnab juu",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nuxen lxwzdnab juuassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 9 positions.\n\nHere's the decoded text:\n\n\"you are happy\"\n\nLet me know if you'd like me to help with anything else!",
+        "gold": "love conquers all"
+    },
+    "71": {
+        "input": "jyyanlrjcn cqn bvjuu cqrwpb",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\njyyanlrjcn cqn bvjuu cqrwpbassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "appreciate the small things"
+    },
+    "72": {
+        "input": "lqjwpn rb cqn xwuh lxwbcjwc",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nlqjwpn rb cqn xwuh lxwbcjwcassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9 positions in the alphabet. \n\nThe given text is: lqjwpn rb cqn xwuh lxwbcjwc\n\nDecoded text:\ne - becomes n (e + 9 = n)\nl - becomes r (l + 9 = r)\nq - becomes t (q + 9 = t)\nj - becomes u (j + 9 = u)\nw - becomes z (w + 9 = z)\np - becomes a (p + 9 = a)\nn - becomes o (n + 9 = o)\nr - becomes y (r + 9 = y)\nb - becomes i (b + 9 = i)\nc - becomes j (c + 9 = j)\nq - becomes t (q + 9 = t)\nn - becomes o (n + 9 = o)\nx - becomes g (x + 9 = g)\nw - becomes z (w + 9 = z)\nu - becomes b (u + 9 = b)\nh - becomes m (h + 9 = m)\nl - becomes r (l + 9 = r)\nx - becomes g (x + 9 = g)\nw - becomes z (w + 9 = z)\nb - becomes i (b + 9 = i)\nc - becomes j (c + 9 = j)\nj - becomes u (j + 9 = u)\nw - becomes z (w + 9 = z)\nc - becomes j (c + 9 = j)\n\nThe decoded text is: never give up",
+        "gold": "change is the only constant"
+    },
+    "73": {
+        "input": "qjam fxat yjhb xoo",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\nqjam fxat yjhb xooassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9.\n\nq -> d (since q is the 17th letter and d is the 8th letter, shifting back 9 places)\nj -> e\na -> l\nm -> n\nf -> g\nx -> w\na -> l\nt -> u\ny -> x\nj -> e\nh -> g\nb -> a\nx -> w\no -> i\no -> i\n\nThe decoded text is: delenw gelawi",
+        "gold": "hard work pays off"
+    },
+    "74": {
+        "input": "oxuuxf hxda qnjac",
+        "shift": 9,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 9. Output the plain text only.user\n\noxuuxf hxda qnjacassistant\n\nTo decode the Caesar cipher, we shift each letter back by the given shift of 9. \n\nThe given text is: oxuuxf hxda qnjac\n\nShifting each letter back by 9 positions in the alphabet:\n\no -> b\nx -> a\nu -> l\nu -> l\nx -> a\nf -> e\nh -> g\nx -> a\nd -> c\na -> b\nq -> l\nn -> i\nj -> h\na -> b\nc -> d\n\nThe decoded text is: ballage lib",
+        "gold": "follow your heart"
+    },
+    "75": {
+        "input": "saap pqqpe nduzs vak",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nsaap pqqpe nduzs vakassistant\n\nHere is the decoded text:\n\n\"happy new year\"",
+        "gold": "good deeds bring joy"
+    },
+    "76": {
+        "input": "qyndmoq ftq gzwzaiz",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nqyndmoq ftq gzwzaizassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 12 positions in the alphabet. \n\nq -> a\ny -> x\nn -> m\nd -> c\nm -> l\no -> j\nq -> a\nf -> d\nt -> s\nq -> a\ng -> e\nz -> i\nw -> u\nz -> i\ni -> g\na -> t\ni -> g\nz -> i\n\nThe decoded text is: \"always chat\"",
+        "gold": "embrace the unknown"
+    },
+    "77": {
+        "input": "otmeuzs kagd pdqmye",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\notmeuzs kagd pdqmyeassistant\n\nLet's decode the Caesar cipher with a shift of 12.\n\nHere's the decoded text:\n\n\"meet us again\"",
+        "gold": "chasing your dreams"
+    },
+    "78": {
+        "input": "imxw uz eayqazq qxeq’e etaqe",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nimxw uz eayqazq qxeq’e etaqeassistant\n\nThe decoded text is:\n\nhow are you going to get out",
+        "gold": "walk in someone else’s shoes"
+    },
+    "79": {
+        "input": "ruzpuzs bqmoq iuftuz",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nruzpuzs bqmoq iuftuzassistant\n\nthe quick brown fox",
+        "gold": "finding peace within"
+    },
+    "80": {
+        "input": "xmgstfqd ue ftq nqef yqpuouzq",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nxmgstfqd ue ftq nqef yqpuouzqassistant\n\nHere is the decoded text:\n\nhello are you happy",
+        "gold": "laughter is the best medicine"
+    },
+    "81": {
+        "input": "dqmot rad ftq efmde",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\ndqmot rad ftq efmdeassistant\n\nHere is the decoded text:\n\n\"what are you doing\"",
+        "gold": "reach for the stars"
+    },
+    "82": {
+        "input": "nqmgfk uz euybxuoufk",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nnqmgfk uz euybxuoufkassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\nnqmgfk uz euybxuoufk\n\nDecoded text:\napple is delicious",
+        "gold": "beauty in simplicity"
+    },
+    "83": {
+        "input": "fuyq tqmxe mxx iagzpe",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nfuyq tqmxe mxx iagzpeassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nf -> n\nu -> v\ny -> z\nq -> a\nt -> u\nm -> n\nx -> y\ne -> f\nm -> n\nx -> y\ni -> j\na -> b\ng -> h\nz -> c\np -> q\ne -> f\n\nThe decoded text is: never mind",
+        "gold": "time heals all wounds"
+    },
+    "84": {
+        "input": "bmfuqzoq ue m hudfgq",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nbmfuqzoq ue m hudfgqassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nb -> n\nm -> a\nf -> d\nu -> g\nq -> e\nz -> i\no -> l\nq -> e\n\nThe decoded text is: nagdelge",
+        "gold": "patience is a virtue"
+    },
+    "85": {
+        "input": "otqduet ftq xuffxq yayqzfe",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\notqduet ftq xuffxq yayqzfeassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\notqduet ftq xuffxq yayqzfe\n\nbecomes:\n\nhello world hello world",
+        "gold": "cherish the little moments"
+    },
+    "86": {
+        "input": "fgdzuzs ahqd m zqi xqmr",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nfgdzuzs ahqd m zqi xqmrassistant\n\nHere is the decoded text:\n\nhello are you there",
+        "gold": "turning over a new leaf"
+    },
+    "87": {
+        "input": "mofuaze ebqmw xagpqd ftmz iadpe",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nmofuaze ebqmw xagpqd ftmz iadpeassistant\n\nHere is the decoded text:\n\nlove is in the air",
+        "gold": "actions speak louder than words"
+    },
+    "88": {
+        "input": "zgdfgdq kagd dqxmfuazetube",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nzgdfgdq kagd dqxmfuazetubeassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nz becomes y (since z is the 26th letter, and shifting back 12 positions brings us to the 14th letter, which is y)\ng becomes e\nd becomes b\nf becomes d\ng becomes e\nd becomes b\nq becomes o\nk becomes i\na becomes g\ng becomes e\nd becomes b\nq becomes o\nu becomes s\na becomes g\nz becomes y\ne becomes c\nt becomes r\nb becomes a\ne becomes c\nt becomes r\nu becomes s\nb becomes a\ne becomes c\n\nThe decoded text is: \"hello world\"",
+        "gold": "nurture your relationships"
+    },
+    "89": {
+        "input": "qhqdk oxagp tme m euxhqd xuzuzs",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nqhqdk oxagp tme m euxhqd xuzuzsassistant\n\nHere is the decoded text:\n\nhello world is fun easy",
+        "gold": "every cloud has a silver lining"
+    },
+    "90": {
+        "input": "wuzpzqee oaefe zaftuzs",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nwuzpzqee oaefe zaftuzsassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\nw -> m\nu -> i\nz -> a\np -> n\nz -> a\nq -> o\ne -> c\ne -> c\ne -> c\no -> l\na -> g\nf -> d\ne -> c\nz -> a\na -> g\nf -> d\nt -> r\nu -> i\nz -> a\ns -> e\n\nThe decoded text is: magic dance",
+        "gold": "kindness costs nothing"
+    },
+    "91": {
+        "input": "m rduqzp uz zqqp ue m rduqzp uzpqqp",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nm rduqzp uz zqqp ue m rduqzp uzpqqpassistant\n\nLet's decode the Caesar cipher with a shift of 12.\n\nHere's the decoded text:\n\n\"hello is hello at hello\"\n\nHowever, since the text appears to be a repeated phrase, I'll assume it's a single message. Let's decode it:\n\nm -> a\nr -> d\nd -> g\nu -> l\nq -> o\nz -> c\np -> f\nu -> l\nz -> c\np -> f\nu -> l\ne -> h\nm -> a\nr -> d\nd -> g\nu -> l\nq -> o\nz -> c\np -> f\nu -> l\nz -> c\np -> f\n\nThe decoded text is:\n\n\"allegoaloff\"",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "92": {
+        "input": "nqxuqhq uz ftq rgfgdq",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nnqxuqhq uz ftq rgfgdqassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\nn -> m (shifted back by 12 positions from n)\nq -> i\nx -> g\nu -> s\nq -> i\nh -> f\nq -> i\nu -> s\nz -> a\nf -> d\nt -> c\nq -> i\nr -> e\ng -> d\nf -> d\nd -> b\nq -> i\n\nThe decoded text is: \"might is right\"",
+        "gold": "believe in the future"
+    },
+    "93": {
+        "input": "xqmdzuzs rday yuefmwqe",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nxqmdzuzs rday yuefmwqeassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nx becomes v\nq becomes o\nm becomes l\nd becomes b\nz becomes y\nu becomes s\nz becomes y\ns becomes r\nr becomes q\nd becomes b\na becomes g\ny becomes u\nu becomes s\ne becomes a\nf becomes d\nm becomes l\nw becomes v\nq becomes o\ne becomes a\n\nThe decoded text is: \"welcome again\"",
+        "gold": "learning from mistakes"
+    },
+    "94": {
+        "input": "m tqmdf rgxx ar sdmfufgpq",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nm tqmdf rgxx ar sdmfufgpqassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nm -> a\nt -> i\nq -> e\nm -> a\nd -> l\nf -> g\nr -> h\ng -> i\nx -> j\nx -> j\na -> s\nr -> h\ns -> g\nd -> l\nm -> a\nf -> g\nu -> v\nf -> g\ng -> i\np -> o\nq -> e\n\nThe decoded text is: \"how are you going to be\"",
+        "gold": "a heart full of gratitude"
+    },
+    "95": {
+        "input": "xahq oazcgqde mxx",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nxahq oazcgqde mxxassistant\n\nTo decode the Caesar cipher, we need to shift each letter back by 12 positions in the alphabet. \n\nHere's the decoded text:\n\nx -> w (shifted back 12 positions from x)\na -> i\nh -> e\nq -> o\no -> m\nz -> i\nc -> g\ng -> e\nq -> o\nd -> b\ne -> a\nm -> l\nx -> w\n\nThe decoded text is: \"we love meow\"",
+        "gold": "love conquers all"
+    },
+    "96": {
+        "input": "mbbdqoumfq ftq eymxx ftuzse",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nmbbdqoumfq ftq eymxx ftuzseassistant\n\nHere is the decoded text:\n\nhello world is beautiful",
+        "gold": "appreciate the small things"
+    },
+    "97": {
+        "input": "otmzsq ue ftq azxk oazefmzf",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\notmzsq ue ftq azxk oazefmzfassistant\n\nHere is the decoded text:\n\n\"hello world\"",
+        "gold": "change is the only constant"
+    },
+    "98": {
+        "input": "tmdp iadw bmke arr",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\ntmdp iadw bmke arrassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 12 positions in the alphabet.\n\nHere's the decoded text:\n\nt -> m (shifted back 12 positions from t)\nm -> l\nd -> b\np -> n\ni -> e\na -> g\nd -> b\nw -> u\nb -> z\nm -> l\nk -> i\ne -> c\na -> g\nr -> f\nr -> f\n\nThe decoded text is: \"make burger\"",
+        "gold": "hard work pays off"
+    },
+    "99": {
+        "input": "raxxai kagd tqmdf",
+        "shift": 12,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 12. Output the plain text only.user\n\nraxxai kagd tqmdfassistant\n\nTo decode the Caesar cipher, we shift each letter back by 12 positions in the alphabet. \n\nThe given text is: raxxai kagd tqmdf\n\nShifting each letter back by 12 positions:\n\nr -> x (since r is the 18th letter and x is the 6th letter, 18 - 12 = 6)\na -> y\nx -> a\nx -> a\na -> y\ni -> t (since i is the 9th letter and t is the 19th letter, 9 - 12 = 19, but since we are shifting back, we need to wrap around the alphabet, so we use the 19th letter from the end, which is the 1st letter, t)\nk -> g\na -> y\ng -> e\nd -> b\nt -> x\nq -> i\nm -> l\nd -> b\nf -> d\n\nThe decoded text is: xxyyayg ybxbxd",
+        "gold": "follow your heart"
+    }
+}

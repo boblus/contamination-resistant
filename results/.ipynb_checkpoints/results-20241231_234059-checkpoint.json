@@ -1,0 +1,134 @@
+{
+    "0": {
+        "input": "jrrg ghhgv eulqj mrb",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\njrrg ghhgv eulqj mrbassistant\n\nHere is the decoded text:\n\nhello world now",
+        "gold": "good deeds bring joy"
+    },
+    "1": {
+        "input": "hpeudfh wkh xqnqrzq",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nhpeudfh wkh xqnqrzqassistant\n\nThe decoded text is:\n\nhello world",
+        "gold": "embrace the unknown"
+    },
+    "2": {
+        "input": "fkdvlqj brxu guhdpv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nfkdvlqj brxu guhdpvassistant\n\nTo decode the Caesar cipher, I'll shift each letter back by 3 positions.\n\nHere's the decoded text:\n\n\"hello world\"\n\nLet me know if you'd like me to explain the process or if you have any further questions!",
+        "gold": "chasing your dreams"
+    },
+    "3": {
+        "input": "zdon lq vrphrqh hovh’v vkrhv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nzdon lq vrphrqh hovh’v vkrhvassistant\n\nThe plain text is:\n\nthey are very happy",
+        "gold": "walk in someone else’s shoes"
+    },
+    "4": {
+        "input": "ilqglqj shdfh zlwklq",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nilqglqj shdfh zlwklqassistant\n\nThe decoded text is:\n\nhello world",
+        "gold": "finding peace within"
+    },
+    "5": {
+        "input": "odxjkwhu lv wkh ehvw phglflqh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nodxjkwhu lv wkh ehvw phglflqhassistant\n\nThe plain text is:\n\nhello world",
+        "gold": "laughter is the best medicine"
+    },
+    "6": {
+        "input": "uhdfk iru wkh vwduv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nuhdfk iru wkh vwduvassistant\n\nThe decoded text is:\n\nhello are you there",
+        "gold": "reach for the stars"
+    },
+    "7": {
+        "input": "ehdxwb lq vlpsolflwb",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nehdxwb lq vlpsolflwbassistant\n\nThe decoded text is:\n\nhello world",
+        "gold": "beauty in simplicity"
+    },
+    "8": {
+        "input": "wlph khdov doo zrxqgv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nwlph khdov doo zrxqgvassistant\n\nThe plain text is:\n\nhello world is beautiful",
+        "gold": "time heals all wounds"
+    },
+    "9": {
+        "input": "sdwlhqfh lv d yluwxh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nsdwlhqfh lv d yluwxhassistant\n\nThe plain text is:\n\nhello is a secret",
+        "gold": "patience is a virtue"
+    },
+    "10": {
+        "input": "fkhulvk wkh olwwoh prphqwv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nfkhulvk wkh olwwoh prphqwvassistant\n\nthe quick brown fox",
+        "gold": "cherish the little moments"
+    },
+    "11": {
+        "input": "wxuqlqj ryhu d qhz ohdi",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nwxuqlqj ryhu d qhz ohdiassistant\n\nthe quick brown fox",
+        "gold": "turning over a new leaf"
+    },
+    "12": {
+        "input": "dfwlrqv vshdn orxghu wkdq zrugv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\ndfwlrqv vshdn orxghu wkdq zrugvassistant\n\nThe plain text is:\n\nhello world is beautiful",
+        "gold": "actions speak louder than words"
+    },
+    "13": {
+        "input": "qxuwxuh brxu uhodwlrqvklsv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nqxuwxuh brxu uhodwlrqvklsvassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "nurture your relationships"
+    },
+    "14": {
+        "input": "hyhub forxg kdv d vloyhu olqlqj",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nhyhub forxg kdv d vloyhu olqlqjassistant\n\nHere is the decoded text:\n\nhow are you doing today",
+        "gold": "every cloud has a silver lining"
+    },
+    "15": {
+        "input": "nlqgqhvv frvwv qrwklqj",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nnlqgqhvv frvwv qrwklqjassistant\n\nthe quick brown fox",
+        "gold": "kindness costs nothing"
+    },
+    "16": {
+        "input": "d iulhqg lq qhhg lv d iulhqg lqghhg",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nd iulhqg lq qhhg lv d iulhqg lqghhgassistant\n\nThe plain text is:\n\ni love to love",
+        "gold": "a friend in need is a friend indeed"
+    },
+    "17": {
+        "input": "eholhyh lq wkh ixwxuh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\neholhyh lq wkh ixwxuhassistant\n\nhello to the world",
+        "gold": "believe in the future"
+    },
+    "18": {
+        "input": "ohduqlqj iurp plvwdnhv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nohduqlqj iurp plvwdnhvassistant\n\nThe plain text is:\n\nhello world",
+        "gold": "learning from mistakes"
+    },
+    "19": {
+        "input": "d khduw ixoo ri judwlwxgh",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\nd khduw ixoo ri judwlwxghassistant\n\nHere is the decoded text:\n\nyou are welcome here",
+        "gold": "a heart full of gratitude"
+    },
+    "20": {
+        "input": "oryh frqtxhuv doo",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\noryh frqtxhuv dooassistant\n\nHere is the decoded text:\n\nhello world",
+        "gold": "love conquers all"
+    },
+    "21": {
+        "input": "dssuhfldwh wkh vpdoo wklqjv",
+        "shift": 3,
+        "output": "system\n\nDecode the following Caesar cipher text. The shift is 3. Output the plain text only.user\n\ndssuhfldwh wkh vpdoo wklqjvassistant\n\nThe plain text is:\n\nalways the best friends",
+        "gold": "appreciate the small things"
+    }
+}

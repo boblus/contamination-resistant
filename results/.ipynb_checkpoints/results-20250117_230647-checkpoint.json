@@ -1,0 +1,452 @@
+{
+    "25": {
+        "input": "good deeds bring joy",
+        "shift": 6,
+        "output": "muuj jkkjy hxotm puze",
+        "gold": "muuj jkkjy hxotm pue"
+    },
+    "26": {
+        "input": "embrace the unknown",
+        "shift": 6,
+        "output": "kshxgik znk atquct",
+        "gold": "kshxgik znk atqtuct"
+    },
+    "27": {
+        "input": "chasing your dreams",
+        "shift": 6,
+        "output": "ingyotm euxa jxkgyi",
+        "gold": "ingyotm euax jxkgsy"
+    },
+    "28": {
+        "input": "walk in someone else’s shoes",
+        "shift": 6,
+        "output": "cgqr ot yusktuot krky’y ynuuky",
+        "gold": "cgrq ot yuskutk kryk’y ynuky"
+    },
+    "29": {
+        "input": "finding peace within",
+        "shift": 6,
+        "output": "notjotm vkgi kzojot",
+        "gold": "lotjotm vkgik coznot"
+    },
+    "30": {
+        "input": "laughter is the best medicine",
+        "shift": 6,
+        "output": "rgamznkx oy znk hkzy skijooutk",
+        "gold": "rgamnzkx oy znk hkyz skjoiotk"
+    },
+    "31": {
+        "input": "reach for the stars",
+        "shift": 6,
+        "output": "xkgin lux znk yzgxuy",
+        "gold": "xkgin lux znk yzgxy"
+    },
+    "32": {
+        "input": "beauty in simplicity",
+        "shift": 6,
+        "output": "hkgazye ot yosvroioze",
+        "gold": "hkgaze ot yosvroioze"
+    },
+    "33": {
+        "input": "time heals all wounds",
+        "shift": 6,
+        "output": "zosk nkgry grr cuatjy",
+        "gold": "zosk nkgry grr cuatjy"
+    },
+    "34": {
+        "input": "patience is a virtue",
+        "shift": 6,
+        "output": "vgzotkji oy g xozzay",
+        "gold": "vgzoktik oy g boxzak"
+    },
+    "35": {
+        "input": "cherish the little moments",
+        "shift": 6,
+        "output": "inokoy znk rozzrk susktzy",
+        "gold": "inkxoyn znk rozzrk susktzy"
+    },
+    "36": {
+        "input": "turning over a new leaf",
+        "shift": 6,
+        "output": "zaxotm ulbkt g tkc rkfl",
+        "gold": "zaxtotm ubkx g tkc rkgl"
+    },
+    "37": {
+        "input": "actions speak louder than words",
+        "shift": 6,
+        "output": "gikzyut yvkqra rkaujx znkt cuxtjy",
+        "gold": "gizouty yvkgq ruajkx zngt cuxjy"
+    },
+    "38": {
+        "input": "nurture your relationships",
+        "shift": 6,
+        "output": "taxyzkx euxa xkrgpxozotmky",
+        "gold": "taxzaxk euax xkrgzoutynovy"
+    },
+    "39": {
+        "input": "every cloud has a silver lining",
+        "shift": 6,
+        "output": "kbkx e ruyaj n gy yro borktk rotnot",
+        "gold": "kbkxe iruaj ngy g yorbkx rototm"
+    },
+    "40": {
+        "input": "kindness costs nothing",
+        "shift": 6,
+        "output": "qotjtkzz iuyzy tuznmto",
+        "gold": "qotjtkyy iuyzy tuznotm"
+    },
+    "41": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 6,
+        "output": "g lxotjr ot tkkj oy g lxotjr otjkkj",
+        "gold": "g lxoktj ot tkkj oy g lxoktj otjkkj"
+    },
+    "42": {
+        "input": "believe in the future",
+        "shift": 6,
+        "output": "hkrorkb ot znk lazaxk",
+        "gold": "hkrokbk ot znk lazaxk"
+    },
+    "43": {
+        "input": "learning from mistakes",
+        "shift": 6,
+        "output": "rkgtotm luvs skyzogmyk",
+        "gold": "rkgxtotm lxus soyzgqky"
+    },
+    "44": {
+        "input": "a heart full of gratitude",
+        "shift": 6,
+        "output": "g nkxzx larr ul mxgzzozkak",
+        "gold": "g nkgxz larr ul mxgzozajk"
+    },
+    "45": {
+        "input": "love conquers all",
+        "shift": 6,
+        "output": "ruba iutawkyx grr",
+        "gold": "rubk iutwakxy grr"
+    },
+    "46": {
+        "input": "appreciate the small things",
+        "shift": 6,
+        "output": "gvvxokogzkz znk ysgrr znotmy",
+        "gold": "gvvxkiogzk znk ysgrr znotmy"
+    },
+    "47": {
+        "input": "change is the only constant",
+        "shift": 6,
+        "output": "mngtomy oy znk utdr iutyzotz",
+        "gold": "ingtmk oy znk utre iutyzgtz"
+    },
+    "48": {
+        "input": "hard work pays off",
+        "shift": 6,
+        "output": "ngxjt xuqx vgeu ull",
+        "gold": "ngxj cuxq vgey ull"
+    },
+    "49": {
+        "input": "follow your heart",
+        "shift": 6,
+        "output": "lurru cuxa nkgxz",
+        "gold": "lurruc euax nkgxz"
+    },
+    "50": {
+        "input": "good deeds bring joy",
+        "shift": 9,
+        "output": "pxxw mnmmw kqvrp sxh",
+        "gold": "pxxm mnnmb karwp sxh"
+    },
+    "51": {
+        "input": "embrace the unknown",
+        "shift": 9,
+        "output": "nuvajnl cqn dxwxfvfw",
+        "gold": "nvkajln cqn dwtwxfw"
+    },
+    "52": {
+        "input": "chasing your dreams",
+        "shift": 9,
+        "output": "lqjbvrwp hxad mjanvb",
+        "gold": "lqjbrwp hxda manjvb"
+    },
+    "53": {
+        "input": "walk in someone else’s shoes",
+        "shift": 9,
+        "output": "fjtu rw xvxwnwxn nuxl’b rqxnb",
+        "gold": "fjut rw bxvnxwn nubn’b bqxnb"
+    },
+    "54": {
+        "input": "finding peace within",
+        "shift": 9,
+        "output": "orwmqv pnjln frcrwq",
+        "gold": "orwmrwp ynjln frcqrw"
+    },
+    "55": {
+        "input": "laughter is the best medicine",
+        "shift": 9,
+        "output": "ujdncqna rb cqn kndc vmmlrwrn",
+        "gold": "ujdpqcna rb cqn knbc vnmrlrwn"
+    },
+    "56": {
+        "input": "reach for the stars",
+        "shift": 9,
+        "output": "anjlm oxa cqn bczab",
+        "gold": "anjlq oxa cqn bcjab"
+    },
+    "57": {
+        "input": "beauty in simplicity",
+        "shift": 9,
+        "output": "knjdcx rw brvyurlrch",
+        "gold": "knjdch rw brvyurlrch"
+    },
+    "58": {
+        "input": "time heals all wounds",
+        "shift": 9,
+        "output": "crvn qnjub juu fxdwmb",
+        "gold": "crvn qnjub juu fxdwmb"
+    },
+    "59": {
+        "input": "patience is a virtue",
+        "shift": 9,
+        "output": "yjcbrmnl rb j ebacdn",
+        "gold": "yjcrnwln rb j eracdn"
+    },
+    "60": {
+        "input": "cherish the little moments",
+        "shift": 9,
+        "output": "lqnarb cqn urccun vxvnwcb",
+        "gold": "lqnarbq cqn urccun vxvnwcb"
+    },
+    "61": {
+        "input": "turning over a new leaf",
+        "shift": 9,
+        "output": "cxdwrwp xena j wnf ujjo",
+        "gold": "cdawrwp xena j wnf unjo"
+    },
+    "62": {
+        "input": "actions speak louder than words",
+        "shift": 9,
+        "output": "jlbrwxb bynjt uxcnmna cqjw fxwmb",
+        "gold": "jlcrxwb bynjt uxdmna cqjw fxamb"
+    },
+    "63": {
+        "input": "nurture your relationships",
+        "shift": 9,
+        "output": "wdacdjan hxad anukjcrwbcrb",
+        "gold": "wdacdan hxda anujcrxwbqryb"
+    },
+    "64": {
+        "input": "every cloud has a silver lining",
+        "shift": 9,
+        "output": "nexah ludam qjb j bru",
+        "gold": "nenah luxdm qjb j bruena urwrwp"
+    },
+    "65": {
+        "input": "kindness costs nothing",
+        "shift": 9,
+        "output": "trwmwnbb lxbcb wxcqrwp",
+        "gold": "trwmwnbb lxbcb wxcqrwp"
+    },
+    "66": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 9,
+        "output": "j qarwmw rw wnnm rb j qarwmw wwmnmm",
+        "gold": "j oarnwm rw wnnm rb j oarnwm rwmnnm"
+    },
+    "67": {
+        "input": "believe in the future",
+        "shift": 9,
+        "output": "knulnex rw cqn odcdan",
+        "gold": "knurnen rw cqn odcdan"
+    },
+    "68": {
+        "input": "learning from mistakes",
+        "shift": 9,
+        "output": "unjanwz paxv blcrjnb",
+        "gold": "unjawrwp oaxv vrbcjtnb"
+    },
+    "69": {
+        "input": "a heart full of gratitude",
+        "shift": 9,
+        "output": "j qnjac oduu xo qajcrcnmn",
+        "gold": "j qnjac oduu xo pajcrcdmn"
+    },
+    "70": {
+        "input": "love conquers all",
+        "shift": 9,
+        "output": "uxen vwxzndak juu",
+        "gold": "uxen lxwzdnab juu"
+    },
+    "71": {
+        "input": "appreciate the small things",
+        "shift": 9,
+        "output": "jyyojrmljc cqn bvdkuu crqwpb",
+        "gold": "jyyanlrjcn cqn bvjuu cqrwpb"
+    },
+    "72": {
+        "input": "change is the only constant",
+        "shift": 9,
+        "output": "jlqpjr rb cqn xwgb lxbcrwjc",
+        "gold": "lqjwpn rb cqn xwuh lxwbcjwc"
+    },
+    "73": {
+        "input": "hard work pays off",
+        "shift": 9,
+        "output": "qjaml fxat yjhb xoo",
+        "gold": "qjam fxat yjhb xoo"
+    },
+    "74": {
+        "input": "follow your heart",
+        "shift": 9,
+        "output": "oxuunx xdna qjanb",
+        "gold": "oxuuxf hxda qnjac"
+    },
+    "75": {
+        "input": "good deeds bring joy",
+        "shift": 12,
+        "output": "saaq pqqqpe ndaut vak",
+        "gold": "saap pqqpe nduzs vak"
+    },
+    "76": {
+        "input": "embrace the unknown",
+        "shift": 12,
+        "output": "qynnomq ftq wzxcayz",
+        "gold": "qyndmoq ftq gzwzaiz"
+    },
+    "77": {
+        "input": "chasing your dreams",
+        "shift": 12,
+        "output": "otemuzs kagd pfsqme",
+        "gold": "otmeuzs kagd pdqmye"
+    },
+    "78": {
+        "input": "walk in someone else’s shoes",
+        "shift": 12,
+        "output": "iomw uz eayqazq qxqe’e uzaqe",
+        "gold": "imxw uz eayqazq qxeq’e etaqe"
+    },
+    "79": {
+        "input": "finding peace within",
+        "shift": 12,
+        "output": "ruzptyq bqomq iuftuz",
+        "gold": "ruzpuzs bqmoq iuftuz"
+    },
+    "80": {
+        "input": "laughter is the best medicine",
+        "shift": 12,
+        "output": "xcmuzftq ue ftq nqef yqpuquzq",
+        "gold": "xmgstfqd ue ftq nqef yqpuouzq"
+    },
+    "81": {
+        "input": "reach for the stars",
+        "shift": 12,
+        "output": "dmopq rqd ftq efmde",
+        "gold": "dqmot rad ftq efmde"
+    },
+    "82": {
+        "input": "beauty in simplicity",
+        "shift": 12,
+        "output": "nqmgfk uz euybxuoufk",
+        "gold": "nqmgfk uz euybxuoufk"
+    },
+    "83": {
+        "input": "time heals all wounds",
+        "shift": 12,
+        "output": "fuyq tqmxe mxx iagzpe",
+        "gold": "fuyq tqmxe mxx iagzpe"
+    },
+    "84": {
+        "input": "patience is a virtue",
+        "shift": 12,
+        "output": "bmfuqzqg ue m dxfgfmq",
+        "gold": "bmfuqzoq ue m hudfgq"
+    },
+    "85": {
+        "input": "cherish the little moments",
+        "shift": 12,
+        "output": "otqetua ftq xuffxq yayqzfe",
+        "gold": "otqduet ftq xuffxq yayqzfe"
+    },
+    "86": {
+        "input": "turning over a new leaf",
+        "shift": 12,
+        "output": "fizuzs ahrq m zqi xqmr",
+        "gold": "fgdzuzs ahqd m zqi xqmr"
+    },
+    "87": {
+        "input": "actions speak louder than words",
+        "shift": 12,
+        "output": "mopuezf ebswm xagqzp ftqz iadpe",
+        "gold": "mofuaze ebqmw xagpqd ftmz iadpe"
+    },
+    "88": {
+        "input": "nurture your relationships",
+        "shift": 12,
+        "output": "zghfgfm kagd dqxqfuzefuzk",
+        "gold": "zgdfgdq kagd dqxmfuazetube"
+    },
+    "89": {
+        "input": "every cloud has a silver lining",
+        "shift": 12,
+        "output": "qhqd kxagp tmf m euhqrd xuzsut",
+        "gold": "qhqdk oxagp tme m euxhqd xuzuzs"
+    },
+    "90": {
+        "input": "kindness costs nothing",
+        "shift": 12,
+        "output": "wuzpzqee oezfe zafuzs",
+        "gold": "wuzpzqee oaefe zaftuzs"
+    },
+    "91": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 12,
+        "output": "m sbuqzp uz zqqp ue m sbuqzp uzqqqp",
+        "gold": "m rduqzp uz zqqp ue m rduqzp uzpqqp"
+    },
+    "92": {
+        "input": "believe in the future",
+        "shift": 12,
+        "output": "nqxuqhq uz ftq rgfgdq",
+        "gold": "nqxuqhq uz ftq rgfgdq"
+    },
+    "93": {
+        "input": "learning from mistakes",
+        "shift": 12,
+        "output": "xqmduzs rajy yuefmwqmz",
+        "gold": "xqmdzuzs rday yuefmwqe"
+    },
+    "94": {
+        "input": "a heart full of gratitude",
+        "shift": 12,
+        "output": "m tmefd rhxx ar sdmfefvfq",
+        "gold": "m tqmdf rgxx ar sdmfufgpq"
+    },
+    "95": {
+        "input": "love conquers all",
+        "shift": 12,
+        "output": "xahq oazgwhqe mxx",
+        "gold": "xahq oazcgqde mxx"
+    },
+    "96": {
+        "input": "appreciate the small things",
+        "shift": 12,
+        "output": "mbbdusomfqf ftq eymxx ftuzsi",
+        "gold": "mbbdqoumfq ftq eymxx ftuzse"
+    },
+    "97": {
+        "input": "change is the only constant",
+        "shift": 12,
+        "output": "otmzsqi ue ftq azzq oazefmzf",
+        "gold": "otmzsq ue ftq azxk oazefmzf"
+    },
+    "98": {
+        "input": "hard work pays off",
+        "shift": 12,
+        "output": "tmfp iadw bmke arrr",
+        "gold": "tmdp iadw bmke arr"
+    },
+    "99": {
+        "input": "follow your heart",
+        "shift": 12,
+        "output": "raxxay kagd tqmdf",
+        "gold": "raxxai kagd tqmdf"
+    }
+}

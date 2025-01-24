@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "good deeds bring joy",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\ngood deeds bring joyassistant\n\nTo encode the text \"good deeds bring joy\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's how it works:\n\n- g becomes j\n- o becomes r\n- o becomes r\n- d becomes g\n- d becomes g\n- e becomes h\n- e becomes h\n- d becomes g\n- s becomes v\n- b becomes e\n- r becomes u\n- i becomes l\n- n becomes q\n- g becomes j\n- j becomes m\n- o becomes r\n- y becomes b\n\nSo, \"good deeds bring joy\" encoded with a shift of 3 becomes \"jrrgghhgv eulqjmr b\".",
+        "gold": "jrrg ghhgv eulqj mrb"
+    },
+    "1": {
+        "input": "embrace the unknown",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nembrace the unknownassistant\n\nTo encode the text \"embrace the unknown\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's the step-by-step process:\n\n1. e -> h\n2. m -> o\n3. b -> e\n4. r -> u\n5. a -> d\n6. c -> f\n7. e -> h\n8.  -> (space remains unchanged)\n9. t -> w\n10. h -> k\n11. e -> h\n12.  -> (space remains unchanged)\n13. u -> w\n14. n -> q\n15. k -> n\n16. n -> q\n17. o -> r\n18. w -> z\n19. n -> q\n\nSo, the encoded text is: \"hoefud whkqnrzq\"",
+        "gold": "hpeudfh wkh xqnqrzq"
+    },
+    "2": {
+        "input": "chasing your dreams",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nchasing your dreamsassistant\n\nTo encode the text \"chasing your dreams\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's how it works:\n\n- c becomes f\n- h becomes k\n- a becomes d\n- s becomes v\n- i becomes l\n- n becomes q\n- g becomes j\n- (space remains a space)\n- y becomes b\n- o becomes r\n- u becomes w\n- r becomes u\n- (space remains a space)\n- d becomes g\n- r becomes u\n- e becomes h\n- a becomes d\n- m becomes o\n- s becomes v\n\nSo, \"chasing your dreams\" encoded with a shift of 3 becomes \"fdvklqj brwuhgduov\".",
+        "gold": "fkdvlqj brxu guhdpv"
+    },
+    "3": {
+        "input": "walk in someone else’s shoes",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nwalk in someone else’s shoesassistant\n\nTo encode the text to a Caesar cipher with a shift of 3, I'll replace each letter with the letter 3 positions ahead of it in the alphabet. Here's the encoded text:\n\nzdnk ln vrphrqv’s vkrhv\n\nHere's the breakdown:\n\n* w -> z (shift 3 positions ahead)\n* a -> d\n* l -> o\n* k -> n\n* i -> l\n* n -> q\n* s -> v\n* o -> r\n* m -> p\n* e -> h\n* o -> r\n* n -> q\n* e -> h\n*'->'(no shift for punctuation)\n* s -> v\n* h -> k\n* o -> r\n* e -> h\n* s -> v",
+        "gold": "zdon lq vrphrqh hovh’v vkrhv"
+    },
+    "4": {
+        "input": "finding peace within",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nfinding peace withinassistant\n\nTo encode the text \"finding peace within\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's how it works:\n\n- f becomes i\n- i becomes l\n- n becomes q\n- d becomes g\n- i becomes l\n- n becomes q\n- g becomes j\n- p becomes s\n- e becomes h\n- a becomes d\n- c becomes f\n- e becomes h\n- w becomes z\n- i becomes l\n- t becomes w\n- h becomes k\n- i becomes l\n- n becomes q\n\nSo, \"finding peace within\" becomes \"ilqlgjshdfhwklq\".",
+        "gold": "ilqglqj shdfh zlwklq"
+    },
+    "5": {
+        "input": "laughter is the best medicine",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nlaughter is the best medicineassistant\n\nTo encode the text using a Caesar cipher with a shift of 3, I'll replace each letter with the letter three positions ahead of it in the alphabet. Here's the encoded text:\n\n\"odwlrqh lv wkh ehvw phglflqh\"\n\nHere's the breakdown:\n\n* l -> o\n* a -> d\n* u -> w\n* g -> j\n* h -> k\n* t -> w\n* e -> h\n* r -> u\n*  -> (space remains unchanged)\n* i -> l\n* s -> v\n*  -> (space remains unchanged)\n* t -> w\n* h -> k\n* e -> h\n*  -> (space remains unchanged)\n* b -> e\n* e -> h\n* s -> v\n* t -> w\n*  -> (space remains unchanged)\n* m -> o\n* e -> h\n* d -> g\n* i -> l\n* c -> f\n* i -> l\n* n -> q\n* e -> h",
+        "gold": "odxjkwhu lv wkh ehvw phglflqh"
+    },
+    "6": {
+        "input": "reach for the stars",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nreach for the starsassistant\n\nTo encode the text \"reach for the stars\" with a Caesar cipher and a shift of 3, we'll shift each letter 3 positions forward in the alphabet. Here's the encoded text:\n\nuhea ir wkh vwdqhv",
+        "gold": "uhdfk iru wkh vwduv"
+    },
+    "7": {
+        "input": "beauty in simplicity",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nbeauty in simplicityassistant\n\nTo encode the text \"beauty in simplicity\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's how it works:\n\n- b becomes e\n- e becomes h\n- a becomes d\n- u becomes x\n- t becomes w\n- y becomes b\n\nSo, \"beauty\" becomes \"ehdxb\".\n\n- i becomes l\n- n becomes q\n- s becomes v\n- i becomes l\n- m becomes o\n- p becomes s\n- l becomes o\n- i becomes l\n- c becomes f\n- i becomes l\n- t becomes w\n- y becomes b\n\nSo, \"in simplicity\" becomes \"lqvloolfwb\".\n\nTherefore, \"beauty in simplicity\" encoded with a Caesar cipher and a shift of 3 is \"ehdxb lqvloolfwb\".",
+        "gold": "ehdxwb lq vlpsolflwb"
+    },
+    "8": {
+        "input": "time heals all wounds",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\ntime heals all woundsassistant\n\nHere is the encoded text using a Caesar cipher with a shift of 3:\n\nwkhu kdoo doo zurqvw",
+        "gold": "wlph khdov doo zrxqgv"
+    },
+    "9": {
+        "input": "patience is a virtue",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\npatience is a virtueassistant\n\nHere is the encoded text using a Caesar cipher with a shift of 3:\n\nsgdqiruh lv d ylwhq",
+        "gold": "sdwlhqfh lv d yluwxh"
+    },
+    "10": {
+        "input": "cherish the little moments",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\ncherish the little momentsassistant\n\nTo encode the text to a Caesar cipher with a shift of 3, I'll replace each letter with the letter 3 positions ahead of it in the alphabet. Here's the encoded text:\n\nehuvliw wkh ohwpr phqwrqphv\n\nHere's the breakdown:\n\n* c -> e\n* h -> k\n* e -> h\n* r -> u\n* i -> l\n* s -> v\n* h -> k\n*  (space remains unchanged)\n* t -> w\n* h -> k\n* e -> h\n*  (space remains unchanged)\n* l -> o\n* i -> l\n* t -> w\n* t -> w\n* l -> o\n* e -> h\n*  (space remains unchanged)\n* m -> o\n* o -> r\n* m -> o\n* e -> h\n* n -> q\n* t -> w\n* s -> v",
+        "gold": "fkhulvk wkh olwwoh prphqwv"
+    },
+    "11": {
+        "input": "turning over a new leaf",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nturning over a new leafassistant\n\nHere is the encoded text using a Caesar cipher with a shift of 3:\n\nvxohqj ryhu d qhz wkhvh",
+        "gold": "wxuqlqj ryhu d qhz ohdi"
+    },
+    "12": {
+        "input": "actions speak louder than words",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nactions speak louder than wordsassistant\n\nTo encode the text to a Caesar cipher with a shift of 3, I'll replace each letter with the letter 3 positions ahead of it in the alphabet. Here's the encoded text:\n\ndqwlrq vshdn brxudq wkhu zdv\n\nHere's the breakdown:\n\n* a -> d\n* c -> f\n* t -> w\n* i -> l\n* o -> r\n* n -> q\n* s -> v\n* p -> s\n* e -> h\n* a -> d\n* k -> n\n* l -> o\n* o -> r\n* u -> w\n* d -> g\n* e -> h\n* r -> u\n* t -> w\n* h -> k\n* a -> d\n* n -> q\n* w -> z\n* o -> r\n* r -> u\n* d -> g\n* s -> v",
+        "gold": "dfwlrqv vshdn orxghu wkdq zrugv"
+    },
+    "13": {
+        "input": "nurture your relationships",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nnurture your relationshipsassistant\n\nTo encode the text \"nurture your relationships\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's the step-by-step process:\n\n1. **n** becomes **q** (since n is the 14th letter, q is the 17th)\n2. **u** becomes **w**\n3. **r** becomes **u**\n4. **t** becomes **w**\n5. **u** becomes **w**\n6. **r** becomes **u**\n7. **e** becomes **h**\n8. ** ** (space remains unchanged)\n9. **y** becomes **b**\n10. **o** becomes **r**\n11. **u** becomes **w**\n12. **r** becomes **u**\n13. ** ** (space remains unchanged)\n14. **r** becomes **u**\n15. **e** becomes **h**\n16. **l** becomes **o**\n17. **a** becomes **d**\n18. **t** becomes **w**\n19. **i** becomes **l**\n20. **o** becomes **r**\n21. **n** becomes **q**\n22. **s** becomes **v**\n23. **h** becomes **k**\n24. **i** becomes **l**\n25. **p** becomes **s**\n\nThe encoded text is: **qwuwuw hbrwur uhowdlrqvkl**",
+        "gold": "qxuwxuh brxu uhodwlrqvklsv"
+    },
+    "14": {
+        "input": "every cloud has a silver lining",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nevery cloud has a silver liningassistant\n\nTo encode the text to a Caesar cipher with a shift of 3, I'll replace each letter with the letter 3 positions ahead of it in the alphabet. Here's the encoded text:\n\nihuwb fdqg kdv d vlooh olqhing",
+        "gold": "hyhub forxg kdv d vloyhu olqlqj"
+    },
+    "15": {
+        "input": "kindness costs nothing",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nkindness costs nothingassistant\n\nTo encode the text \"kindness costs nothing\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's the step-by-step process:\n\n1. **k** becomes **n** (since k is the 11th letter, n is the 14th)\n2. **i** becomes **l**\n3. **n** becomes **q**\n4. **d** becomes **g**\n5. **n** becomes **q**\n6. **e** becomes **h**\n7. **s** becomes **v**\n8. **s** becomes **v**\n9. **c** becomes **f**\n10. **o** becomes **r**\n11. **s** becomes **v**\n12. **t** becomes **w**\n13. **s** becomes **v**\n14. **n** becomes **q**\n15. **o** becomes **r**\n16. **t** becomes **w**\n17. **h** becomes **k**\n18. **i** becomes **l**\n19. **n** becomes **q**\n20. **g** becomes **j**\n\nSo, \"kindness costs nothing\" encoded with a Caesar cipher and a shift of 3 becomes \"nqlqvhfrwvqwrklqj\".",
+        "gold": "nlqgqhvv frvwv qrwklqj"
+    },
+    "16": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\na friend in need is a friend indeedassistant\n\nTo encode the text using a Caesar cipher with a shift of 3, I'll replace each letter with the letter three positions ahead of it in the alphabet. Here's the encoded text:\n\nd iulhq lq qhhg lv d iulhq lqhhg\n\nHere's the breakdown:\n\n* a -> d\n* f -> i\n* r -> u\n* i -> l\n* e -> h\n* n -> q\n* d -> g\n* i -> l\n* n -> q\n* n -> q\n* e -> h\n* e -> h\n* d -> g\n* i -> l\n* n -> q\n* d -> g\n* e -> h\n* e -> h\n* d -> g",
+        "gold": "d iulhqg lq qhhg lv d iulhqg lqghhg"
+    },
+    "17": {
+        "input": "believe in the future",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nbelieve in the futureassistant\n\nTo encode the text \"believe in the future\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's the step-by-step process:\n\n1. **b** becomes **e** (since b is the 2nd letter, e is the 5th)\n2. **e** becomes **h**\n3. **l** becomes **o**\n4. **i** becomes **l**\n5. **e** becomes **h**\n6. **v** becomes **y**\n7. **e** becomes **h**\n8. **i** becomes **l**\n9. **n** becomes **q**\n10. **i** becomes **l**\n11. **n** becomes **q**\n12. **t** becomes **w**\n13. **h** becomes **k**\n14. **e** becomes **h**\n15. **f** becomes **i**\n16. **u** becomes **w**\n17. **t** becomes **w**\n18. **u** becomes **w**\n19. **r** becomes **u**\n20. **e** becomes **h**\n\nSo, \"believe in the future\" encoded with a Caesar cipher and a shift of 3 becomes \"ehlohyqlwkhwiwuh\".",
+        "gold": "eholhyh lq wkh ixwxuh"
+    },
+    "18": {
+        "input": "learning from mistakes",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nlearning from mistakesassistant\n\nTo encode the text \"learning from mistakes\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's how it works:\n\n- l becomes o\n- e becomes h\n- a becomes d\n- r becomes u\n- n becomes q\n- i becomes l\n- n becomes q\n- g becomes j\n\nSo, \"learning\" becomes \"ohduqljq\".\n\n- f becomes i\n- r becomes u\n- o becomes r\n- m becomes p\n- m becomes p\n- i becomes l\n- s becomes v\n- t becomes w\n- a becomes d\n- k becomes n\n- e becomes h\n- s becomes v\n\nSo, \"from mistakes\" becomes \"iurpplvwdnhv\".\n\nTherefore, \"learning from mistakes\" encoded with a Caesar cipher and a shift of 3 is \"ohduqljq iurpplvwdnhv\".",
+        "gold": "ohduqlqj iurp plvwdnhv"
+    },
+    "19": {
+        "input": "a heart full of gratitude",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\na heart full of gratitudeassistant\n\nTo encode the text to a Caesar cipher with a shift of 3, I'll replace each letter with the letter 3 positions ahead of it in the alphabet. Here's the encoded text:\n\nd khduo ixoo ri jryhuqdwlqh\n\nHere's the breakdown:\n\n* a -> d\n* h -> k\n* e -> h\n* a -> d\n* r -> u\n* t -> w\n* f -> i\n* u -> w\n* l -> o\n* l -> o\n* o -> r\n* f -> i\n* g -> j\n* r -> u\n* a -> d\n* t -> w\n* i -> l\n* t -> w\n* u -> w\n* d -> g\n* e -> h",
+        "gold": "d khduw ixoo ri judwlwxgh"
+    },
+    "20": {
+        "input": "love conquers all",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nlove conquers allassistant\n\nTo encode the text \"love conquers all\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's how it works:\n\n- l becomes o\n- o becomes r\n- v becomes y\n- e becomes h\n-  (space remains unchanged)\n- c becomes f\n- o becomes r\n- n becomes q\n- q becomes t\n- u becomes x\n- e becomes h\n- r becomes u\n- s becomes v\n-  (space remains unchanged)\n- a becomes d\n- l becomes o\n- l becomes o\n\nSo, \"love conquers all\" encoded with a Caesar cipher and a shift of 3 becomes \"oryh frqtxhu ddo\".",
+        "gold": "oryh frqtxhuv doo"
+    },
+    "21": {
+        "input": "appreciate the small things",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nappreciate the small thingsassistant\n\nHere is the encoded text using a Caesar cipher with a shift of 3:\n\nsurshqvw wkh vlpso wklqjv",
+        "gold": "dssuhfldwh wkh vpdoo wklqjv"
+    },
+    "22": {
+        "input": "change is the only constant",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nchange is the only constantassistant\n\nTo encode the text using a Caesar cipher with a shift of 3, I'll replace each letter with the letter three positions ahead of it in the alphabet. Here's the encoded text:\n\nkhoorh lv wkh rqqly frqvwlrq",
+        "gold": "fkdqjh lv wkh rqob frqvwdqw"
+    },
+    "23": {
+        "input": "hard work pays off",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nhard work pays offassistant\n\nTo encode the text \"hard work pays off\" with a Caesar cipher and a shift of 3, we replace each letter with the letter three positions ahead of it in the alphabet. Here's the step-by-step process:\n\n1. **h** becomes **k** (since h is the 8th letter, k is the 11th letter, 3 positions ahead)\n2. **a** becomes **d**\n3. **r** becomes **u**\n4. **d** becomes **g**\n5. **w** becomes **z**\n6. **o** becomes **r**\n7. **r** becomes **u**\n8. **k** becomes **n**\n9. **p** becomes **s**\n10. **a** becomes **d**\n11. **y** becomes **b**\n12. **s** becomes **v**\n13. **o** becomes **r**\n14. **f** becomes **i**\n15. **f** becomes **i**\n\nSo, \"hard work pays off\" encoded with a Caesar cipher and a shift of 3 becomes \"kzug zruksd bvi\".",
+        "gold": "kdug zrun sdbv rii"
+    },
+    "24": {
+        "input": "follow your heart",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3.user\n\nfollow your heartassistant\n\nHere is the encoded text using a Caesar cipher with a shift of 3:\n\niruuh brxu khduw",
+        "gold": "iroorz brxu khduw"
+    },
+    "25": {
+        "input": "good deeds bring joy",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\ngood deeds bring joyassistant\n\nTo encode the text \"good deeds bring joy\" with a Caesar cipher and a shift of 6, we'll shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal: g o o d  d e e d s  b r i n g  j o y\nEncoded: m r r k  j k h k h w  e s l w  r p x\n\nHere's how each letter was shifted:\n\n- g -> m (g is the 7th letter, so shifting 6 positions forward makes it the 13th letter, m)\n- o -> r\n- o -> r\n- d -> j\n-  (space remains unchanged)\n- d -> j\n- e -> k\n- e -> k\n- d -> j\n- s -> w\n-  (space remains unchanged)\n- b -> e\n- r -> s\n- i -> l\n- n -> r\n- g -> w\n-  (space remains unchanged)\n- j -> r\n- o -> p\n- y -> x",
+        "gold": "muuj jkkjy hxotm pue"
+    },
+    "26": {
+        "input": "embrace the unknown",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nembrace the unknownassistant\n\nTo encode the text \"embrace the unknown\" with a Caesar cipher and a shift of 6, we need to shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: e m b r a c e t h e u n k n o w n\nEncoded text: k t i w f j g y m t i x y r t q w\n\nHere's how each letter was shifted:\n\n* e -> k (e + 6 = k)\n* m -> t (m + 6 = t)\n* b -> i (b + 6 = i)\n* r -> w (r + 6 = w)\n* a -> f (a + 6 = f)\n* c -> j (c + 6 = j)\n* e -> g (e + 6 = g)\n* t -> y (t + 6 = y)\n* h -> m (h + 6 = m)\n* e -> t (e + 6 = t)\n* u -> x (u + 6 = x)\n* n -> r (n + 6 = r)\n* k -> t (k + 6 = t)\n* n -> q (n + 6 = q)\n* o -> w (o + 6 = w)\n* w -> n (w + 6 = n)\n\nThe encoded text is: k t i w f j g y m t i x y r t q w",
+        "gold": "kshxgik znk atqtuct"
+    },
+    "27": {
+        "input": "chasing your dreams",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nchasing your dreamsassistant\n\nTo encode the text \"chasing your dreams\" with a Caesar cipher and a shift of 6, we'll shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: c-h-a-s-i-n-g-y-o-u-r-d-r-e-a-m-s\nEncoded text: i-k-i-x-q-t-w-b-f-a-i-w-j-a-k-w\n\nHere's the step-by-step encoding process:\n\n* c -> i (shift 6 positions forward)\n* h -> k\n* a -> g\n* s -> y\n* i -> q\n* n -> t\n* g -> w\n* y -> b\n* o -> f\n* u -> a\n* r -> j\n* d -> j\n* r -> j\n* e -> k\n* a -> g\n* m -> w\n* s -> w",
+        "gold": "ingyotm euax jxkgsy"
+    },
+    "28": {
+        "input": "walk in someone else’s shoes",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nwalk in someone else’s shoesassistant\n\nTo encode the text \"walk in someone else's shoes\" with a Caesar cipher shift of 6, I'll replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:\n\n\"walk\" becomes \"bxol\"\n\"in\" becomes \"no\"\n\"someone\" becomes \"vrxqwhq\"\n\"else's\" becomes \"khoohv'\"\n\"shoes\" becomes \"xrfhv\"\n\nThe encoded text is: \"bxol no vrxqwhq khoohv' xrfhv\"",
+        "gold": "cgrq ot yuskutk kryk’y ynuky"
+    },
+    "29": {
+        "input": "finding peace within",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nfinding peace withinassistant\n\nTo encode the text \"finding peace within\" with a Caesar cipher and a shift of 6, we'll shift each letter 6 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: finding peace within\nEncoded text: koolqjhg vhfuhw zlqgh\n\nHere's the step-by-step encoding process:\n\nf -> l\ni -> o\nn -> s\nd -> j\ni -> o\nn -> s\ng -> m\n(space remains unchanged)\np -> v\ne -> k\na -> g\nc -> i\ne -> k\n(space remains unchanged)\nw -> b\ni -> o\nt -> x\nh -> n\ni -> o\nn -> s",
+        "gold": "lotjotm vkgik coznot"
+    },
+    "30": {
+        "input": "laughter is the best medicine",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nlaughter is the best medicineassistant\n\nTo encode the text to a Caesar cipher with a shift of 6, I'll replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:\n\noqwbuqh lv wkh ehvw phglflqh\n\nHere's the breakdown:\n\n* l -> o (shift 6 positions ahead)\n* a -> g\n* u -> o\n* g -> o\n* h -> o\n* t -> w\n* e -> k\n* r -> w\n*  -> (space remains unchanged)\n* i -> o\n* s -> w\n*  -> (space remains unchanged)\n* t -> w\n* h -> o\n* e -> k\n*  -> (space remains unchanged)\n* b -> h\n* e -> k\n* s -> w\n* t -> w\n*  -> (space remains unchanged)\n* m -> w\n* e -> k\n* d -> h\n* i -> o\n* c -> h\n* i -> o\n* n -> o\n* e -> k",
+        "gold": "rgamnzkx oy znk hkyz skjoiotk"
+    },
+    "31": {
+        "input": "reach for the stars",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nreach for the starsassistant\n\nTo encode the text \"reach for the stars\" with a Caesar cipher and a shift of 6, we need to shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: r-e-a-c-h-f-o-r-t-h-e-s-t-a-r-s\nEncoded text: w-k-h-i-w-l-v-w-x-w-l-w\n\nHere's the step-by-step encoding process:\n\nr -> w (shift 6 positions forward)\ne -> k\na -> h\nc -> i\nh -> w\nf -> l\no -> v\nr -> w\nt -> x\nh -> w\ne -> k\ns -> w\nt -> x\na -> h\nr -> w\ns -> w",
+        "gold": "xkgin lux znk yzgxy"
+    },
+    "32": {
+        "input": "beauty in simplicity",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nbeauty in simplicityassistant\n\nTo encode the text \"beauty in simplicity\" with a Caesar cipher and a shift of 6, we'll shift each letter 6 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: b e a u t y i n s i m p l i c i t y\nEncoded text: h k g z b m p x y b w o l w q o l w\n\nHere's how each letter was shifted:\n\n* b -> h (shifted 6 places forward)\n* e -> k\n* a -> g\n* u -> z\n* t -> b\n* y -> m\n* i -> p\n* n -> x\n* s -> y\n* i -> p\n* m -> w\n* p -> l\n* l -> w\n* i -> q\n* c -> o\n* i -> l\n* t -> w\n* y -> o",
+        "gold": "hkgaze ot yosvroioze"
+    },
+    "33": {
+        "input": "time heals all wounds",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\ntime heals all woundsassistant\n\nHere is the encoded text using a Caesar cipher with a shift of 6:\n\nwbwb whduv doo zruqv",
+        "gold": "zosk nkgry grr cuatjy"
+    },
+    "34": {
+        "input": "patience is a virtue",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\npatience is a virtueassistant\n\nTo encode the text \"patience is a virtue\" with a Caesar cipher and a shift of 6, we need to shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: p a t i e n c e i s a v i r t u e\nEncoded text: v g y m r w l q y b x z w l w\n\nHere's how each letter was shifted:\n\np -> v (p + 6 = v)\na -> g (a + 6 = g)\nt -> y (t + 6 = y)\ni -> m (i + 6 = m)\ne -> r (e + 6 = r)\nn -> w (n + 6 = w)\nc -> l (c + 6 = l)\ne -> q (e + 6 = q)\ni -> y (i + 6 = y)\ns -> b (s + 6 = b)\na -> g (a + 6 = g)\nv -> l (v + 6 = l)\ni -> w (i + 6 = w)\nr -> x (r + 6 = x)\nt -> z (t + 6 = z)\nu -> w (u + 6 = w)\ne -> l (e + 6 = l)\n\nThe encoded text is: v g y m r w l q y b x z w l w",
+        "gold": "vgzoktik oy g boxzak"
+    },
+    "35": {
+        "input": "cherish the little moments",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\ncherish the little momentsassistant\n\nTo encode the text to a Caesar cipher with a shift of 6, I'll replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:\n\nkhoorw wkh olqh ruqlqjv\n\nHere's the step-by-step encoding:\n\n* c -> i (shift 6 positions ahead)\n* h -> n\n* e -> k\n* r -> w\n* i -> o\n* s -> y\n* h -> n\n*  (space remains unchanged)\n* t -> x\n* h -> n\n* e -> k\n*  (space remains unchanged)\n* l -> r\n* i -> o\n* t -> x\n* t -> x\n* l -> r\n* e -> k\n*  (space remains unchanged)\n* m -> y\n* o -> u\n* m -> y\n* e -> k\n* n -> r\n* t -> x\n* s -> y",
+        "gold": "inkxoyn znk rozzrk susktzy"
+    },
+    "36": {
+        "input": "turning over a new leaf",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nturning over a new leafassistant\n\nTo encode the text \"turning over a new leaf\" with a Caesar cipher and a shift of 6, we need to shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: t-u-r-n-i-n-g-o-v-e-r-a-n-e-w-l-e-a-f\nEncoded text: x-g-w-q-w-q-b-w-p-w-g-w-q-w-q-b-w-p-w-g\n\nHere's the step-by-step encoding process:\n\nt -> x (shift 6 positions forward)\nu -> g\nr -> w\nn -> q\ni -> w\nn -> q\ng -> b\no -> w\nv -> p\ne -> w\nr -> w\na -> g\nn -> q\ne -> w\nw -> q\nl -> b\ne -> w\na -> g\nf -> p",
+        "gold": "zaxtotm ubkx g tkc rkgl"
+    },
+    "37": {
+        "input": "actions speak louder than words",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nactions speak louder than wordsassistant\n\nTo encode the text to a Caesar cipher with a shift of 6, I'll replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:\n\nmjqqt bxfqnxq ymnx gbt ymfq\n\nHere's the step-by-step encoding process:\n\n* a -> g (a + 6)\n* c -> i\n* t -> i\n* i -> o\n* o -> u\n* n -> s\n* s -> y\n* p -> v\n* e -> k\n* a -> g\n* k -> q\n* l -> r\n* o -> u\n* u -> y\n* d -> j\n* e -> k\n* r -> x\n* t -> x\n* h -> n\n* a -> g\n* n -> s\n* w -> b\n* o -> u\n* r -> x\n* d -> j\n* s -> y",
+        "gold": "gizouty yvkgq ruajkx zngt cuxjy"
+    },
+    "38": {
+        "input": "nurture your relationships",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nnurture your relationshipsassistant\n\nTo encode the text \"nurture your relationships\" with a Caesar cipher and a shift of 6, we'll shift each letter 6 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: n u r t u r e y o u r r e l a t i o n s h i p s\nEncoded text: r w x z w x k b f w x w u y m r w l f w k p v\n\nHere's how it works:\n\n- n becomes r (n+6)\n- u becomes w (u+6)\n- r becomes x (r+6)\n- t becomes z (t+6)\n- u becomes w (u+6)\n- r becomes x (r+6)\n- e becomes k (e+6)\n- y becomes b (y+6, wrapping around to the beginning of the alphabet)\n- o becomes f (o+6)\n- u becomes w (u+6)\n- r becomes x (r+6)\n- r becomes x (r+6)\n- e becomes k (e+6)\n- l becomes r (l+6)\n- a becomes g (a+6)\n- t becomes x (t+6)\n- i becomes m (i+6)\n- o becomes r (o+6)\n- n becomes s (n+6)\n- s becomes y (s+6)\n- h becomes m (h+6)\n- i becomes m (i+6)\n- p becomes v (p+6)\n- s becomes y (s+6)\n\nThe encoded text is: r w x z w x k b f w x w u y m r w l f w k p v",
+        "gold": "taxzaxk euax xkrgzoutynovy"
+    },
+    "39": {
+        "input": "every cloud has a silver lining",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nevery cloud has a silver liningassistant\n\nTo encode the text to a Caesar cipher with a shift of 6, I'll replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:\n\nlwkh whvwd kdv d vlooh olqhing\n\nHere's the step-by-step encoding process:\n\n* e -> k\n* v -> l\n* e -> k\n* r -> w\n* y -> e\n*  (space remains the same)\n* c -> i\n* l -> r\n* o -> u\n* u -> a\n* d -> j\n*  (space remains the same)\n* h -> n\n* a -> o\n* s -> y\n*  (space remains the same)\n* a -> g\n*  (space remains the same)\n* s -> y\n* i -> a\n* l -> r\n* v -> a\n* e -> k\n* r -> w\n*  (space remains the same)\n* l -> r\n* i -> o\n* n -> r\n* i -> o\n* n -> r\n* g -> o",
+        "gold": "kbkxe iruaj ngy g yorbkx rototm"
+    },
+    "40": {
+        "input": "kindness costs nothing",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nkindness costs nothingassistant\n\nTo encode the text \"kindness costs nothing\" with a Caesar cipher and a shift of 6, we'll shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: kindness costs nothing\nEncoded text: qoxqjrqh wyvwoh qrwklqnj\n\nHere's the step-by-step encoding process:\n\nk -> q (shift 6 positions forward)\ni -> o\nn -> s\nd -> j\nn -> s\ne -> k\ns -> y\ns -> y\nc -> i\no -> u\ns -> y\nt -> a\ns -> y\nn -> s\no -> u\nt -> a\nh -> m\ni -> o\nn -> s\ng -> m",
+        "gold": "qotjtkyy iuyzy tuznotm"
+    },
+    "41": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\na friend in need is a friend indeedassistant\n\nTo encode the text using a Caesar cipher with a shift of 6, I'll replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:\n\ng ojuvt kpi qnqy ku g ojuvt kpi\n\nHere's the breakdown:\n\n* a -> g (a + 6)\n* f -> l (f + 6)\n* r -> x (r + 6)\n* i -> o (i + 6)\n* e -> k (e + 6)\n* n -> s (n + 6)\n* d -> i (d + 6)\n* i -> o (i + 6)\n* n -> s (n + 6)\n* n -> s (n + 6)\n* e -> k (e + 6)\n* e -> k (e + 6)\n* d -> i (d + 6)\n* i -> o (i + 6)\n* s -> y (s + 6)\n* a -> g (a + 6)\n* f -> l (f + 6)\n* r -> x (r + 6)\n* i -> o (i + 6)\n* e -> k (e + 6)\n* n -> s (n + 6)\n* d -> i (d + 6)\n* e -> k (e + 6)\n* e -> k (e + 6)\n* d -> i (i + 6)\n\nThe encoded text is: g ojuvt kpi qnqy ku g ojuvt kpi",
+        "gold": "g lxoktj ot tkkj oy g lxoktj otjkkj"
+    },
+    "42": {
+        "input": "believe in the future",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nbelieve in the futureassistant\n\nTo encode the text \"believe in the future\" with a Caesar cipher and a shift of 6, we need to shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: b e l i e v e i n t h e f u t u r e\nEncoded text: h o r w o l w r p n w m i w l w x w\n\nHere's the step-by-step encoding process:\n\nb -> h (shift 6 positions forward)\ne -> k\nl -> r\ni -> o\ne -> k\nv -> a\ne -> k\ni -> o\nn -> r\nt -> x\nh -> n\ne -> k\nf -> l\nu -> a\nt -> x\nu -> a\nr -> x\ne -> k",
+        "gold": "hkrokbk ot znk lazaxk"
+    },
+    "43": {
+        "input": "learning from mistakes",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nlearning from mistakesassistant\n\nTo encode the text \"learning from mistakes\" with a Caesar cipher and a shift of 6, we'll shift each letter 6 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: learning from mistakes\nEncoded text: oxfneiru iurp txlqjkwv\n\nHere's how each letter was shifted:\n\nl -> o (shifted 6 places forward)\ne -> k\na -> g\nr -> x\nn -> s\ni -> o\nn -> s\ng -> o\nf -> l\nr -> x\no -> t\nm -> s\ni -> o\ns -> y\nt -> b\na -> g\nk -> q\ne -> k\ns -> y",
+        "gold": "rkgxtotm lxus soyzgqky"
+    },
+    "44": {
+        "input": "a heart full of gratitude",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\na heart full of gratitudeassistant\n\nTo encode the text to a Caesar cipher with a shift of 6, I'll replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:\n\ng mbwbl iolqj ri jrqvwlrq\n\nHere's the breakdown:\n\n* a -> g (a + 6)\n* h -> n (h + 6)\n* e -> k (e + 6)\n* a -> g (a + 6)\n* r -> x (r + 6)\n* t -> z (t + 6)\n* f -> l (f + 6)\n* u -> a (u + 6)\n* l -> p (l + 6)\n* l -> p (l + 6)\n* o -> v (o + 6)\n* f -> l (f + 6)\n* g -> i (g + 6)\n* r -> x (r + 6)\n* a -> g (a + 6)\n* t -> x (t + 6)\n* i -> o (i + 6)\n* t -> x (t + 6)\n* u -> a (u + 6)\n* d -> j (d + 6)\n* e -> k (e + 6)\n\nThe encoded text is: g mbwbl iolqj ri jrqvwlrq",
+        "gold": "g nkgxz larr ul mxgzozajk"
+    },
+    "45": {
+        "input": "love conquers all",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nlove conquers allassistant\n\nTo encode the text \"love conquers all\" with a Caesar cipher and a shift of 6, we need to shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: l o v e c o n q u e r s a l l\nEncoded text: r w i k i y r w w x w v w l l\n\nHere's how each letter was shifted:\n\n* l -> r (shifted 6 positions forward)\n* o -> w\n* v -> k\n* e -> i\n* c -> y\n* o -> w\n* n -> r\n* q -> w\n* u -> x\n* e -> i\n* r -> w\n* s -> w\n* a -> l\n* l -> l (no shift, since l is already at the end of the alphabet)\n* l -> l (no shift, since l is already at the end of the alphabet)\n\nThe encoded text is: r w i k i y r w w x w v w l l",
+        "gold": "rubk iutwakxy grr"
+    },
+    "46": {
+        "input": "appreciate the small things",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nappreciate the small thingsassistant\n\nTo encode the text to a Caesar cipher with a shift of 6, I'll replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:\n\ngvtwqjwy wkh vhfow brxqjv\n\nHere's the breakdown:\n\n* a -> g\n* p -> v\n* p -> v\n* r -> w\n* e -> k\n* c -> i\n* i -> o\n* a -> g\n* t -> w\n* e -> k\n*  -> (space remains unchanged)\n* t -> w\n* h -> b\n* e -> k\n*  -> (space remains unchanged)\n* s -> y\n* m -> w\n* a -> g\n* l -> r\n* l -> r\n*  -> (space remains unchanged)\n* t -> w\n* h -> b\n* i -> o\n* n -> r\n* g -> j\n* s -> y",
+        "gold": "gvvxkiogzk znk ysgrr znotmy"
+    },
+    "47": {
+        "input": "change is the only constant",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nchange is the only constantassistant\n\nTo encode the text using a Caesar cipher with a shift of 6, I'll replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:\n\nkhoor lv wkh rqqly frqvwlrq\n\nHere's the step-by-step encoding:\n\n* c -> i\n* h -> o\n* a -> g\n* n -> s\n* g -> i\n* e -> k\n*  (space remains unchanged)\n* i -> o\n* s -> y\n*  (space remains unchanged)\n* t -> a\n* h -> o\n* e -> k\n*  (space remains unchanged)\n* o -> t\n* n -> s\n* l -> r\n* y -> e\n*  (space remains unchanged)\n* c -> i\n* o -> t\n* n -> s\n* s -> y\n* t -> a\n* a -> g\n* n -> s\n* t -> a\n*  (space remains unchanged)\n* c -> i\n* o -> t\n* n -> s\n* s -> y\n* t -> a\n* a -> g\n* n -> s\n* t -> a\n*  (space remains unchanged)\n* f -> l\n* r -> x\n* q -> w\n* v -> a\n* w -> b\n* l -> r\n* r -> x\n* q -> w",
+        "gold": "ingtmk oy znk utre iutyzgtz"
+    },
+    "48": {
+        "input": "hard work pays off",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nhard work pays offassistant\n\nTo encode the text \"hard work pays off\" with a Caesar cipher and a shift of 6, we need to shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nh -> p\na -> g\nr -> x\nd -> j\n(space remains the same)\nw -> b\no -> t\nr -> x\nk -> q\n(space remains the same)\np -> v\na -> g\ny -> e\ns -> y\n(space remains the same)\no -> t\nf -> l\nf -> l\n\nThe encoded text is: pgxj bt xq vg eyyl tl",
+        "gold": "ngxj cuxq vgey ull"
+    },
+    "49": {
+        "input": "follow your heart",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6.user\n\nfollow your heartassistant\n\nTo encode the text \"follow your heart\" with a Caesar cipher and a shift of 6, we'll shift each letter 6 positions forward in the alphabet. Here's the encoded text:\n\nOriginal: f o l l o w y o u r h e a r t\nEncoded: l s y q b w l g z w v l p w\n\nHere's how it was done:\n\n- f -> l (shifted 6 positions forward)\n- o -> s\n- l -> q\n- l -> q\n- o -> s\n- w -> b\n- y -> g\n- o -> s\n- u -> w\n- r -> z\n- h -> p\n- e -> k\n- a -> g\n- r -> z\n- t -> w",
+        "gold": "lurruc euax nkgxz"
+    },
+    "50": {
+        "input": "good deeds bring joy",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\ngood deeds bring joyassistant\n\nTo encode the text \"good deeds bring joy\" with a Caesar cipher and a shift of 9, we'll shift each letter 9 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: g o o d  d e e d s  b r i n g  j o y\nEncoded text: l x x m  k  n  n  l  w  u  p  r  s  q\n\nHere's how each letter was shifted:\n\ng -> l (shifted 9 places forward)\no -> x\no -> x\nd -> m\nd -> k\ne -> n\ne -> n\nd -> l\ns -> w\nb -> u\nr -> p\ni -> r\nn -> s\ng -> q\nj -> s\no -> q\ny -> d",
+        "gold": "pxxm mnnmb karwp sxh"
+    },
+    "51": {
+        "input": "embrace the unknown",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nembrace the unknownassistant\n\nTo encode the text \"embrace the unknown\" with a Caesar cipher and a shift of 9, we'll shift each letter 9 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: e m b r a c e t h e u n k n o w n\nEncoded text: r j x y k j w l i r y z a o x y r\n\nHere's how each letter was shifted:\n\ne -> r (e + 9 = r)\nm -> x (m + 9 = x)\nb -> y (b + 9 = y)\nr -> k (r + 9 = k)\na -> j (a + 9 = j)\nc -> w (c + 9 = w)\ne -> l (e + 9 = l)\nt -> i (t + 9 = i)\nh -> r (h + 9 = r)\ne -> y (e + 9 = y)\nu -> z (u + 9 = z)\nn -> a (n + 9 = a)\nk -> o (k + 9 = o)\nn -> x (n + 9 = x)\no -> y (o + 9 = y)\nw -> r (w + 9 = r)\nn -> y (n + 9 = y)\n\nThe encoded text is: r j x y k j w l i r y z a o x y r",
+        "gold": "nvkajln cqn dwtwxfw"
+    },
+    "52": {
+        "input": "chasing your dreams",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nchasing your dreamsassistant\n\nTo encode the text \"chasing your dreams\" with a Caesar cipher and a shift of 9, we'll shift each letter 9 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: c h a s i n g y o u r d r e a m s\nEncoded text: l x p b w q k b i w y r k w l x p s\n\nHere's how each letter was shifted:\n\nc -> l (c is the 3rd letter, l is the 12th letter, 9 places forward)\nh -> x (h is the 8th letter, x is the 17th letter, 9 places forward)\na -> j (a is the 1st letter, j is the 10th letter, 9 places forward)\ns -> w (s is the 19th letter, w is the 28th letter, but since there are only 26 letters, we wrap around to the beginning, so w is the 23rd letter, 4 places forward from s)\ni -> q (i is the 9th letter, q is the 18th letter, 9 places forward)\nn -> k (n is the 14th letter, k is the 23rd letter, 9 places forward)\ng -> b (g is the 7th letter, b is the 16th letter, but since we're shifting 9 places, we wrap around to the beginning, so b is the 2nd letter, 5 places forward from g)\ny -> i (y is the 25th letter, i is the 9th letter, but since we're shifting 9 places, we wrap around to the beginning, so i is the 9th letter, 4 places forward from y)\no -> y (o is the 15th letter, y is the 25th letter, 10 places forward, but since we're shifting 9 places, we wrap around to the beginning, so y is the 25th letter, 10 places forward from o)\nu -> r (u is the 21st letter, r is the 18th letter, but since we're shifting 9 places, we wrap around to the beginning, so r is the 18th letter, 3 places forward from u)\nr -> k (r is the 18th letter, k is the 11th letter, but since we're shifting 9 places, we wrap around to the beginning, so k is the 11th letter, 7 places forward from r)\nd -> w (d is the 4th letter, w is the 23rd letter, 19 places forward, but since we're shifting 9 places, we wrap around to the beginning, so w is the 23rd letter, 19 places forward from d)\nr -> k (r is the 18th letter, k is the 11th letter, but since we're shifting 9 places, we wrap around to the beginning, so k is the 11th letter, 7 places forward from r)\ne -> l (e is the 5th letter, l is the 12th letter, 7 places forward)\na -> j (a is the 1st letter, j is the 10th letter, 9 places forward)\nm -> x (m is the 13th letter, x is the 24th letter, 11 places forward, but since we're shifting 9 places, we wrap around to the beginning, so x is the 24th letter, 11 places forward from m)\ns -> w (s is the 19th letter, w is the 23rd letter, 4 places forward)\n\nThe encoded text is: l x p b w q k b i w y r k w l x p s",
+        "gold": "lqjbrwp hxda manjvb"
+    },
+    "53": {
+        "input": "walk in someone else’s shoes",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nwalk in someone else’s shoesassistant\n\nTo encode the text \"walk in someone else's shoes\" with a Caesar cipher and a shift of 9, I'll replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:\n\n`w` becomes `g` (since `w` is the 23rd letter and `g` is the 7th letter, 9 positions ahead is the 7th letter, but since we are shifting forward, we go to the end of the alphabet and then continue from the beginning, so `w` becomes `g`)\n`a` becomes `j`\n`l` becomes `q`\n`k` becomes `t`\n` ` (space remains unchanged)\n`i` becomes `r`\n`n` becomes `q`\n` ` (space remains unchanged)\n`s` becomes `x`\n`o` becomes `r`\n`m` becomes `v`\n`e` becomes `n`\n` ` (space remains unchanged)\n`o` becomes `r`\n`n` becomes `q`\n`e` becomes `n`\n` ` (space remains unchanged)\n`s` becomes `x`\n` ` (space remains unchanged)\n`e` becomes `r`\n`l` becomes `q`\n`s` becomes `x`\n`e` becomes `r`\n`s` becomes `x`\n` ` (space remains unchanged)\n`s` becomes `x`\n`h` becomes `q`\n`o` becomes `r`\n`e` becomes `r`\n`s` becomes `x`\n\nThe encoded text is:\n\n`gjqtr xrvnqxnq xreqx xqrxorrx`\n\nNote that this is a simple substitution cipher and can be easily broken with frequency analysis or other cryptanalysis techniques.",
+        "gold": "fjut rw bxvnxwn nubn’b bqxnb"
+    },
+    "54": {
+        "input": "finding peace within",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nfinding peace withinassistant\n\nTo encode the text \"finding peace within\" with a Caesar cipher and a shift of 9, we'll shift each letter 9 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: finding peace within\nEncoded text: jxqjohqj sdqgoh brxuqh\n\nHere's how each letter was shifted:\n\nf -> o (shifted 9 places forward)\ni -> x\nn -> q\nd -> j\ni -> x\nn -> q\ng -> j\n(space remains unchanged)\np -> j\ne -> o\na -> j\nc -> l\ne -> o\n(space remains unchanged)\nw -> h\ni -> x\nt -> k\nh -> q\ni -> x\nn -> q",
+        "gold": "orwmrwp ynjln frcqrw"
+    },
+    "55": {
+        "input": "laughter is the best medicine",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nlaughter is the best medicineassistant\n\nTo encode the text using a Caesar cipher with a shift of 9, I'll replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:\n\n\"laughter\" becomes \"qyjxqjkw\"\n\"is\" becomes \"rx\"\n\"the\" becomes \"wkh\"\n\"best\" becomes \"khoob\"\n\"medicine\" becomes \"phglhpdq\"\n\nSo the encoded text is: \"qyjxqjkw rx wkh khoob phglhpdq\"",
+        "gold": "ujdpqcna rb cqn knbc vnmrlrwn"
+    },
+    "56": {
+        "input": "reach for the stars",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nreach for the starsassistant\n\nTo encode the text \"reach for the stars\" with a Caesar cipher and a shift of 9, we'll shift each letter 9 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: r-e-a-c-h-f-o-r-t-h-e-s-t-a-r-s\nEncoded text: x-l-i-j-w-q-b-i-y-k-b-i-w-x-l-i\n\nHere's the step-by-step encoding process:\n\nr -> x (shift 9 places forward)\ne -> l\na -> i\nc -> j\nh -> w\nf -> q\no -> b\nr -> i\nt -> y\nh -> k\ne -> b\ns -> i\nt -> w\na -> x\nr -> l\ns -> i",
+        "gold": "anjlq oxa cqn bcjab"
+    },
+    "57": {
+        "input": "beauty in simplicity",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nbeauty in simplicityassistant\n\nTo encode the text \"beauty in simplicity\" with a Caesar cipher and a shift of 9, we'll shift each letter 9 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: b e a u t y i n s i m p l i c i t y\nEncoded text: j i l f y k b q x z v k x q l w k y",
+        "gold": "knjdch rw brvyurlrch"
+    },
+    "58": {
+        "input": "time heals all wounds",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\ntime heals all woundsassistant\n\nTo encode the text \"time heals all wounds\" with a Caesar cipher and a shift of 9, we need to shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: t-i-m-e-h-e-a-l-s-a-l-l-w-o-u-n-d-s\nEncoded text: x-l-x-q-k-r-l-q-x-v-x-q-x-z-x-w-x\n\nHere's the step-by-step encoding process:\n\nt -> x (shift 9 positions forward)\ni -> x\nm -> q\ne -> k\nh -> r\ne -> k\na -> l\nl -> q\ns -> x\na -> l\nl -> q\nw -> z\no -> x\nu -> w\nn -> x\nd -> w\ns -> x",
+        "gold": "crvn qnjub juu fxdwmb"
+    },
+    "59": {
+        "input": "patience is a virtue",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\npatience is a virtueassistant\n\nTo encode the text \"patience is a virtue\" with a Caesar cipher and a shift of 9, we need to shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: p a t i e n c e i s a v i r t u e\nEncoded text: x j y l r w m k s j x l w y m x\n\nHere's how each letter was shifted:\n\np -> x (p is the 16th letter, x is the 24th letter, 16 + 9 = 25, but since there are only 26 letters, we wrap around to the beginning, so 25 becomes 24 + 1 = x)\na -> j\nt -> y\ni -> r\ne -> n\nn -> w\nc -> m\ne -> n\ni -> r\ns -> x\na -> j\nv -> l\ni -> r\nt -> y\nu -> m\ne -> x",
+        "gold": "yjcrnwln rb j eracdn"
+    },
+    "60": {
+        "input": "cherish the little moments",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\ncherish the little momentsassistant\n\nTo encode the text to a Caesar cipher with a shift of 9, I'll replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:\n\nkhoorw wkh olqh ruqlqjv\n\nHere's the step-by-step encoding process:\n\n* c -> k (c + 9 = k)\n* h -> q\n* e -> n\n* r -> w\n* i -> r\n* s -> v\n* h -> q\n*  (space remains unchanged)\n* t -> y\n* h -> q\n* e -> n\n*  (space remains unchanged)\n* l -> y\n* i -> r\n* t -> y\n* t -> y\n* l -> y\n* e -> n\n*  (space remains unchanged)\n* m -> r\n* o -> r\n* m -> r\n* e -> n\n* n -> q\n* t -> y\n* s -> v",
+        "gold": "lqnarbq cqn urccun vxvnwcb"
+    },
+    "61": {
+        "input": "turning over a new leaf",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nturning over a new leafassistant\n\nTo encode the text \"turning over a new leaf\" with a Caesar cipher and a shift of 9, we'll shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: t-u-r-n-i-n-g-o-v-e-r-a-n-e-w-l-e-a-f\nEncoded text: x-l-w-q-x-q-b-w-y-i-w-b-q-x-w-q-b-w-x",
+        "gold": "cdawrwp xena j wnf unjo"
+    },
+    "62": {
+        "input": "actions speak louder than words",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nactions speak louder than wordsassistant\n\nTo encode the text \"actions speak louder than words\" with a Caesar cipher and a shift of 9, we need to shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: actions speak louder than words\nEncoded text: jxqfoxv ymnslq yrbjxq ymnj xqjyj\n\nHere's the step-by-step encoding process:\n\na -> j\nc -> l\nt -> y\ni -> r\no -> x\nn -> s\ns -> x\np -> y\ne -> n\na -> j\nk -> t\nl -> y\no -> x\nu -> h\nd -> k\ne -> n\nr -> w\nt -> y\nh -> q\na -> j\nn -> s\nw -> g\no -> x\nr -> y\nd -> k\ns -> x",
+        "gold": "jlcrxwb bynjt uxdmna cqjw fxamb"
+    },
+    "63": {
+        "input": "nurture your relationships",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nnurture your relationshipsassistant\n\nTo encode the text \"nurture your relationships\" with a Caesar cipher and a shift of 9, we'll shift each letter 9 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: n u r t u r e y o u r r e l a t i o n s h i p s\nEncoded text:  z g x w z x g i b q z g x w z g x g m t y b g n v o",
+        "gold": "wdacdan hxda anujcrxwbqryb"
+    },
+    "64": {
+        "input": "every cloud has a silver lining",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nevery cloud has a silver liningassistant\n\nTo encode the text to a Caesar cipher with a shift of 9, I'll replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:\n\n\"every\" becomes \"jxwri\"\n\"cloud\" becomes \"mxqzh\"\n\"has\" becomes \"kbu\"\n\"a\" becomes \"j\"\n\"silver\" becomes \"zlwkhq\"\n\"lining\" becomes \"qnhwlrq\"\n\nThe encoded text is: \"jxwri mxqzh kbu j zlwkhq qnhwlrq\"",
+        "gold": "nenah luxdm qjb j bruena urwrwp"
+    },
+    "65": {
+        "input": "kindness costs nothing",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nkindness costs nothingassistant\n\nTo encode the text \"kindness costs nothing\" with a Caesar cipher and a shift of 9, we need to shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: kindness costs nothing\nEncoded text: qyqjkwjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjyjy",
+        "gold": "trwmwnbb lxbcb wxcqrwp"
+    },
+    "66": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\na friend in need is a friend indeedassistant\n\nTo encode the text using a Caesar cipher with a shift of 9, I'll replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:\n\nj xqfoh lq khqg lv j xqfoh lq khqg\n\nHere's the step-by-step encoding process:\n\na -> j\nf -> o\nr -> w\ni -> r\ne -> n\nn -> s\nd -> k\ni -> r\ns -> x\nn -> s\ne -> r\ne -> r\nd -> k\ni -> r\ns -> x\na -> j\nf -> o\nr -> w\ni -> r\ne -> n\nn -> s\nd -> k\ni -> r\ne -> r\nd -> k",
+        "gold": "j oarnwm rw wnnm rb j oarnwm rwmnnm"
+    },
+    "67": {
+        "input": "believe in the future",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nbelieve in the futureassistant\n\nTo encode the text \"believe in the future\" with a Caesar cipher and a shift of 9, we need to shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: b e l i e v e i n t h e f u t u r e\nEncoded text: j y p s n w l q y r k a i m y x z\n\nHere's how each letter was shifted:\n\nb -> j (shifted 9 positions forward)\ne -> n\nl -> s\ni -> r\ne -> n\nv -> y\ne -> n\ni -> r\nn -> q\nt -> y\nh -> q\ne -> n\nf -> o\nu -> y\nt -> y\nu -> y\nr -> w\ne -> n",
+        "gold": "knurnen rw cqn odcdan"
+    },
+    "68": {
+        "input": "learning from mistakes",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nlearning from mistakesassistant\n\nTo encode the text \"learning from mistakes\" with a Caesar cipher and a shift of 9, we'll shift each letter 9 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: learning from mistakes\nEncoded text: qyhfklqj iurp pdqwklvwdqwv\n\nHere's how each letter was shifted:\n\nl -> q (shifted 9 places forward)\ne -> n\na -> j\nr -> w\nn -> q\ni -> t\nn -> q\ng -> p\n(space remains unchanged)\nf -> o\nr -> w\no -> y\nm -> r\n(space remains unchanged)\nm -> w\ni -> t\ns -> f\nt -> y\na -> j\nk -> t\ne -> n\ns -> f",
+        "gold": "unjawrwp oaxv vrbcjtnb"
+    },
+    "69": {
+        "input": "a heart full of gratitude",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\na heart full of gratitudeassistant\n\nTo encode the text \"a heart full of gratitude\" with a Caesar cipher and a shift of 9, we need to shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: a heart full of gratitude\nEncoded text: j xliw khhq ri jxqgdphqwlrq\n\nHere's the step-by-step encoding process:\n\na -> j (shift 9 positions forward)\nh -> q\ne -> n\na -> j\nr -> w\nt -> x\n(space remains unchanged)\nf -> o\nu -> y\nl -> q\nl -> q\n(space remains unchanged)\no -> y\nf -> y\n(space remains unchanged)\ng -> p\nr -> w\na -> j\nt -> x\ni -> r\nt -> x\nu -> y\nd -> k\ne -> n\n\nThe resulting encoded text is: j xliw khhq ri jxqgdphqwlrq",
+        "gold": "j qnjac oduu xo pajcrcdmn"
+    },
+    "70": {
+        "input": "love conquers all",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nlove conquers allassistant\n\nTo encode the text \"love conquers all\" with a Caesar cipher and a shift of 9, we need to shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: l o v e c o n q u e r s a l l\nEncoded text: s x y i l y r t w z v f k y r\n\nHere's how each letter was shifted:\n\n* l -> s (shifted 9 positions forward)\n* o -> x\n* v -> y\n* e -> i\n* c -> l\n* o -> x\n* n -> r\n* q -> t\n* u -> w\n* e -> i\n* r -> t\n* s -> w\n* a -> k\n* l -> y\n* l -> r",
+        "gold": "uxen lxwzdnab juu"
+    },
+    "71": {
+        "input": "appreciate the small things",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nappreciate the small thingsassistant\n\nTo encode the text to a Caesar cipher with a shift of 9, I'll replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:\n\nxvyrkhpri wkh vhfow wklqjv\n\nHere's the breakdown:\n\n* a -> j (shift of 9)\n* p -> x\n* p -> x\n* r -> w\n* e -> n\n* c -> l\n* i -> r\n* a -> j\n* t -> y\n* e -> n\n*  (space remains unchanged)\n* t -> y\n* h -> q\n* e -> n\n*  (space remains unchanged)\n* s -> x\n* m -> r\n* a -> j\n* l -> q\n* l -> q\n*  (space remains unchanged)\n* t -> y\n* h -> q\n* i -> r\n* n -> s\n* g -> v\n* s -> x",
+        "gold": "jyyanlrjcn cqn bvjuu cqrwpb"
+    },
+    "72": {
+        "input": "change is the only constant",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nchange is the only constantassistant\n\nTo encode the text using a Caesar cipher with a shift of 9, I'll replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:\n\nkhoor lv wkh rqqly frqvwlrq\n\nHere's the step-by-step encoding process:\n\n* c -> l (c + 9 = l)\n* h -> k (h + 9 = k)\n* a -> j (a + 9 = j)\n* n -> r (n + 9 = r)\n* g -> l (g + 9 = l)\n* e -> n (e + 9 = n)\n*  (space remains unchanged)\n* i -> r (i + 9 = r)\n* s -> x (s + 9 = x)\n*  (space remains unchanged)\n* t -> y (t + 9 = y)\n* h -> k (h + 9 = k)\n* e -> n (e + 9 = n)\n*  (space remains unchanged)\n* o -> y (o + 9 = y)\n* n -> r (n + 9 = r)\n* l -> q (l + 9 = q)\n* y -> e (y + 9 = e)\n*  (space remains unchanged)\n* c -> l (c + 9 = l)\n* o -> y (o + 9 = y)\n* n -> r (n + 9 = r)\n* s -> x (s + 9 = x)\n* t -> y (t + 9 = y)\n* a -> j (a + 9 = j)\n* n -> r (n + 9 = r)\n* t -> y (t + 9 = y)\n\nThe resulting encoded text is: khoor lv wkh rqqly frqvwlrq",
+        "gold": "lqjwpn rb cqn xwuh lxwbcjwc"
+    },
+    "73": {
+        "input": "hard work pays off",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nhard work pays offassistant\n\nTo encode the text \"hard work pays off\" with a Caesar cipher and a shift of 9, we need to shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nh -> q\na -> j\nr -> w\nd -> m\n(space remains the same)\nw -> h\no -> y\nr -> w\nk -> t\n(space remains the same)\np -> y\na -> j\ny -> e\ns -> x\n(space remains the same)\no -> y\nf -> i\nf -> i\n\nThe encoded text is: qjwmh ywht yjexyi",
+        "gold": "qjam fxat yjhb xoo"
+    },
+    "74": {
+        "input": "follow your heart",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9.user\n\nfollow your heartassistant\n\nTo encode the text \"follow your heart\" with a Caesar cipher and a shift of 9, we need to shift each letter 9 positions forward in the alphabet. Here's the encoded text:\n\nF -> O (since F is the 6th letter, O is the 15th letter, which is 9 positions ahead)\nO -> Y\nL -> Q\nL -> Q\nO -> Y\nW -> G\n(space remains unchanged)\nY -> J\nO -> Y\nU -> H\nR -> W\n(space remains unchanged)\nH -> Q\nE -> N\nA -> J\nR -> W\nT -> Y\n\nThe encoded text is: OYQQYG JYHWQNJWY",
+        "gold": "oxuuxf hxda qnjac"
+    },
+    "75": {
+        "input": "good deeds bring joy",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\ngood deeds bring joyassistant\n\nTo encode the text \"good deeds bring joy\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: good deeds bring joy\nEncoded text: ybbq mmvy jfmmq ymw\n\nHere's how each letter was shifted:\n\ng -> y (shifted 12 places forward)\no -> b\no -> b\nd -> q\nd -> q\ne -> m\ne -> m\nd -> q\ns -> y\nb -> j\nr -> f\ni -> m\nn -> q\ng -> y\nj -> m\no -> q\ny -> y",
+        "gold": "saap pqqpe nduzs vak"
+    },
+    "76": {
+        "input": "embrace the unknown",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nembrace the unknownassistant\n\nTo encode the text \"embrace the unknown\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: e m b r a c e t h e u n k n o w n\nEncoded text: q y n p x l w m l v y p a o l b x\n\nHere's how it works:\n\n* e -> q (shift 12 positions forward)\n* m -> y\n* b -> n\n* r -> p\n* a -> x\n* c -> l\n* e -> w\n* t -> m\n* h -> l\n* e -> v\n* u -> y\n* n -> p\n* k -> a\n* n -> o\n* o -> l\n* w -> b\n* n -> x",
+        "gold": "qyndmoq ftq gzwzaiz"
+    },
+    "77": {
+        "input": "chasing your dreams",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nchasing your dreamsassistant\n\nTo encode the text \"chasing your dreams\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: c-h-a-s-i-n-g-y-o-u-r-d-r-e-a-m-s\nEncoded text: o-w-l-f-x-v-p-m-a-t-b-f-w-l-f-n-w\n\nHere's the step-by-step encoding process:\n\nc -> o (shift 12 places forward)\nh -> w\na -> l\ns -> x\ni -> v\nn -> p\ng -> m\ny -> a\no -> l\nu -> t\nr -> b\nd -> f\nr -> w\ne -> l\na -> n\nm -> w\ns -> f",
+        "gold": "otmeuzs kagd pdqmye"
+    },
+    "78": {
+        "input": "walk in someone else’s shoes",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nwalk in someone else’s shoesassistant\n\nTo encode the text \"walk in someone else's shoes\" with a Caesar cipher shift of 12, I'll replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:\n\n\"walk\" becomes \"zjxy\"\n\"in\" becomes \"vy\"\n\"someone\" becomes \"tqgpdq\"\n\"else's\" becomes \"kho's\"\n\"shoes\" becomes \"xvqqf\"\n\nThe encoded text is: \"zjxy vy tqgpdq kho's xvqqf\"",
+        "gold": "imxw uz eayqazq qxeq’e etaqe"
+    },
+    "79": {
+        "input": "finding peace within",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nfinding peace withinassistant\n\nTo encode the text \"finding peace within\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: finding peace within\nEncoded text: xylqhph dqwb zlqgh\n\nHere's the step-by-step encoding process:\n\nf -> x (shift 12 places forward)\ni -> y\nn -> q\nd -> h\ni -> y\nn -> q\ng -> h\n(space remains unchanged)\np -> x\ne -> q\na -> l\nc -> o\ne -> q\n(space remains unchanged)\nw -> z\ni -> y\nt -> h\nh -> q\ni -> y\nn -> q",
+        "gold": "ruzpuzs bqmoq iuftuz"
+    },
+    "80": {
+        "input": "laughter is the best medicine",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nlaughter is the best medicineassistant\n\nTo encode the text using a Caesar cipher with a shift of 12, I'll replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:\n\n\"Laughter\" becomes \"Yjxqjoh\"\n\"is\" becomes \"vy\"\n\"the\" becomes \"gur\"\n\"best\" becomes \"orfg\"\n\"medicine\" becomes \"zdwlrqhg\"\n\nSo the encoded text is: \"Yjxqjoh vy Gur orfg Zdwlrqhg\"",
+        "gold": "xmgstfqd ue ftq nqef yqpuouzq"
+    },
+    "81": {
+        "input": "reach for the stars",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nreach for the starsassistant\n\nTo encode the text \"reach for the stars\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: r-e-a-c-h-f-o-r-t-h-e-s-t-a-r-s\nEncoded text: y-k-l-q-w-x-v-y-q-w-k-l-w-y-q-w\n\nHere's the step-by-step encoding process:\n\nr -> y (shift 12 positions forward)\ne -> k\na -> l\nc -> q\nh -> w\nf -> x\no -> v\nr -> y\nt -> q\nh -> w\ne -> k\ns -> w\nt -> q\na -> l\nr -> y\ns -> w",
+        "gold": "dqmot rad ftq efmde"
+    },
+    "82": {
+        "input": "beauty in simplicity",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nbeauty in simplicityassistant\n\nTo encode the text \"beauty in simplicity\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: b e a u t y i n s i m p l i c i t y\nEncoded text: o l w f m x y k a w l p m x y k v w l\n\nHere's how each letter was shifted:\n\n* b -> o (shifted 12 places forward)\n* e -> l\n* a -> w\n* u -> f\n* t -> m\n* y -> x\n* i -> k\n* n -> a\n* s -> w\n* i -> k\n* m -> p\n* p -> l\n* l -> m\n* i -> x\n* c -> y\n* i -> k\n* t -> v\n* y -> w\n* l -> o\n* i -> k\n* c -> y\n* i -> k\n* t -> v\n* y -> w",
+        "gold": "nqmgfk uz euybxuoufk"
+    },
+    "83": {
+        "input": "time heals all wounds",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\ntime heals all woundsassistant\n\nTo encode the text \"time heals all wounds\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: time heals all wounds\nEncoded text: ymnf yldof bmm xqfof\n\nHere's the step-by-step encoding process:\n\nt -> y (shift 12 positions forward)\ni -> m\nm -> n\ne -> f\n(space remains unchanged)\nh -> y\ne -> l\na -> d\nl -> o\ns -> f\n(space remains unchanged)\na -> d\nl -> o\nl -> f\n(space remains unchanged)\nw -> x\no -> q\nu -> f\nn -> f\nd -> s\ns -> f",
+        "gold": "fuyq tqmxe mxx iagzpe"
+    },
+    "84": {
+        "input": "patience is a virtue",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\npatience is a virtueassistant\n\nTo encode the text \"patience is a virtue\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: p a t i e n c e i s a v i r t u e\nEncoded text:  x y l w m p n o g m x y w m s l w\n\nHere's how each letter was shifted:\n\np -> x (p is the 16th letter, so we add 12 to get 28, which is x)\na -> y (a is the 1st letter, so we add 12 to get 13, which is m, but since we're shifting 12, we wrap around to y)\nt -> l (t is the 20th letter, so we add 12 to get 32, which is l, but since we're shifting 12, we wrap around to l)\ni -> w (i is the 9th letter, so we add 12 to get 21, which is u, but since we're shifting 12, we wrap around to w)\ne -> m (e is the 5th letter, so we add 12 to get 17, which is q, but since we're shifting 12, we wrap around to m)\nn -> p (n is the 14th letter, so we add 12 to get 26, which is z, but since we're shifting 12, we wrap around to p)\nc -> o (c is the 3rd letter, so we add 12 to get 15, which is o)\ne -> g (e is the 5th letter, so we add 12 to get 17, which is q, but since we're shifting 12, we wrap around to g)\ni -> m (i is the 9th letter, so we add 12 to get 21, which is u, but since we're shifting 12, we wrap around to m)\ns -> x (s is the 19th letter, so we add 12 to get 31, which is x)\na -> y (a is the 1st letter, so we add 12 to get 13, which is m, but since we're shifting 12, we wrap around to y)\nv -> w (v is the 22nd letter, so we add 12 to get 34, which is w, but since we're shifting 12, we wrap around to w)\ni -> m (i is the 9th letter, so we add 12 to get 21, which is u, but since we're shifting 12, we wrap around to m)\nr -> s (r is the 18th letter, so we add 12 to get 30, which is s)\nt -> l (t is the 20th letter, so we add 12 to get 32, which is l, but since we're shifting 12, we wrap around to l)\nu -> w (u is the 21st letter, so we add 12 to get 33, which is w)\ne -> m (e is the 5th letter, so we add 12 to get 17, which is q, but since we're shifting 12, we wrap around to m)\n\nThe encoded text is: x y l w m p n o g m x y w m s l w",
+        "gold": "bmfuqzoq ue m hudfgq"
+    },
+    "85": {
+        "input": "cherish the little moments",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\ncherish the little momentsassistant\n\nTo encode the text to a Caesar cipher with a shift of 12, I'll replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:\n\n\"cherish the little moments\"\n\nbecomes:\n\n\"yhwlriv wkh wklvh prphqwv\"\n\nHere's the breakdown:\n\n* c -> y (shift 12 positions ahead)\n* h -> w\n* e -> q\n* r -> y\n* i -> w\n* s -> y\n* h -> w\n*  (space remains unchanged)\n* t -> w\n* h -> w\n* e -> q\n*  (space remains unchanged)\n* l -> y\n* i -> w\n* t -> w\n* t -> w\n* l -> y\n* e -> q\n*  (space remains unchanged)\n* m -> y\n* o -> q\n* m -> y\n* e -> q\n* n -> y\n* t -> w\n* s -> y",
+        "gold": "otqduet ftq xuffxq yayqzfe"
+    },
+    "86": {
+        "input": "turning over a new leaf",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nturning over a new leafassistant\n\nTo encode the text \"turning over a new leaf\" with a Caesar cipher shift of 12, I'll replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:\n\n\"turning\" becomes \"gurpening\"\n\"over\" becomes \"bire\"\n\"a\" becomes \"n\"\n\"new\" becomes \"arj\"\n\"leaf\" becomes \"ynht\"\n\nSo the encoded text is: \"gurpening bire n arj ynht\"",
+        "gold": "fgdzuzs ahqd m zqi xqmr"
+    },
+    "87": {
+        "input": "actions speak louder than words",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nactions speak louder than wordsassistant\n\nTo encode the text using a Caesar cipher with a shift of 12, I'll replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:\n\nnfyrfne frperg zlfgvb jnqrf\n\nHere's the step-by-step encoding process:\n\n* a -> n (a + 12 = n)\n* c -> o\n* t -> f\n* i -> y\n* o -> l\n* n -> f\n* s -> f\n* p -> r\n* e -> r\n* a -> n\n* k -> z\n* l -> f\n* o -> l\n* u -> j\n* d -> n\n* e -> r\n* r -> f\n* t -> f\n* h -> j\n* a -> n\n* n -> f\n* w -> l\n* o -> f\n* r -> r\n* d -> n\n* s -> f",
+        "gold": "mofuaze ebqmw xagpqd ftmz iadpe"
+    },
+    "88": {
+        "input": "nurture your relationships",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nnurture your relationshipsassistant\n\nTo encode the text \"nurture your relationships\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: n u r t u r e y o u r r e l a t i o n s h i p s\nEncoded text:  z g y x z y m l b g y z y m o l w y v k p m r y",
+        "gold": "zgdfgdq kagd dqxmfuazetube"
+    },
+    "89": {
+        "input": "every cloud has a silver lining",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nevery cloud has a silver liningassistant\n\nTo encode the text to a Caesar cipher with a shift of 12, I'll replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:\n\n\"every\" becomes \"rjyzr\"\n\"cloud\" becomes \"nwbud\"\n\"has\" becomes \"kbu\"\n\"a\" becomes \"n\"\n\"silver\" becomes \"zjyreb\"\n\"lining\" becomes \"nvyqnl\"\n\nThe encoded text is: \"rjyzr nwbud kbu n zjyreb nvyqnl\"",
+        "gold": "qhqdk oxagp tme m euxhqd xuzuzs"
+    },
+    "90": {
+        "input": "kindness costs nothing",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nkindness costs nothingassistant\n\nTo encode the text \"kindness costs nothing\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: kindness costs nothing\nEncoded text: yvccvkpi ujggt yqtnsl\n\nHere's the step-by-step encoding process:\n\nk -> y (shift 12 places forward)\ni -> v\nn -> c\nd -> y\nn -> c\ne -> v\ns -> k\ns -> k\nc -> y\no -> u\ns -> k\nt -> g\ns -> k\nn -> c\no -> u\nt -> g\nh -> y\ni -> v\nn -> c\ng -> y",
+        "gold": "wuzpzqee oaefe zaftuzs"
+    },
+    "91": {
+        "input": "a friend in need is a friend indeed",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\na friend in need is a friend indeedassistant\n\nTo encode the text using a Caesar cipher with a shift of 12, I'll replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:\n\nm wyvifk zj zj wyvifk zj wyvifk\n\nHere's the step-by-step encoding process:\n\na -> m (a + 12 = m)\nf -> s (f + 12 = s)\nr -> u (r + 12 = u)\ni -> w (i + 12 = w)\ne -> q (e + 12 = q)\nn -> u (n + 12 = u)\nd -> k (d + 12 = k)\ni -> w (i + 12 = w)\ns -> y (s + 12 = y)\nn -> u (n + 12 = u)\ne -> q (e + 12 = q)\ne -> q (e + 12 = q)\nd -> k (d + 12 = k)\ni -> w (i + 12 = w)\ns -> y (s + 12 = y)\na -> m (a + 12 = m)\nf -> s (f + 12 = s)\nr -> u (r + 12 = u)\ni -> w (i + 12 = w)\ne -> q (e + 12 = q)\nn -> u (n + 12 = u)\nd -> k (k + 12 = k)\ne -> q (e + 12 = q)\ne -> q (e + 12 = q)\nd -> k (d + 12 = k)\n\nThe encoded text is: m wyvifk zj zj wyvifk zj wyvifk",
+        "gold": "m rduqzp uz zqqp ue m rduqzp uzpqqp"
+    },
+    "92": {
+        "input": "believe in the future",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nbelieve in the futureassistant\n\nTo encode the text \"believe in the future\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 places forward in the alphabet. Here's the encoded text:\n\nOriginal text: believe in the future\nEncoded text: xlylbqg wklv wkh ixqgdph\n\nHere's the step-by-step encoding process:\n\nb -> x (shift 12 places forward)\ne -> q\nl -> y\ni -> w\ne -> q\nv -> g\ne -> q\n(space remains unchanged)\ni -> w\nn -> k\n(space remains unchanged)\nt -> w\nh -> k\ne -> q\n(space remains unchanged)\nf -> x\nu -> w\nt -> w\nu -> w\nr -> i\ne -> q",
+        "gold": "nqxuqhq uz ftq rgfgdq"
+    },
+    "93": {
+        "input": "learning from mistakes",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nlearning from mistakesassistant\n\nTo encode the text \"learning from mistakes\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 places forward in the alphabet. Here's how it works:\n\n1. learning -> \n   - l -> o (since l is the 12th letter, we move 12 places forward, wrapping around the alphabet if necessary)\n   - e -> q\n   - a -> m\n   - r -> u\n   - n -> t\n   - i -> y\n   - n -> t\n   - g -> o\n\nSo, \"learning\" becomes \"oqmutyto\".\n\n2. from ->\n   - f -> s\n   - r -> u\n   - o -> q\n   - m -> y\n\nSo, \"from\" becomes \"suqy\".\n\n3. mistakes ->\n   - m -> o\n   - i -> y\n   - s -> u\n   - t -> o\n   - a -> m\n   - k -> w\n   - e -> q\n   - s -> u\n\nSo, \"mistakes\" becomes \"oyuomwqu\".\n\nPutting it all together, \"learning from mistakes\" encoded with a Caesar cipher and a shift of 12 becomes \"oqmutyto suqy oyuomwqu\".",
+        "gold": "xqmdzuzs rday yuefmwqe"
+    },
+    "94": {
+        "input": "a heart full of gratitude",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\na heart full of gratitudeassistant\n\nTo encode the text \"a heart full of gratitude\" with a Caesar cipher shift of 12, we need to shift each letter 12 positions forward in the alphabet.\n\nHere's the encoded text:\n\nm wyvif ymnx nx pszeqhli\n\nHere's the step-by-step encoding process:\n\n* a -> m (shift 12 positions forward)\n* h -> w\n* e -> q\n* a -> m\n* r -> y\n* t -> w\n* f -> y\n* u -> m\n* l -> n\n* l -> n\n* o -> x\n* f -> y\n* g -> p\n* r -> y\n* a -> m\n* t -> w\n* i -> n\n* t -> w\n* u -> m\n* d -> q\n* e -> q",
+        "gold": "m tqmdf rgxx ar sdmfufgpq"
+    },
+    "95": {
+        "input": "love conquers all",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nlove conquers allassistant\n\nTo encode the text \"love conquers all\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 positions forward in the alphabet. Here's the encoded text:\n\nOriginal text: l o v e c o n q u e r s a l l\nEncoded text: y f m x w o l p z w k h w o l l\n\nHere's how each letter was shifted:\n\n* l -> y (shifted 12 positions forward)\n* o -> w\n* v -> x\n* e -> m\n* c -> o\n* o -> w\n* n -> l\n* q -> z\n* u -> k\n* e -> m\n* r -> w\n* s -> h\n* a -> l\n* l -> l\n* l -> l",
+        "gold": "xahq oazcgqde mxx"
+    },
+    "96": {
+        "input": "appreciate the small things",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nappreciate the small thingsassistant\n\nTo encode the text to a Caesar cipher with a shift of 12, I'll replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:\n\nt -> w\nh -> g\ne -> q\ns -> g\nm -> y\na -> m\nl -> x\nl -> x\nt -> w\nh -> g\ni -> y\nn -> u\ng -> o\ns -> g\n\nThe encoded text is: w g q y m x x w g y u o g",
+        "gold": "mbbdqoumfq ftq eymxx ftuzse"
+    },
+    "97": {
+        "input": "change is the only constant",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nchange is the only constantassistant\n\nTo encode the text using a Caesar cipher with a shift of 12, I'll replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:\n\n\"change\" becomes \"nfyqev\"\n\"is\" becomes \"vy\"\n\"the\" becomes \"gur\"\n\"only\" becomes \"bayl\"\n\"constant\" becomes \"pbqrzvah\"\n\nSo the encoded text is: \"nfyqev vy gur bayl pbqrzvah\"",
+        "gold": "otmzsq ue ftq azxk oazefmzf"
+    },
+    "98": {
+        "input": "hard work pays off",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nhard work pays offassistant\n\nTo encode the text \"hard work pays off\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 positions forward in the alphabet. Here's the encoded text:\n\nh -> e (since h is the 8th letter, and 8 + 12 = 20, which corresponds to the letter T, but we'll use the 5th letter from the end, which is E)\na -> m\nr -> u\nd -> p\n(space remains unchanged)\nw -> k\no -> q\nr -> u\nk -> x\n(space remains unchanged)\np -> k\na -> m\ny -> g\ns -> f\n(space remains unchanged)\no -> q\nf -> l\nf -> l\n\nThe encoded text is: \"emup kqukx kmglql\"",
+        "gold": "tmdp iadw bmke arr"
+    },
+    "99": {
+        "input": "follow your heart",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12.user\n\nfollow your heartassistant\n\nTo encode the text \"follow your heart\" with a Caesar cipher and a shift of 12, we'll shift each letter 12 places forward in the alphabet. Here's the encoded text:\n\nOriginal: f o l l o w y o u r h e a r t\nEncoded: k y r r y m w i z w u j w l i\n\nHere's how it works:\n\n- f becomes k (f is the 6th letter, so we add 12 to get the 18th letter, which is r, but since we're looking for the 18th letter and the alphabet only has 26 letters, we wrap around to the beginning, so 18 - 26 = -8, and the 6th letter is f, so we count 8 letters forward from f to get k)\n- o becomes y\n- l becomes r\n- l becomes r\n- o becomes y\n- w becomes m\n- y becomes i\n- o becomes w\n- u becomes z\n- r becomes u\n- h becomes j\n- e becomes w\n- a becomes l\n- r becomes i\n- t becomes w",
+        "gold": "raxxai kagd tqmdf"
+    }
+}

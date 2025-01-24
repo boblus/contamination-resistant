@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "olksad twuqwej",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nolksad twuqwejassistant\n\nrqohud vxwudjh",
+        "gold": "ronvdg wzxtzhm"
+    },
+    "1": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nbazolq kpwari uyqwerassistant\n\nedvorf odwklv zdwkhq",
+        "gold": "edcrot nszdul xbtzhu"
+    },
+    "2": {
+        "input": "rakibo zlmqwe",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nrakibo zlmqweassistant\n\ntdukc ebqvb",
+        "gold": "udnler coptzh"
+    },
+    "3": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nyuiodaf ddsaok hdassistant\n\nbczkcqd yrrnjg zb",
+        "gold": "bxlrgdi ggvdrn kg"
+    },
+    "4": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nopiqwer iuxzqwe kjrieqassistant\n\nlsjdwlr huvylqf jgqdqc",
+        "gold": "rsltzhu lxactzh nmulht"
+    },
+    "5": {
+        "input": "fiorst zxnvqwe",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nfiorst zxnvqweassistant\n\nirorwu cxpvqwf",
+        "gold": "ilruvw caqytzh"
+    },
+    "6": {
+        "input": "blipzo akwer sui",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nblipzo akwer suiassistant\n\neolsb dqxzh vxw",
+        "gold": "eolscr dnzhu vxl"
+    },
+    "7": {
+        "input": "brifta volek drifty",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nbrifta volek driftyassistant\n\nesloh zhpdq hvwulhq",
+        "gold": "euliwd yrohn guliwb"
+    },
+    "8": {
+        "input": "gremplin zorfyl kout",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\ngremplin zorfyl koutassistant\n\njoklebh xqdxsk jnti",
+        "gold": "juhpsolq cruibo nrxw"
+    },
+    "9": {
+        "input": "chipda vincal jantroff",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nchipda vincal jantroffassistant\n\nehodl zhoolc lqkdwrr",
+        "gold": "fklsgd ylqfdo mdqwurii"
+    },
+    "10": {
+        "input": "siwind ferplom kilter",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nsiwind ferplom kilterassistant\n\nvbodq iruqolq nlwkhqw",
+        "gold": "vlzlqg ihusorp nlowhu"
+    },
+    "11": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\niiowe qwler povnf xazwassistant\n\nkkqex txulhq sxqwr fdzb",
+        "gold": "llrzh tzohu sryqi adcz"
+    },
+    "12": {
+        "input": "qwlar opivn mdtar",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nqwlar opivn mdtarassistant\n\ntcoxq sxpdq qdwud",
+        "gold": "tzodu rslyq pgwdu"
+    },
+    "13": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nriupt bcxnv poasd qwerassistant\n\ntuzlw fdqwb qdwfr txzi",
+        "gold": "ulxsw efaqy srdvg tzhu"
+    },
+    "14": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nklzwo mnbvc qwetoassistant\n\nYour input text \"klzwo mnbvc qweto\" is not the original text to be encoded. It seems like it's already encoded.\n\nIf you want to encode a text with a Caesar cipher with a shift of 3, please provide the original text. I'll be happy to help you with that.",
+        "gold": "noczr pqeyf tzhwr"
+    },
+    "15": {
+        "input": "rewquy savcx wepoi",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nrewquy savcx wepoiassistant\n\ntuxwb fdwbz xzqoi",
+        "gold": "uhztxb vdyfa zhsrl"
+    },
+    "16": {
+        "input": "mngtr opqwe laskf",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nmngtr opqwe laskfassistant\n\nlkgos nojvd jrizh",
+        "gold": "pqjwu rstzh odvni"
+    },
+    "17": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\npiqwo asdur mxcvn qwerassistant\n\nThe encoded text is:\n\nslqwv dqgur pxewz txer",
+        "gold": "sltzr dvgxu pafyq tzhu"
+    },
+    "18": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nieour qwert asdrep mlpokassistant\n\nkhoor zdwkhv dqwhuh orurp",
+        "gold": "lhrxu tzhuw dvguhs posrn"
+    },
+    "19": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\npoieo xcvbn mwert qlpasassistant\n\nswlrq ghfdu qzhuf udqwlr",
+        "gold": "srlhr afyeq pzhuw tosdv"
+    },
+    "20": {
+        "input": "weruvx piwoew laors",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nweruvx piwoew laorsassistant\n\nzhuwxv slwrev odurw",
+        "gold": "zhuxya slzrhz odruv"
+    },
+    "21": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nxncuz weqrt plois qweroiassistant\n\nabcde fghij klmno pqrst",
+        "gold": "aqfxc zhtuw sorlv tzhurl"
+    },
+    "22": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\newrqo asdifj qwertassistant\n\nbuwbq fgklh ywihu",
+        "gold": "hzutr dvglim tzhuw"
+    },
+    "23": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nqweiu zxcvn mpore ploaqassistant\n\ntacgd jxluo kloqd knorw",
+        "gold": "tzhlx cafyq psruh sordt"
+    },
+    "24": {
+        "input": "zxcme jter",
+        "shift": 3,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.user\n\nzxcme jterassistant\n\ncfdq hwyud",
+        "gold": "cafph mwhu"
+    },
+    "25": {
+        "input": "olksad twuqwej",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nolksad twuqwejassistant\n\nvqwxgb xzdfxf",
+        "gold": "urqygj zcawckp"
+    },
+    "26": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nbazolq kpwari uyqwerassistant\n\ngfyxlu npdwkh zwbzru",
+        "gold": "hgfurw qvcgxo aewckx"
+    },
+    "27": {
+        "input": "rakibo zlmqwe",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nrakibo zlmqweassistant\n\nvgynez ctbqya",
+        "gold": "xgqohu frswck"
+    },
+    "28": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nyuiodaf ddsaok hdassistant\n\nedwbhg zbbnjg zb",
+        "gold": "eaoujgl jjyguq nj"
+    },
+    "29": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nopiqwer iuxzqwe kjrieqassistant\n\nYour encoded text is: \"opiqwer iuxzqwe kjrieq\"\n\nWith a shift of 6, the encoded text becomes:\n\n\"tgdqjpd hswypvd jgqdpq\"",
+        "gold": "uvowckx oadfwck qpxokw"
+    },
+    "30": {
+        "input": "fiorst zxnvqwe",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nfiorst zxnvqweassistant\n\nlwkhuw bdfopwb",
+        "gold": "louxyz fdtbwck"
+    },
+    "31": {
+        "input": "blipzo akwer sui",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nblipzo akwer suiassistant\n\nhsoyr igxzo ylwj",
+        "gold": "hrovfu gqckx yao"
+    },
+    "32": {
+        "input": "brifta volek drifty",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nbrifta volek driftyassistant\n\nI'm happy to help! However, I don't see any text to encode. You provided the cipher text \"brifta volek drifty\" instead.\n\nIf you'd like to encode a different text, please provide the original text, and I'll be happy to help you with the Caesar cipher with a shift of 6.",
+        "gold": "hxolzg burkq jxolze"
+    },
+    "33": {
+        "input": "gremplin zorfyl kout",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\ngremplin zorfyl koutassistant\n\nmhyqtwqf aszjyl qtwv",
+        "gold": "mxksvrot fuxler quaz"
+    },
+    "34": {
+        "input": "chipda vincal jantroff",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nchipda vincal jantroffassistant\n\nHowlb pdqwkh nxwlrff",
+        "gold": "inovjg botigr pgtzxull"
+    },
+    "35": {
+        "input": "siwind ferplom kilter",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nsiwind ferplom kilterassistant\n\nahmxld sdwbqrb nxwklrq",
+        "gold": "yocotj lkxvrus qorzkx"
+    },
+    "36": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\niiowe qwler povnf xazwassistant\n\nahpxo txlwb sxqzh",
+        "gold": "oouck wcrkx vubtl dgfc"
+    },
+    "37": {
+        "input": "qwlar opivn mdtar",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nqwlar opivn mdtarassistant\n\nbcjzk nhqmu lcszq",
+        "gold": "wcrgx uvobt sjzgx"
+    },
+    "38": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nriupt bcxnv poasd qwerassistant\n\naehtu fgzmx ykzgd yxzkc",
+        "gold": "xoavz hidtb vugyj wckx"
+    },
+    "39": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nklzwo mnbvc qwetoassistant\n\nThe encoded text is:\n\nrjxga ojqai xzqna",
+        "gold": "qrfcu sthbi wckzu"
+    },
+    "40": {
+        "input": "rewquy savcx wepoi",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nrewquy savcx wepoiassistant\n\naubtu dbxdu xfqoi",
+        "gold": "xkcwae ygbid ckvuo"
+    },
+    "41": {
+        "input": "mngtr opqwe laskf",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nmngtr opqwe laskfassistant\n\nSince the shift is 6, I'll apply the Caesar cipher to the original text. However, I don't see the original text. Please provide it, and I'll be happy to help.\n\nIf you meant to provide the original text as \"mngtr opqwe laskf\", I'll assume it's already encoded and won't apply the Caesar cipher again.",
+        "gold": "stmzx uvwck rgyql"
+    },
+    "42": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\npiqwo asdur mxcvn qwerassistant\n\nYour encoded text is: \"piqwo asdur mxcvn qwer\"",
+        "gold": "vowcu gyjax sdibt wckx"
+    },
+    "43": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nieour qwert asdrep mlpokassistant\n\nqayovw xjwyhu gzxqev txwsl",
+        "gold": "okuax wckxz gyjxkv srvuq"
+    },
+    "44": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\npoieo xcvbn mwert qlpasassistant\n\nvulul aiygf sxhuf yjxfs",
+        "gold": "vuoku dibht sckxz wrvgy"
+    },
+    "45": {
+        "input": "weruvx piwoew laors",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nweruvx piwoew laorsassistant\n\nbcdfy tbxfsf qczbtf",
+        "gold": "ckxabd vocukc rguxy"
+    },
+    "46": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nxncuz weqrt plois qweroiassistant\n\nYour encoded text is: \"xncuz weqrt plois qweroi\"",
+        "gold": "dtiaf ckwxz vruoy wckxuo"
+    },
+    "47": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\newrqo asdifj qwertassistant\n\naiuwx gkhtl yxuwt",
+        "gold": "kcxwu gyjolp wckxz"
+    },
+    "48": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nqweiu zxcvn mpore ploaqassistant\n\nayhxu ikzru wgxlu wgxlu",
+        "gold": "wckoa fdibt svuxk vrugw"
+    },
+    "49": {
+        "input": "zxcme jter",
+        "shift": 6,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.user\n\nzxcme jterassistant\n\nehsbg owfwb",
+        "gold": "fdisk pzkx"
+    },
+    "50": {
+        "input": "olksad twuqwej",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nolksad twuqwejassistant\n\nxwmxlb yjzxfwf",
+        "gold": "xutbjm cfdzfns"
+    },
+    "51": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nbazolq kpwari uyqwerassistant\n\njxgkq hntczj tpxqsf",
+        "gold": "kjixuz tyfjar dhzfna"
+    },
+    "52": {
+        "input": "rakibo zlmqwe",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nrakibo zlmqweassistant\n\nxgncjw ekuqx",
+        "gold": "ajtrkx iuvzfn"
+    },
+    "53": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nyuiodaf ddsaok hdassistant\n\njxgbcz aayzlnj zg",
+        "gold": "hdrxmjo mmbjxt qm"
+    },
+    "54": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nopiqwer iuxzqwe kjrieqassistant\n\ntuvyjgf hzmlgf aefslf",
+        "gold": "xyrzfna rdgizfn tsarnz"
+    },
+    "55": {
+        "input": "fiorst zxnvqwe",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nfiorst zxnvqweassistant\n\njyovt {ehx{er",
+        "gold": "orxabc igwezfn"
+    },
+    "56": {
+        "input": "blipzo akwer sui",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nblipzo akwer suiassistant\n\njxqfu jxgmu yku",
+        "gold": "kuryix jtfna bdr"
+    },
+    "57": {
+        "input": "brifta volek drifty",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nbrifta volek driftyassistant\n\nxwklwb pdnkh lwklwb",
+        "gold": "karocj exunt maroch"
+    },
+    "58": {
+        "input": "gremplin zorfyl kout",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\ngremplin zorfyl koutassistant\n\nxwduobqj gdwkhq whvw",
+        "gold": "panvyurw ixaohu txdc"
+    },
+    "59": {
+        "input": "chipda vincal jantroff",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nchipda vincal jantroffassistant\n\npoglw jxqnhk qjxujx",
+        "gold": "lqrymj erwlju sjwcaxoo"
+    },
+    "60": {
+        "input": "siwind ferplom kilter",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nsiwind ferplom kilterassistant\n\nxjxqa jxqfslq yljqfl",
+        "gold": "brfrwm onayuxv trucna"
+    },
+    "61": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\niiowe qwler povnf xazwassistant\n\nssxqa yjxfs sxzjy cfbhf",
+        "gold": "rrxfn zfuna yxewo gjif"
+    },
+    "62": {
+        "input": "qwlar opivn mdtar",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nqwlar opivn mdtarassistant\n\nzjxob ujygf qjxgf",
+        "gold": "zfuja xyrew vmcja"
+    },
+    "63": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nriupt bcxnv poasd qwerassistant\n\nxgqgt fjyku yjcvb ujxyt",
+        "gold": "ardyc klgwe yxjbm zfna"
+    },
+    "64": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nklzwo mnbvc qwetoassistant\n\njkyvn mnaub pvdsq",
+        "gold": "tuifx vwkel zfncx"
+    },
+    "65": {
+        "input": "rewquy savcx wepoi",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nrewquy savcx wepoiassistant\n\nxjwyg aivt htrbh",
+        "gold": "anfzdh bjelg fnyxr"
+    },
+    "66": {
+        "input": "mngtr opqwe laskf",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nmngtr opqwe laskfassistant\n\nrwyhu vxuqd yjxpi",
+        "gold": "vwpca xyzfn ujbto"
+    },
+    "67": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\npiqwo asdur mxcvn qwerassistant\n\njgtns zckqr lwkmu otsr",
+        "gold": "yrzfx jbmda vglew zfna"
+    },
+    "68": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nieour qwert asdrep mlpokassistant\n\nqscwr dwiwhv gdwkhq txwud",
+        "gold": "rnxda zfnac jbmany vuyxt"
+    },
+    "69": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\npoieo xcvbn mwert qlpasassistant\n\nxjwjw gdwkh yqfkh ywduw",
+        "gold": "yxrnx glekw vfnac zuyjb"
+    },
+    "70": {
+        "input": "weruvx piwoew laors",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nweruvx piwoew laorsassistant\n\ndqkthq jxkthq ehkkr",
+        "gold": "fnadeg yrfxnf ujxab"
+    },
+    "71": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nxncuz weqrt plois qweroiassistant\n\nHere is the encoded text:\n\nkldtw vdwqr nkohr vdwqh",
+        "gold": "gwldi fnzac yuxrb zfnaxr"
+    },
+    "72": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\newrqo asdifj qwertassistant\n\nThe encoded text is:\n\n\"hxwud jxkivl yxwkh\"",
+        "gold": "nfazx jbmros zfnac"
+    },
+    "73": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nqweiu zxcvn mpore ploaqassistant\n\njxu ghfd cekor ekhza",
+        "gold": "zfnrd iglew vyxan yuxjz"
+    },
+    "74": {
+        "input": "zxcme jter",
+        "shift": 9,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.user\n\nzxcme jterassistant\n\ngikd cehl",
+        "gold": "iglvn scna"
+    },
+    "75": {
+        "input": "olksad twuqwej",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nolksad twuqwejassistant\n\nyrfhfy xjhtqj",
+        "gold": "axwemp figciqv"
+    },
+    "76": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nbazolq kpwari uyqwerassistant\n\nyfsjhi ohzljv tgfqev",
+        "gold": "nmlaxc wbimdu gkciqd"
+    },
+    "77": {
+        "input": "rakibo zlmqwe",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nrakibo zlmqweassistant\n\nxjwfy ymsya",
+        "gold": "dmwuna lxyciq"
+    },
+    "78": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nyuiodaf ddsaok hdassistant\n\njgfsed zbbnjg zb",
+        "gold": "kguapmr ppemaw tp"
+    },
+    "79": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nopiqwer iuxzqwe kjrieqassistant\n\nYour encoded text is: \"opiqwer iuxzqwe kjrieq\"\n\nWith a shift of 12, the encoded text becomes:\n\n\"tvygjcv htrcpgi jgudpc\"",
+        "gold": "abuciqd ugjlciq wvduqc"
+    },
+    "80": {
+        "input": "fiorst zxnvqwe",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nfiorst zxnvqweassistant\n\nwklwb pdqzhwb",
+        "gold": "ruadef ljzhciq"
+    },
+    "81": {
+        "input": "blipzo akwer sui",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nblipzo akwer suiassistant\n\nymkxzv ymxlm xym",
+        "gold": "nxubla mwiqd egu"
+    },
+    "82": {
+        "input": "brifta volek drifty",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nbrifta volek driftyassistant\n\nydvlu whgoh ydvlu",
+        "gold": "ndurfm haxqw pdurfk"
+    },
+    "83": {
+        "input": "gremplin zorfyl kout",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\ngremplin zorfyl koutassistant\n\ntvyqfhp ymnslm qfxf",
+        "gold": "sdqybxuz ladrkx wagf"
+    },
+    "84": {
+        "input": "chipda vincal jantroff",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nchipda vincal jantroffassistant\n\nykhil wklqh wkrjxwkh",
+        "gold": "otubpm huzomx vmzfdarr"
+    },
+    "85": {
+        "input": "siwind ferplom kilter",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nsiwind ferplom kilterassistant\n\nykjzlw wqykjkw ylqjkw",
+        "gold": "euiuzp rqdbxay wuxfqd"
+    },
+    "86": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\niiowe qwler povnf xazwassistant\n\nlltkr vjgtg otnah yfzp",
+        "gold": "uuaiq cixqd bahzr jmli"
+    },
+    "87": {
+        "input": "qwlar opivn mdtar",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nqwlar opivn mdtarassistant\n\nkxkja nhqfu jcvq",
+        "gold": "cixmd abuhz ypfmd"
+    },
+    "88": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nriupt bcxnv poasd qwerassistant\n\nThe encoded text is:\n\nykjgt ojxds yrbid ujxy",
+        "gold": "dugbf nojzh bamep ciqd"
+    },
+    "89": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nklzwo mnbvc qwetoassistant\n\nThe encoded text is:\n\ntgjxw hgfds ymnih",
+        "gold": "wxlia yznho ciqfa"
+    },
+    "90": {
+        "input": "rewquy savcx wepoi",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nrewquy savcx wepoiassistant\n\nkhoor zdqir ujxpi",
+        "gold": "dqicgk emhoj iqbau"
+    },
+    "91": {
+        "input": "mngtr opqwe laskf",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nmngtr opqwe laskfassistant\n\nThe encoded text is: \"mngtr\" becomes \"yhwbu\" and \"opqwe\" becomes \"tqyhf\" and \"laskf\" becomes \"nhwgd\".",
+        "gold": "yzsfd abciq xmewr"
+    },
+    "92": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\npiqwo asdur mxcvn qwerassistant\n\nThe encoded text is:\n\n\"Hello World This Test\"\n\nbecomes:\n\n\"piqwo asdur mxcvn qwer\"\n\nHowever, since you provided the encoded text, I will decode it instead:\n\n\"piqwo asdur mxcvn qwer\"\n\nbecomes:\n\n\"Hello World This Test\"\n\nIf you want to encode a different text, please provide it, and I'll be happy to help!",
+        "gold": "bucia mepgd yjohz ciqd"
+    },
+    "93": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nieour qwert asdrep mlpokassistant\n\ntqxxa ymnvy gzyvm uyktt",
+        "gold": "uqagd ciqdf mepdqb yxbaw"
+    },
+    "94": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\npoieo xcvbn mwert qlpasassistant\n\nThe encoded text is:\n\n\"poieo\" becomes \"wklkl\"\n\"xcvbn\" becomes \"aknbt\"\n\"mwert\" becomes \"zjwkh\"\n\"qlpas\" becomes \"xwofb\"\n\nThe cipher text is: wklkl aknbt zjwkh xwofb",
+        "gold": "bauqa johnz yiqdf cxbme"
+    },
+    "95": {
+        "input": "weruvx piwoew laors",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nweruvx piwoew laorsassistant\n\nkxqguv jxqguv kdvvh",
+        "gold": "iqdghj buiaqi xmade"
+    },
+    "96": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nxncuz weqrt plois qweroiassistant\n\nkbfjy tgdqf ohnkh tgdnh",
+        "gold": "jzogl iqcdf bxaue ciqdau"
+    },
+    "97": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\newrqo asdifj qwertassistant\n\nThe encoded text is:\n\n\"ewrqo\" becomes \"mxlmp\"\n\"asdifj\" becomes \"yfuiej\"\n\"qwerty\" becomes \"tqcfmu\"\n\nSo the cipher text is: mxlmp yfuiej tqcfmu",
+        "gold": "qidca mepurv ciqdf"
+    },
+    "98": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nqweiu zxcvn mpore ploaqassistant\n\nkxkx wjcx jgkxk jgkxk",
+        "gold": "ciqug ljohz ybadq bxamc"
+    },
+    "99": {
+        "input": "zxcme jter",
+        "shift": 12,
+        "output": "system\n\nEncode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.user\n\nzxcme jterassistant\n\nkmqeb ujyb",
+        "gold": "ljoyq vfqd"
+    }
+}

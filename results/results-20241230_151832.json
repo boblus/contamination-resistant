@@ -1,0 +1,602 @@
+{
+    "0": {
+        "input": "olksad twuqwej",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"ronvdg zztxzhm\"\n}",
+        "gold": "ronvdg wzxtzhm"
+    },
+    "1": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"edcror nszdul btrzhu\"\n}",
+        "gold": "edcrot nszdul xbtzhu"
+    },
+    "2": {
+        "input": "rakibo zlmqwe",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"udnler coptzh\"\n}",
+        "gold": "udnler coptzh"
+    },
+    "3": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"bxlrigd ggvdrn kg\"\n}",
+        "gold": "bxlrgdi ggvdrn kg"
+    },
+    "4": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"rsltzhu lxadtzh nmrldt\"\n}",
+        "gold": "rsltzhu lxactzh nmulht"
+    },
+    "5": {
+        "input": "fiorst zxnvqwe",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"ilruvw cznzyzh\"\n}",
+        "gold": "ilruvw caqytzh"
+    },
+    "6": {
+        "input": "blipzo akwer sui",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"ellscr dnzhu vxl\"\n}",
+        "gold": "eolscr dnzhu vxl"
+    },
+    "7": {
+        "input": "brifta volek drifty",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"eulfta yronh guliwb\"\n}",
+        "gold": "euliwd yrohn guliwb"
+    },
+    "8": {
+        "input": "gremplin zorfyl kout",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"juhpsolq cruibl nrxw\"\n}",
+        "gold": "juhpsolq cruibo nrxw"
+    },
+    "9": {
+        "input": "chipda vincal jantroff",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"fllsgd ylqfdo mdqwurii\"\n}",
+        "gold": "fklsgd ylqfdo mdqwurii"
+    },
+    "10": {
+        "input": "siwind ferplom kilter",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"vlzLqg ihusorP nlowhu\"\n}",
+        "gold": "vlzlqg ihusorp nlowhu"
+    },
+    "11": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"llrzh tzohu sryqi cdcz\"\n}",
+        "gold": "llrzh tzohu sryqi adcz"
+    },
+    "12": {
+        "input": "qwlar opivn mdtar",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"tzodu srvyn pgtdu\"\n}",
+        "gold": "tzodu rslyq pgwdu"
+    },
+    "13": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"ulxsw efaqy srvvg tzhu\"\n}",
+        "gold": "ulxsw efaqy srdvg tzhu"
+    },
+    "14": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"nobzr pqeyf txhwr\"\n}",
+        "gold": "noczr pqeyf tzhwr"
+    },
+    "15": {
+        "input": "rewquy savcx wepoi",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"uhztxb vdyfa zhsol\"\n}",
+        "gold": "uhztxb vdyfa zhsrl"
+    },
+    "16": {
+        "input": "mngtr opqwe laskf",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"pqjwu rsztf odvni\"\n}",
+        "gold": "pqjwu rstzh odvni"
+    },
+    "17": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"sltzr dvgxu pzcyq tzhu\"\n}",
+        "gold": "sltzr dvgxu pafyq tzhu"
+    },
+    "18": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"lhrxu tzhuw dvguhs porsz\"\n}",
+        "gold": "lhrxu tzhuw dvguhs posrn"
+    },
+    "19": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"srleh adyep pzhuw tnsdv\"\n}",
+        "gold": "srlhr afyeq pzhuw tosdv"
+    },
+    "20": {
+        "input": "weruvx piwoew laors",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"zhuyza slzrhz odruv\"\n}",
+        "gold": "zhuxya slzrhz odruv"
+    },
+    "21": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"anfxc zhtuw sorlu tzhuro\"\n}",
+        "gold": "aqfxc zhtuw sorlv tzhurl"
+    },
+    "22": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"hzutr dvglim tzhuw\"\n}",
+        "gold": "hzutr dvglim tzhuw"
+    },
+    "23": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"tzhlx azfyo psruh sordu\"\n}",
+        "gold": "tzhlx cafyq psruh sordt"
+    },
+    "24": {
+        "input": "zxcme jter",
+        "shift": 3,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"d\",\n    \"b\": \"e\",\n    \"c\": \"f\",\n    \"d\": \"g\",\n    \"e\": \"h\",\n    \"f\": \"i\",\n    \"g\": \"j\",\n    \"h\": \"k\",\n    \"i\": \"l\",\n    \"j\": \"m\",\n    \"k\": \"n\",\n    \"l\": \"o\",\n    \"m\": \"p\",\n    \"n\": \"q\",\n    \"o\": \"r\",\n    \"p\": \"s\",\n    \"q\": \"t\",\n    \"r\": \"u\",\n    \"s\": \"v\",\n    \"t\": \"w\",\n    \"u\": \"x\",\n    \"v\": \"y\",\n    \"w\": \"z\",\n    \"x\": \"a\",\n    \"y\": \"b\",\n    \"z\": \"c\"\n  },\n  \"cipher_text\": \"abfph mxhu\"\n}",
+        "gold": "cafph mwhu"
+    },
+    "25": {
+        "input": "olksad twuqwej",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"urqygj zcawcmp\"\n}",
+        "gold": "urqygj zcawckp"
+    },
+    "26": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"hgfurw qvxcxo ecycux\"\n}",
+        "gold": "hgfurw qvcgxo aewckx"
+    },
+    "27": {
+        "input": "rakibo zlmqwe",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"xgqour frsawc\"\n}",
+        "gold": "xgqohu frswck"
+    },
+    "28": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"eaojvgj jjyguq nj\"\n}",
+        "gold": "eaoujgl jjyguq nj"
+    },
+    "29": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"uvocc",
+        "gold": "uvowckx oadfwck qpxokw"
+    },
+    "30": {
+        "input": "fiorst zxnvqwe",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"loxtyz ddtbwck\"\n}",
+        "gold": "louxyz fdtbwck"
+    },
+    "31": {
+        "input": "blipzo akwer sui",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"hrovae gqxkx yao\"\n}",
+        "gold": "hrovfu gqckx yao"
+    },
+    "32": {
+        "input": "brifta volek drifty",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"hxolzg rubqk jxolze\"\n}",
+        "gold": "hxolzg burkq jxolze"
+    },
+    "33": {
+        "input": "gremplin zorfyl kout",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"mxksvrot fuxleq quaz\"\n}",
+        "gold": "mxksvrot fuxler quaz"
+    },
+    "34": {
+        "input": "chipda vincal jantroff",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"inovjg tosmgr pgtzuxll\"\n}",
+        "gold": "inovjg botigr pgtzxull"
+    },
+    "35": {
+        "input": "siwind ferplom kilter",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"yoctjt lkvruqs qorzkx\"\n}",
+        "gold": "yocotj lkxvrus qorzkx"
+    },
+    "36": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"oouck wbrkx vuttl dgfc\"\n}",
+        "gold": "oouck wcrkx vubtl dgfc"
+    },
+    "37": {
+        "input": "qwlar opivn mdtar",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"sbrgx urolx sjzgx\"\n}",
+        "gold": "wcrgx uvobt sjzgx"
+    },
+    "38": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"xouvz hdztb vugyj wckx\"\n}",
+        "gold": "xoavz hidtb vugyj wckx"
+    },
+    "39": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"qrbyu strbi wckzu\"\n}",
+        "gold": "qrfcu sthbi wckzu"
+    },
+    "40": {
+        "input": "rewquy savcx wepoi",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"xkcyua ygbi dkurou\"\n}",
+        "gold": "xkcwae ygbid ckvuo"
+    },
+    "41": {
+        "input": "mngtr opqwe laskf",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"stmxx uvwck rgymp\"\n}",
+        "gold": "stmzx uvwck rgyql"
+    },
+    "42": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"vmycu gyjat sdiar wcky\"\n}",
+        "gold": "vowcu gyjax sdibt wckx"
+    },
+    "43": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"okuxa wxcxz yujvkv sruuq\"\n}",
+        "gold": "okuax wckxz gyjxkv srvuq"
+    },
+    "44": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"voukue dihrt sckxz wrvguy\"\n}",
+        "gold": "vuoku dibht sckxz wrvgy"
+    },
+    "45": {
+        "input": "weruvx piwoew laors",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"ckxarb votukc rguxy\"\n}",
+        "gold": "ckxabd vocukc rguxy"
+    },
+    "46": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"dtiaf ckxvx rvouy wckxuo\"\n}",
+        "gold": "dtiaf ckwxz vruoy wckxuo"
+    },
+    "47": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"kxcxu gyjolp wcxzx\"\n}",
+        "gold": "kcxwu gyjolp wckxz"
+    },
+    "48": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"wckoa dzejt svuxk vrugw\"\n}",
+        "gold": "wckoa fdibt svuxk vrugw"
+    },
+    "49": {
+        "input": "zxcme jter",
+        "shift": 6,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"g\",\n    \"b\": \"h\",\n    \"c\": \"i\",\n    \"d\": \"j\",\n    \"e\": \"k\",\n    \"f\": \"l\",\n    \"g\": \"m\",\n    \"h\": \"n\",\n    \"i\": \"o\",\n    \"j\": \"p\",\n    \"k\": \"q\",\n    \"l\": \"r\",\n    \"m\": \"s\",\n    \"n\": \"t\",\n    \"o\": \"u\",\n    \"p\": \"v\",\n    \"q\": \"w\",\n    \"r\": \"x\",\n    \"s\": \"y\",\n    \"t\": \"z\",\n    \"u\": \"a\",\n    \"v\": \"b\",\n    \"w\": \"c\",\n    \"x\": \"d\",\n    \"y\": \"e\",\n    \"z\": \"f\"\n  },\n  \"cipher_text\": \"dti skxk\"\n}",
+        "gold": "fdisk pzkx"
+    },
+    "50": {
+        "input": "olksad twuqwej",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"xutbjm cfzdpfm\"\n}",
+        "gold": "xutbjm cfdzfns"
+    },
+    "51": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"kjixuz tyezar dyezna\"\n}",
+        "gold": "kjixuz tyfjar dhzfna"
+    },
+    "52": {
+        "input": "rakibo zlmqwe",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"ajtrkx iuvzfn\"\n}",
+        "gold": "ajtrkx iuvzfn"
+    },
+    "53": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"hdxwmj oommtx qm\"\n}",
+        "gold": "hdrxmjo mmbjxt qm"
+    },
+    "54": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"xyrbfna rdmifnf tsarfn\"\n}",
+        "gold": "xyrzfna rdgizfn tsarnz"
+    },
+    "55": {
+        "input": "fiorst zxnvqwe",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"orxwbc igwzf",
+        "gold": "orxabc igwezfn"
+    },
+    "56": {
+        "input": "blipzo akwer sui",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"kruyix jtnaf bdr\"\n}",
+        "gold": "kuryix jtfna bdr"
+    },
+    "57": {
+        "input": "brifta volek drifty",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"karlcj exunm marnhc\"\n}",
+        "gold": "karocj exunt maroch"
+    },
+    "58": {
+        "input": "gremplin zorfyl kout",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"puzvyurw ixaohu txd\"\n}",
+        "gold": "panvyurw ixaohu txdc"
+    },
+    "59": {
+        "input": "chipda vincal jantroff",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"lqrsmj urvjal sjaxcoyo\"\n}",
+        "gold": "lqrymj erwlju sjwcaxoo"
+    },
+    "60": {
+        "input": "siwind ferplom kilter",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"brpvwm onuxvvy trutna\"\n}",
+        "gold": "brfrwm onayuxv trucna"
+    },
+    "61": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"rrxfn zfuna yxeow ijif\"\n}",
+        "gold": "rrxfn zfuna yxewo gjif"
+    },
+    "62": {
+        "input": "qwlar opivn mdtar",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"zfujk xyrea wmjka\"\n}",
+        "gold": "zfuja xyrew vmcja"
+    },
+    "63": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"arxcy klgew yxjbm znaf\"\n}",
+        "gold": "ardyc klgwe yxjbm zfna"
+    },
+    "64": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"tuexf vwkdj zndwc\"\n}",
+        "gold": "tuifx vwkel zfncx"
+    },
+    "65": {
+        "input": "rewquy savcx wepoi",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"anfdxd bjeld fnxrx\"\n}",
+        "gold": "anfzdh bjelg fnyxr"
+    },
+    "66": {
+        "input": "mngtr opqwe laskf",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"vwpfu xyvfn ujbrn\"\n}",
+        "gold": "vwpca xyzfn ujbto"
+    },
+    "67": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"yrzxf jbmda vglwe znaf\"\n}",
+        "gold": "yrzfx jbmda vglew zfna"
+    },
+    "68": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"rnxdz zfna cmlanx vuytx\"\n}",
+        "gold": "rnxda zfnac jbmany vuyxt"
+    },
+    "69": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"yxrnx glekw vnfca zuyjb\"\n}",
+        "gold": "yxrnx glekw vfnac zuyjb"
+    },
+    "70": {
+        "input": "weruvx piwoew laors",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"fneeda yrxnxf ujxab\"\n}",
+        "gold": "fnadeg yrfxnf ujxab"
+    },
+    "71": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"gwldb fnaac yuxrb znafbr\"\n}",
+        "gold": "gwldi fnzac yuxrb zfnaxr"
+    },
+    "72": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"nzbzx jrmor sfdac\"\n}",
+        "gold": "nfazx jbmros zfnac"
+    },
+    "73": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"zfnrd igewe vxyan yuxjz\"\n}",
+        "gold": "zfnrd iglew vyxan yuxjz"
+    },
+    "74": {
+        "input": "zxcme jter",
+        "shift": 9,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"j\",\n    \"b\": \"k\",\n    \"c\": \"l\",\n    \"d\": \"m\",\n    \"e\": \"n\",\n    \"f\": \"o\",\n    \"g\": \"p\",\n    \"h\": \"q\",\n    \"i\": \"r\",\n    \"j\": \"s\",\n    \"k\": \"t\",\n    \"l\": \"u\",\n    \"m\": \"v\",\n    \"n\": \"w\",\n    \"o\": \"x\",\n    \"p\": \"y\",\n    \"q\": \"z\",\n    \"r\": \"a\",\n    \"s\": \"b\",\n    \"t\": \"c\",\n    \"u\": \"d\",\n    \"v\": \"e\",\n    \"w\": \"f\",\n    \"x\": \"g\",\n    \"y\": \"h\",\n    \"z\": \"i\"\n  },\n  \"cipher_text\": \"gmlvn sctna\"\n}",
+        "gold": "iglvn scna"
+    },
+    "75": {
+        "input": "olksad twuqwej",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"axwemq fieicqrv\"\n}",
+        "gold": "axwemp figciqv"
+    },
+    "76": {
+        "input": "bazolq kpwari uyqwer",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"nmlaxc wbcmdt gkcims\"\n}",
+        "gold": "nmlaxc wbimdu gkciqd"
+    },
+    "77": {
+        "input": "rakibo zlmqwe",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"dmwuda nxyaqi\"\n}",
+        "gold": "dmwuna lxyciq"
+    },
+    "78": {
+        "input": "yuiodaf ddsaok hd",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"kguepmr ppemaw tp\"\n}",
+        "gold": "kguapmr ppemaw tp"
+    },
+    "79": {
+        "input": "opiqwer iuxzqwe kjrieq",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"abucies uiflcis wvduic\"\n}",
+        "gold": "abuciqd ugjlciq wvduqc"
+    },
+    "80": {
+        "input": "fiorst zxnvqwe",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"tuaedf lzbhyiq\"\n}",
+        "gold": "ruadef ljzhciq"
+    },
+    "81": {
+        "input": "blipzo akwer sui",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"nxubla mwyqd egu\"\n}",
+        "gold": "nxubla mwiqd egu"
+    },
+    "82": {
+        "input": "brifta volek drifty",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"ndulfm xqxwq pduvfk\"\n}",
+        "gold": "ndurfm haxqw pdurfk"
+    },
+    "83": {
+        "input": "gremplin zorfyl kout",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"sdsybxuz ladhqz wagf\"\n}",
+        "gold": "sdqybxuz ladrkx wagf"
+    },
+    "84": {
+        "input": "chipda vincal jantroff",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"otubpm xupomx vmbfzbrr\"\n}",
+        "gold": "otubpm huzomx vmzfdarr"
+    },
+    "85": {
+        "input": "siwind ferplom kilter",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"eueyzp rqdxbay wuxfqd\"\n}",
+        "gold": "euiuzp rqdbxay wuxfqd"
+    },
+    "86": {
+        "input": "iiowe qwler povnf xazw",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"uuciq cixqd bahlr lmli\"\n}",
+        "gold": "uuaiq cixqd bahzr jmli"
+    },
+    "87": {
+        "input": "qwlar opivn mdtar",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"icxmd abxhz ypfmd\"\n}",
+        "gold": "cixmd abuhz ypfmd"
+    },
+    "88": {
+        "input": "riupt bcxnv poasd qwer",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"dugbf nplzh bcmep iq",
+        "gold": "dugbf nojzh bamep ciqd"
+    },
+    "89": {
+        "input": "klzwo mnbvc qweto",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"wxiah yznoh iqiag\"\n}",
+        "gold": "wxlia yznho ciqfa"
+    },
+    "90": {
+        "input": "rewquy savcx wepoi",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"dqiwic emhoj iqbau\"\n}",
+        "gold": "dqicgk emhoj iqbau"
+    },
+    "91": {
+        "input": "mngtr opqwe laskf",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"yzsfd abima xmewc\"\n}",
+        "gold": "yzsfd abciq xmewr"
+    },
+    "92": {
+        "input": "piqwo asdur mxcvn qwer",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"bucia mepgd yjohz iqgd\"\n}",
+        "gold": "bucia mepgd yjohz ciqd"
+    },
+    "93": {
+        "input": "ieour qwert asdrep mlpok",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"uqagd iiems mepdqb yxbaw\"\n}",
+        "gold": "uqagd ciqdf mepdqb yxbaw"
+    },
+    "94": {
+        "input": "poieo xcvbn mwert qlpas",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"bawqa jophz yiqfd cbmne\"\n}",
+        "gold": "bauqa johnz yiqdf cxbme"
+    },
+    "95": {
+        "input": "weruvx piwoew laors",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"iqxghj buiaqi xmade\"\n}",
+        "gold": "iqdghj buiaqi xmade"
+    },
+    "96": {
+        "input": "xncuz weqrt plois qweroi",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"jzogo iacdf bxauu ciaqau\"\n}",
+        "gold": "jzogl iqcdf bxaue ciqdau"
+    },
+    "97": {
+        "input": "ewrqo asdifj qwert",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"qidca mepuvr cizfd\"\n}",
+        "gold": "qidca mepurv ciqdf"
+    },
+    "98": {
+        "input": "qweiu zxcvn mpore ploaq",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"iisoq ljpih ybadr bxdmc\"\n}",
+        "gold": "ciqug ljohz ybadq bxamc"
+    },
+    "99": {
+        "input": "zxcme jter",
+        "shift": 12,
+        "output": "{\n  \"lookup_table\": {\n    \"a\": \"m\",\n    \"b\": \"n\",\n    \"c\": \"o\",\n    \"d\": \"p\",\n    \"e\": \"q\",\n    \"f\": \"r\",\n    \"g\": \"s\",\n    \"h\": \"t\",\n    \"i\": \"u\",\n    \"j\": \"v\",\n    \"k\": \"w\",\n    \"l\": \"x\",\n    \"m\": \"y\",\n    \"n\": \"z\",\n    \"o\": \"a\",\n    \"p\": \"b\",\n    \"q\": \"c\",\n    \"r\": \"d\",\n    \"s\": \"e\",\n    \"t\": \"f\",\n    \"u\": \"g\",\n    \"v\": \"h\",\n    \"w\": \"i\",\n    \"x\": \"j\",\n    \"y\": \"k\",\n    \"z\": \"l\"\n  },\n  \"cipher_text\": \"ljyqo vfqpd\"\n}",
+        "gold": "ljoyq vfqd"
+    }
+}
