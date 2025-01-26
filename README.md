@@ -17,10 +17,10 @@ Data location: [data/](data/)
 Code: [evaluation.ipynb](evaluation.ipynb)
 
 ### Evaluation scores
-* scores for GPT-4o: [evaluation_scores_gpt-4o.csv](evaluation_scores_gpt-4o.csv)
-* scores for LLaMA3.1 models: [evaluation_scores_llama.csv](evaluation_scores_llama.csv)
-* scores for Qwen models: [evaluation_scores_qwen.csv](evaluation_scores_qwen.csv)
-* scores for tokens in different positions: [evaluation_scores_position.csv](evaluation_scores_position.csv)
+* Scores for GPT-4o: [evaluation_scores_gpt-4o.csv](evaluation_scores_gpt-4o.csv)
+* Scores for LLaMA3.1 models: [evaluation_scores_llama.csv](evaluation_scores_llama.csv)
+* Scores for Qwen models: [evaluation_scores_qwen.csv](evaluation_scores_qwen.csv)
+* Scores for tokens in different positions: [evaluation_scores_position.csv](evaluation_scores_position.csv)
 
 ## Disclaimer
 This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
