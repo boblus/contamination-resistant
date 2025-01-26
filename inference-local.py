@@ -24,10 +24,7 @@ prompts_decode = {
     }
 
 for pretrained in [
-    'Qwen/QwQ-32B-Preview',
-    '/storage/ukp/shared/shared_model_weights/models--Qwen2.5-32B-Instruct',
-    '/storage/ukp/shared/shared_model_weights/models--llama-3.1/hf/8B-Instruct/',
-    '/storage/ukp/shared/shared_model_weights/models--llama-3.1/hf/70B-Instruct/'
+    'Qwen/QwQ-32B-Preview'
 ]:
 
     accelerator = Accelerator()
@@ -41,7 +38,6 @@ for pretrained in [
     tokenizer.add_special_tokens({'pad_token': '<|end_of_text|>'})
     model = AutoModelForCausalLM.from_pretrained(pretrained, quantization_config=bnb_config, local_files_only=True)
     model = accelerator.prepare(model)
-    pretrained = pretrained.replace('/storage/ukp/shared/shared_model_weights/', '')
 
     for setting in ['decrypt', 'encrypt']:
         for type_of_plain_text in ['natural', 'random']: ## check here
