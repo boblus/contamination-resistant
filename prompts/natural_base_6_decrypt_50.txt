@@ -1,0 +1,152 @@
+Decode the following Caesar cipher text. The shift is 6. Output the plain text only. Here are some examples:
+
+cipher text: robk gtj rkz robk
+plain text: live and let live
+
+cipher text: gmgotyz grr ujjy
+plain text: against all odds
+
+cipher text: hkeutj znk nuxofut
+plain text: beyond the horizon
+
+cipher text: znxuamn znoiq gtj znot
+plain text: through thick and thin
+
+cipher text: zosk nkgry grr cuatjy
+plain text: time heals all wounds
+
+cipher text: yzge zxak zu euaxykrl
+plain text: stay true to yourself
+
+cipher text: g hrkyyotm ot joymaoyk
+plain text: a blessing in disguise
+
+cipher text: znk igrs hkluxk znk yzuxs
+plain text: the calm before the storm
+
+cipher text: ubkxiusotm uhyzgirky hxgbkre
+plain text: overcoming obstacles bravely
+
+cipher text: cnoyvkxy ul znk cotj
+plain text: whispers of the wind
+
+cipher text: huatjrkyy vuzktzogr gcgozy
+plain text: boundless potential awaits
+
+cipher text: ykixkzy ul znk atobkxyk
+plain text: secrets of the universe
+
+cipher text: iuaxgmk zu lgik ingrrktmky
+plain text: courage to face challenges
+
+cipher text: vkgiklar iukdoyzktik
+plain text: peaceful coexistence
+
+cipher text: iaxouyoze rkgjy znk cge
+plain text: curiosity leads the way
+
+cipher text: kyyktik ul yosvroioze
+plain text: essence of simplicity
+
+cipher text: vkxykbkxgtik yngvky jkyzote
+plain text: perseverance shapes destiny
+
+cipher text: ykkqotm nojjkt zxazny
+plain text: seeking hidden truths
+
+cipher text: kshxgiotm rolk'y puaxtke
+plain text: embracing life's journey
+
+cipher text: ngxbkyzotm ottkx yzxktmzn
+plain text: harvesting inner strength
+
+cipher text: susktzy ul zxgtwaoroze
+plain text: moments of tranquility
+
+cipher text: hruyyusy ul nuvk
+plain text: blossoms of hope
+
+cipher text: ngxsute ot inguy
+plain text: harmony in chaos
+
+cipher text: vgyyout omtozky ixkgzoboze
+plain text: passion ignites creativity
+
+cipher text: xktkcgr znxuamn ingtmk
+plain text: renewal through change
+
+cipher text: otlotozk uvvuxzatozoky
+plain text: infinite opportunities
+
+cipher text: tgbomgzotm znxuamn atikxzgotze
+plain text: navigating through uncertainty
+
+cipher text: coyjus znxuamn kdvkxoktik
+plain text: wisdom through experience
+
+cipher text: xklrkizouty ul znk yuar
+plain text: reflections of the soul
+
+cipher text: joyiubkxotm nojjkt vgzny
+plain text: discovering hidden paths
+
+cipher text: gjbktzaxk ot kbkxe yzkv
+plain text: adventure in every step
+
+cipher text: g vokik ul znk vaffrk lgrry otzu vrgik
+plain text: a piece of the puzzle falls into place
+
+cipher text: cuxzn znk klluxz ot znk rutm xat
+plain text: worth the effort in the long run
+
+cipher text: nkgrotm znxuamn gxz
+plain text: healing through art
+
+cipher text: kinuky ul znk vgyz
+plain text: echoes of the past
+
+cipher text: gcgqktotm ottkx yvoxoz
+plain text: awakening inner spirit
+
+cipher text: maojotm romnz coznot
+plain text: guiding light within
+
+cipher text: xkyoroktik ul znk nasgt yvoxoz
+plain text: resilience of the human spirit
+
+cipher text: seyzkxoky ul znk sotj
+plain text: mysteries of the mind
+
+cipher text: huatjgxoky ul osgmotgzout
+plain text: boundaries of imagination
+
+cipher text: buoiky ul znk nkgxz
+plain text: voices of the heart
+
+cipher text: puaxtke zucgxjy atjkxyzgtjotm
+plain text: journey towards understanding
+
+cipher text: ot yeti cozn znk iuysuy
+plain text: in sync with the cosmos
+
+cipher text: vuzktzogry ul znk lazaxk
+plain text: potentials of the future
+
+cipher text: boyouty ul zusuxxuc
+plain text: visions of tomorrow
+
+cipher text: kshxgiotm jobkxyk vkxyvkizobky
+plain text: embracing diverse perspectives
+
+cipher text: mktzrk yzxktmzn
+plain text: gentle strength
+
+cipher text: yngjucy ul juahz
+plain text: shadows of doubt
+
+cipher text: susktzy ul irgxoze
+plain text: moments of clarity
+
+cipher text: waokz yzxktmzn coznot
+plain text: quiet strength within
+
