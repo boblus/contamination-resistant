@@ -2,7 +2,7 @@
 
 Decode the following Caesar cipher text. The shift is 3. udnler coptzh
 
-**`INTERMEDIATE REASONING CHAIN`**
+**`INTERMEDIATE REASONING CHAIN`** (324 seconds)
 
 >Okay, so I need to decode this Caesar cipher text: "udnler coptzh". The shift is 3. Hmm, Caesar cipher shifts each letter by a certain number. Since it's a cipher, shifting forward or backward? Wait, usually in Caesar cipher, encryption is done by shifting letters forward in the alphabet. So to decrypt, we need to shift them backward by the same amount. Let me confirm.
 >
