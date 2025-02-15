@@ -2,7 +2,7 @@
 
 Encode the following text to a Caesar cipher. The shift is 3. rakibo zlmqwe
 
-**`INTERMEDIATE REASONING CHAIN`** (60 seconds)
+**`INTERMEDIATE REASONING CHAIN`** (Thought for 60 seconds)
 
 > Okay, so the user wants me to encode "rakibo zlmqwe" using a Caesar cipher with a shift of 3. Let me start by recalling how Caesar ciphers work. Each letter in the plaintext is shifted down the alphabet by a certain number of places, which in this case is 3.
 > 
